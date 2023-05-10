@@ -1,0 +1,14 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1989,Week 1,1989-07-07,REG,1,6,Detroit Drive,2,Chicago Bruisers,40,28,False,6622,53
+1989,Week 1,1989-07-08,REG,1,1,Maryland Commandos,4,Denver Dynamite,15,20,False,6435,54
+1989,Week 2,1989-07-14,REG,2,4,Denver Dynamite,5,Pittsburgh Gladiators,18,28,False,4373,55
+1989,Week 2,1989-07-15,REG,2,6,Detroit Drive,1,Maryland Commandos,39,7,False,3132,56
+1989,Week 3,1989-07-21,REG,3,4,Denver Dynamite,6,Detroit Drive,15,14,False,6834,57
+1989,Week 3,1989-07-22,REG,3,5,Pittsburgh Gladiators,2,Chicago Bruisers,47,38,False,7182,58
+1989,Week 4,1989-07-28,REG,4,6,Detroit Drive,5,Pittsburgh Gladiators,61,34,False,3412,59
+1989,Week 4,1989-07-29,REG,4,2,Chicago Bruisers,1,Maryland Commandos,61,27,False,7301,60
+1989,Week 5,1989-08-04,REG,5,4,Denver Dynamite,2,Chicago Bruisers,41,40,False,7256,61
+1989,Week 5,1989-08-05,REG,5,5,Pittsburgh Gladiators,1,Maryland Commandos,50,30,False,4512,62
+1989,Playoffs Week 1,1989-08-11,POST,1,2,Chicago Bruisers,6,Detroit Drive,10,43,False,6457,63
+1989,Playoffs Week 1,1989-08-12,POST,1,4,Denver Dynamite,5,Pittsburgh Gladiators,37,39,False,5417,64
+1989,ArenaBowl III,1989-08-18,POST,2,5,Pittsburgh Gladiators,6,Detroit Drive,26,39,False,12046,65

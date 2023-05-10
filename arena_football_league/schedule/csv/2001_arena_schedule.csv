@@ -1,0 +1,164 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2001,Preseason Week 1,2001-03-23,PRE,1,70,Toronto Phantoms,25,San Jose SaberCats,33,56,False,10803,1293
+2001,Preseason Week 1,2001-03-26,PRE,1,12,Tampa Bay Storm,42,Buffalo Destroyers,49,27,False,6200,1283
+2001,Preseason Week 1,2001-03-26,PRE,1,47,Oklahoma Wranglers,45,Carolina Cobras,29,42,False,4308,1287
+2001,Preseason Week 1,2001-03-29,PRE,1,40,Grand Rapids Rampage,87,New Jersey Gladiators,55,40,False,6603,
+2001,Preseason Week 1,2001-03-29,PRE,1,32,Florida Bobcats,41,Houston ThunderBears,34,30,False,1000,1524
+2001,Preseason Week 1,2001-03-30,PRE,1,44,Los Angeles Avengers,36,Nashville Kats,40,18,False,7851,1289
+2001,Preseason Week 1,2001-03-30,PRE,1,64,Chicago Rush,21,Arizona Rattlers,46,58,False,8553,1521
+2001,Preseason Week 1,2001-03-31,PRE,1,46,Detroit Fury,22,Milwaukee Mustangs,21,53,False,,
+2001,Preseason Week 1,2001-03-31,PRE,1,71,Indiana Firebirds,13,Orlando Predators,27,22,False,12591,1291
+2001,Preseason Week 2,2001-04-02,PRE,2,72,New York Dragons,70,Toronto Phantoms,35,67,False,9397,1522
+2001,Preseason Week 2,2001-04-05,PRE,2,25,San Jose SaberCats,45,Carolina Cobras,59,47,False,8352,1294
+2001,Preseason Week 2,2001-04-05,PRE,2,21,Arizona Rattlers,44,Los Angeles Avengers,51,38,False,5254,1290
+2001,Preseason Week 2,2001-04-06,PRE,2,36,Nashville Kats,40,Grand Rapids Rampage,41,60,False,5423,
+2001,Preseason Week 2,2001-04-06,PRE,2,46,Detroit Fury,64,Chicago Rush,22,52,False,6426,
+2001,Preseason Week 2,2001-04-07,PRE,2,13,Orlando Predators,12,Tampa Bay Storm,50,55,False,8224,
+2001,Preseason Week 2,2001-04-07,PRE,2,41,Houston ThunderBears,71,Indiana Firebirds,37,41,False,8192,
+2001,Preseason Week 2,2001-04-07,PRE,2,42,Buffalo Destroyers,47,Oklahoma Wranglers,41,49,False,6147,
+2001,Preseason Week 2,2001-04-08,PRE,2,87,New Jersey Gladiators,72,New York Dragons,49,69,False,,
+2001,Preseason Week 2,2001-04-08,PRE,2,32,Florida Bobcats,22,Milwaukee Mustangs,76,55,False,,
+2001,Week 1,2001-04-13,REG,1,13,Orlando Predators,36,Nashville Kats,25,50,False,9368,1150
+2001,Week 1,2001-04-14,REG,1,40,Grand Rapids Rampage,71,Indiana Firebirds,60,59,True,11379,1151
+2001,Week 1,2001-04-14,REG,1,32,Florida Bobcats,12,Tampa Bay Storm,41,63,False,10123,1152
+2001,Week 1,2001-04-14,REG,1,45,Carolina Cobras,87,New Jersey Gladiators,52,21,False,3542,1156
+2001,Week 1,2001-04-14,REG,1,41,Houston ThunderBears,47,Oklahoma Wranglers,28,38,False,6713,1154
+2001,Week 1,2001-04-14,REG,1,44,Los Angeles Avengers,25,San Jose SaberCats,30,52,False,13803,1155
+2001,Week 1,2001-04-14,REG,1,42,Buffalo Destroyers,70,Toronto Phantoms,61,54,False,10023,1153
+2001,Week 2,2001-04-19,REG,2,71,Indiana Firebirds,22,Milwaukee Mustangs,38,6,False,10103,1160
+2001,Week 2,2001-04-19,REG,2,41,Houston ThunderBears,44,Los Angeles Avengers,58,48,False,7229,1157
+2001,Week 2,2001-04-20,REG,2,46,Detroit Fury,45,Carolina Cobras,52,79,False,10053,1158
+2001,Week 2,2001-04-20,REG,2,32,Florida Bobcats,13,Orlando Predators,38,25,False,11541,1159
+2001,Week 2,2001-04-20,REG,2,87,New Jersey Gladiators,42,Buffalo Destroyers,28,39,False,10212,1161
+2001,Week 2,2001-04-21,REG,2,70,Toronto Phantoms,72,New York Dragons,68,58,False,11216,1183
+2001,Week 2,2001-04-21,REG,2,36,Nashville Kats,12,Tampa Bay Storm,40,45,False,10530,1162
+2001,Week 2,2001-04-21,REG,2,64,Chicago Rush,47,Oklahoma Wranglers,44,45,False,7938,1163
+2001,Week 2,2001-04-21,REG,2,21,Arizona Rattlers,25,San Jose SaberCats,37,48,False,14163,1164
+2001,Week 3,2001-04-27,REG,3,42,Buffalo Destroyers,72,New York Dragons,58,70,False,8381,1165
+2001,Week 3,2001-04-27,REG,3,13,Orlando Predators,71,Indiana Firebirds,50,66,False,10322,1168
+2001,Week 3,2001-04-27,REG,3,70,Toronto Phantoms,87,New Jersey Gladiators,28,25,False,2127,1166
+2001,Week 3,2001-04-27,REG,3,21,Arizona Rattlers,44,Los Angeles Avengers,49,21,False,7493,1167
+2001,Week 3,2001-04-28,REG,3,47,Oklahoma Wranglers,46,Detroit Fury,42,50,False,12148,1169
+2001,Week 3,2001-04-28,REG,3,36,Nashville Kats,32,Florida Bobcats,46,26,False,2268,1170
+2001,Week 3,2001-04-28,REG,3,45,Carolina Cobras,64,Chicago Rush,38,41,False,10732,1172
+2001,Week 3,2001-04-28,REG,3,25,San Jose SaberCats,41,Houston ThunderBears,62,57,False,4553,1173
+2001,Week 3,2001-04-29,REG,3,22,Milwaukee Mustangs,40,Grand Rapids Rampage,42,50,False,9046,1171
+2001,Week 4,2001-05-03,REG,4,44,Los Angeles Avengers,32,Florida Bobcats,53,61,False,1154,1174
+2001,Week 4,2001-05-03,REG,4,87,New Jersey Gladiators,36,Nashville Kats,28,38,False,8804,1175
+2001,Week 4,2001-05-04,REG,4,42,Buffalo Destroyers,45,Carolina Cobras,57,59,False,10559,1176
+2001,Week 4,2001-05-04,REG,4,12,Tampa Bay Storm,22,Milwaukee Mustangs,66,47,False,10472,1177
+2001,Week 4,2001-05-05,REG,4,72,New York Dragons,71,Indiana Firebirds,73,85,False,10027,1178
+2001,Week 4,2001-05-05,REG,4,41,Houston ThunderBears,21,Arizona Rattlers,38,53,False,12449,1181
+2001,Week 4,2001-05-05,REG,4,47,Oklahoma Wranglers,25,San Jose SaberCats,17,73,False,13471,1182
+2001,Week 4,2001-05-05,REG,4,40,Grand Rapids Rampage,70,Toronto Phantoms,62,45,False,6503,1179
+2001,Week 4,2001-05-06,REG,4,64,Chicago Rush,46,Detroit Fury,39,49,False,8120,1180
+2001,Week 5,2001-05-11,REG,5,45,Carolina Cobras,40,Grand Rapids Rampage,38,41,False,7235,1184
+2001,Week 5,2001-05-11,REG,5,46,Detroit Fury,87,New Jersey Gladiators,20,57,False,3500,1185
+2001,Week 5,2001-05-11,REG,5,32,Florida Bobcats,42,Buffalo Destroyers,48,56,False,6531,1189
+2001,Week 5,2001-05-12,REG,5,25,San Jose SaberCats,72,New York Dragons,58,62,False,8783,1188
+2001,Week 5,2001-05-12,REG,5,70,Toronto Phantoms,12,Tampa Bay Storm,33,70,False,12654,1190
+2001,Week 5,2001-05-12,REG,5,71,Indiana Firebirds,64,Chicago Rush,64,72,False,7341,1191
+2001,Week 5,2001-05-12,REG,5,22,Milwaukee Mustangs,41,Houston ThunderBears,43,62,False,3127,1187
+2001,Week 5,2001-05-12,REG,5,21,Arizona Rattlers,47,Oklahoma Wranglers,50,42,False,9478,1192
+2001,Week 5,2001-05-13,REG,5,36,Nashville Kats,13,Orlando Predators,30,34,False,11741,1186
+2001,Week 6,2001-05-18,REG,6,72,New York Dragons,45,Carolina Cobras,49,56,False,11051,1193
+2001,Week 6,2001-05-18,REG,6,87,New Jersey Gladiators,13,Orlando Predators,47,58,False,11734,1194
+2001,Week 6,2001-05-18,REG,6,12,Tampa Bay Storm,46,Detroit Fury,41,14,False,9811,1198
+2001,Week 6,2001-05-18,REG,6,41,Houston ThunderBears,42,Buffalo Destroyers,55,57,False,6745,1195
+2001,Week 6,2001-05-18,REG,6,25,San Jose SaberCats,22,Milwaukee Mustangs,69,55,False,10082,1196
+2001,Week 6,2001-05-18,REG,6,44,Los Angeles Avengers,36,Nashville Kats,27,64,False,10009,1197
+2001,Week 6,2001-05-19,REG,6,40,Grand Rapids Rampage,64,Chicago Rush,54,52,False,6924,1200
+2001,Week 6,2001-05-19,REG,6,47,Oklahoma Wranglers,70,Toronto Phantoms,38,72,False,5183,1199
+2001,Week 6,2001-05-20,REG,6,71,Indiana Firebirds,21,Arizona Rattlers,43,37,False,12772,1201
+2001,Week 7,2001-05-25,REG,7,46,Detroit Fury,71,Indiana Firebirds,35,38,False,10509,1202
+2001,Week 7,2001-05-25,REG,7,87,New Jersey Gladiators,72,New York Dragons,49,71,False,8336,1205
+2001,Week 7,2001-05-25,REG,7,64,Chicago Rush,22,Milwaukee Mustangs,69,46,False,10907,1204
+2001,Week 7,2001-05-26,REG,7,70,Toronto Phantoms,32,Florida Bobcats,44,51,False,2111,1206
+2001,Week 7,2001-05-26,REG,7,36,Nashville Kats,41,Houston ThunderBears,49,46,False,2417,1203
+2001,Week 7,2001-05-26,REG,7,42,Buffalo Destroyers,21,Arizona Rattlers,14,50,False,12062,1209
+2001,Week 7,2001-05-26,REG,7,47,Oklahoma Wranglers,44,Los Angeles Avengers,33,36,False,6813,1210
+2001,Week 7,2001-05-26,REG,7,13,Orlando Predators,25,San Jose SaberCats,59,35,False,14366,1208
+2001,Week 7,2001-05-27,REG,7,12,Tampa Bay Storm,40,Grand Rapids Rampage,66,41,False,10022,1207
+2001,Week 8,2001-06-01,REG,8,42,Buffalo Destroyers,87,New Jersey Gladiators,51,31,False,3082,1211
+2001,Week 8,2001-06-01,REG,8,45,Carolina Cobras,12,Tampa Bay Storm,51,58,True,13942,1214
+2001,Week 8,2001-06-01,REG,8,32,Florida Bobcats,36,Nashville Kats,41,51,False,10882,1212
+2001,Week 8,2001-06-02,REG,8,70,Toronto Phantoms,13,Orlando Predators,22,70,False,11626,1215
+2001,Week 8,2001-06-02,REG,8,46,Detroit Fury,40,Grand Rapids Rampage,41,45,False,8275,1213
+2001,Week 8,2001-06-02,REG,8,41,Houston ThunderBears,64,Chicago Rush,43,48,False,7604,1216
+2001,Week 8,2001-06-02,REG,8,22,Milwaukee Mustangs,47,Oklahoma Wranglers,38,52,False,7925,1217
+2001,Week 8,2001-06-02,REG,8,25,San Jose SaberCats,44,Los Angeles Avengers,44,47,False,6874,1218
+2001,Week 8,2001-06-03,REG,8,21,Arizona Rattlers,72,New York Dragons,41,59,False,8510,1219
+2001,Week 9,2001-06-07,REG,9,71,Indiana Firebirds,70,Toronto Phantoms,45,34,False,7003,1220
+2001,Week 9,2001-06-08,REG,9,87,New Jersey Gladiators,45,Carolina Cobras,22,68,False,12136,1221
+2001,Week 9,2001-06-08,REG,9,22,Milwaukee Mustangs,46,Detroit Fury,22,58,False,8387,1222
+2001,Week 9,2001-06-08,REG,9,72,New York Dragons,42,Buffalo Destroyers,51,58,False,7991,1223
+2001,Week 9,2001-06-08,REG,9,40,Grand Rapids Rampage,36,Nashville Kats,60,54,False,10936,1225
+2001,Week 9,2001-06-09,REG,9,64,Chicago Rush,32,Florida Bobcats,58,51,False,2411,1227
+2001,Week 9,2001-06-09,REG,9,44,Los Angeles Avengers,41,Houston ThunderBears,48,45,False,5225,1224
+2001,Week 9,2001-06-09,REG,9,47,Oklahoma Wranglers,21,Arizona Rattlers,27,69,False,12529,1228
+2001,Week 9,2001-06-10,REG,9,12,Tampa Bay Storm,13,Orlando Predators,45,57,False,13691,1226
+2001,Week 10,2001-06-15,REG,10,64,Chicago Rush,71,Indiana Firebirds,30,58,False,11652,1229
+2001,Week 10,2001-06-15,REG,10,32,Florida Bobcats,87,New Jersey Gladiators,54,51,False,3112,1230
+2001,Week 10,2001-06-15,REG,10,21,Arizona Rattlers,12,Tampa Bay Storm,55,49,True,14228,1232
+2001,Week 10,2001-06-16,REG,10,13,Orlando Predators,72,New York Dragons,74,63,False,10304,1231
+2001,Week 10,2001-06-16,REG,10,47,Oklahoma Wranglers,41,Houston ThunderBears,78,52,False,3606,1233
+2001,Week 10,2001-06-16,REG,10,40,Grand Rapids Rampage,22,Milwaukee Mustangs,50,62,False,10562,1234
+2001,Week 10,2001-06-16,REG,10,46,Detroit Fury,44,Los Angeles Avengers,49,48,True,7930,1235
+2001,Week 10,2001-06-16,REG,10,36,Nashville Kats,25,San Jose SaberCats,57,58,True,14001,1236
+2001,Week 10,2001-06-17,REG,10,45,Carolina Cobras,42,Buffalo Destroyers,53,44,False,8315,1237
+2001,Week 11,2001-06-22,REG,11,41,Houston ThunderBears,45,Carolina Cobras,58,52,True,12684,1238
+2001,Week 11,2001-06-22,REG,11,22,Milwaukee Mustangs,13,Orlando Predators,45,42,False,13377,1239
+2001,Week 11,2001-06-22,REG,11,42,Buffalo Destroyers,36,Nashville Kats,48,87,False,11669,1240
+2001,Week 11,2001-06-23,REG,11,71,Indiana Firebirds,40,Grand Rapids Rampage,74,80,False,8204,1241
+2001,Week 11,2001-06-23,REG,11,46,Detroit Fury,64,Chicago Rush,47,37,False,7204,1243
+2001,Week 11,2001-06-23,REG,11,44,Los Angeles Avengers,21,Arizona Rattlers,54,48,True,13229,1245
+2001,Week 11,2001-06-23,REG,11,72,New York Dragons,70,Toronto Phantoms,49,66,False,6513,1242
+2001,Week 11,2001-06-24,REG,11,25,San Jose SaberCats,47,Oklahoma Wranglers,60,41,False,7173,1244
+2001,Week 11,2001-06-25,REG,11,12,Tampa Bay Storm,32,Florida Bobcats,67,55,False,2065,1246
+2001,Week 12,2001-06-30,REG,12,22,Milwaukee Mustangs,71,Indiana Firebirds,49,59,False,11216,1247
+2001,Week 12,2001-06-30,REG,12,72,New York Dragons,87,New Jersey Gladiators,59,36,False,3461,1248
+2001,Week 12,2001-06-30,REG,12,40,Grand Rapids Rampage,46,Detroit Fury,63,75,False,8444,1249
+2001,Week 12,2001-06-30,REG,12,36,Nashville Kats,47,Oklahoma Wranglers,73,47,False,7814,1253
+2001,Week 12,2001-06-30,REG,12,21,Arizona Rattlers,41,Houston ThunderBears,77,67,False,5150,1252
+2001,Week 12,2001-06-30,REG,12,64,Chicago Rush,44,Los Angeles Avengers,47,55,False,8476,1254
+2001,Week 12,2001-06-30,REG,12,32,Florida Bobcats,25,San Jose SaberCats,55,56,True,13987,1255
+2001,Week 12,2001-06-30,REG,12,45,Carolina Cobras,70,Toronto Phantoms,56,62,False,5311,1251
+2001,Week 12,2001-07-01,REG,12,13,Orlando Predators,12,Tampa Bay Storm,46,38,False,17634,1250
+2001,Week 13,2001-07-06,REG,13,70,Toronto Phantoms,42,Buffalo Destroyers,61,26,False,7925,1257
+2001,Week 13,2001-07-06,REG,13,46,Detroit Fury,22,Milwaukee Mustangs,55,67,False,8104,1258
+2001,Week 13,2001-07-06,REG,13,25,San Jose SaberCats,21,Arizona Rattlers,73,63,False,12165,1262
+2001,Week 13,2001-07-07,REG,13,64,Chicago Rush,40,Grand Rapids Rampage,58,79,False,8393,1260
+2001,Week 13,2001-07-07,REG,13,41,Houston ThunderBears,12,Tampa Bay Storm,47,70,False,12681,1261
+2001,Week 13,2001-07-07,REG,13,36,Nashville Kats,44,Los Angeles Avengers,40,27,False,8752,1263
+2001,Week 13,2001-07-07,REG,13,45,Carolina Cobras,72,New York Dragons,68,99,False,11324,1259
+2001,Week 13,2001-07-08,REG,13,13,Orlando Predators,32,Florida Bobcats,46,53,False,2425,1264
+2001,Week 13,2001-07-08,REG,13,71,Indiana Firebirds,87,New Jersey Gladiators,61,62,True,4361,1256
+2001,Week 14,2001-07-13,REG,14,42,Buffalo Destroyers,13,Orlando Predators,40,48,False,13765,1265
+2001,Week 14,2001-07-13,REG,14,44,Los Angeles Avengers,45,Carolina Cobras,28,66,False,13242,1268
+2001,Week 14,2001-07-13,REG,14,12,Tampa Bay Storm,36,Nashville Kats,38,45,False,13441,1266
+2001,Week 14,2001-07-14,REG,14,32,Florida Bobcats,46,Detroit Fury,30,28,False,8231,1269
+2001,Week 14,2001-07-14,REG,14,47,Oklahoma Wranglers,40,Grand Rapids Rampage,70,72,False,8720,1270
+2001,Week 14,2001-07-14,REG,14,22,Milwaukee Mustangs,64,Chicago Rush,29,34,False,8544,1272
+2001,Week 14,2001-07-14,REG,14,72,New York Dragons,21,Arizona Rattlers,62,55,False,14060,1273
+2001,Week 14,2001-07-14,REG,14,87,New Jersey Gladiators,70,Toronto Phantoms,45,52,False,7912,1271
+2001,Week 14,2001-07-15,REG,14,25,San Jose SaberCats,71,Indiana Firebirds,63,66,False,11921,1267
+2001,Week 15,2001-07-20,REG,15,70,Toronto Phantoms,45,Carolina Cobras,53,50,False,13823,1274
+2001,Week 15,2001-07-20,REG,15,40,Grand Rapids Rampage,42,Buffalo Destroyers,44,40,False,8469,1275
+2001,Week 15,2001-07-20,REG,15,21,Arizona Rattlers,22,Milwaukee Mustangs,64,47,False,10736,1276
+2001,Week 15,2001-07-21,REG,15,72,New York Dragons,32,Florida Bobcats,73,56,False,4135,1277
+2001,Week 15,2001-07-21,REG,15,87,New Jersey Gladiators,12,Tampa Bay Storm,41,44,False,19867,1278
+2001,Week 15,2001-07-21,REG,15,13,Orlando Predators,64,Chicago Rush,41,55,False,10974,1279
+2001,Week 15,2001-07-21,REG,15,41,Houston ThunderBears,25,San Jose SaberCats,27,80,False,15276,1281
+2001,Week 15,2001-07-22,REG,15,44,Los Angeles Avengers,47,Oklahoma Wranglers,42,60,False,9188,1280
+2001,Week 15,2001-07-22,REG,15,71,Indiana Firebirds,46,Detroit Fury,58,66,False,8424,1282
+2001,Playoffs Week 1,2001-07-27,POST,1,64,Chicago Rush,13,Orlando Predators,41,26,False,11062,1532
+2001,Playoffs Week 1,2001-07-27,POST,1,72,New York Dragons,70,Toronto Phantoms,57,64,False,7377,1527
+2001,Playoffs Week 1,2001-07-28,POST,1,46,Detroit Fury,21,Arizona Rattlers,44,52,False,9537,1529
+2001,Playoffs Week 1,2001-07-29,POST,1,45,Carolina Cobras,71,Indiana Firebirds,41,58,False,8240,1537
+2001,Playoffs Week 2,2001-08-03,POST,2,70,Toronto Phantoms,36,Nashville Kats,38,45,False,13722,1528
+2001,Playoffs Week 2,2001-08-04,POST,2,21,Arizona Rattlers,25,San Jose SaberCats,49,68,False,13078,1533
+2001,Playoffs Week 2,2001-08-05,POST,2,71,Indiana Firebirds,12,Tampa Bay Storm,68,31,False,12454,1536
+2001,Playoffs Week 2,2001-08-05,POST,2,64,Chicago Rush,40,Grand Rapids Rampage,21,53,False,9516,1526
+2001,Playoffs Week 3,2001-08-11,POST,3,25,San Jose SaberCats,36,Nashville Kats,47,71,False,11208,1541
+2001,Playoffs Week 3,2001-08-12,POST,3,71,Indiana Firebirds,40,Grand Rapids Rampage,70,83,False,8629,1542
+2001,ArenaBowl XV,2001-08-19,POST,4,36,Nashville Kats,40,Grand Rapids Rampage,42,64,False,11217,1543

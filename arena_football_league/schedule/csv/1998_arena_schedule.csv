@@ -1,0 +1,106 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1998,Week 1,1998-05-01,REG,1,40,Grand Rapids Rampage,13,Orlando Predators,27,42,False,13657,645
+1998,Week 1,1998-05-01,REG,1,22,Milwaukee Mustangs,32,Florida Bobcats,54,47,False,2649,653
+1998,Week 1,1998-05-01,REG,1,41,Houston ThunderBears,36,Nashville Kats,40,64,False,10080,655
+1998,Week 1,1998-05-02,REG,1,12,Tampa Bay Storm,25,San Jose SaberCats,45,23,False,14028,652
+1998,Week 1,1998-05-02,REG,1,35,Portland Forest Dragons,10,Albany Firebirds,58,65,False,10347,654
+1998,Week 1,1998-05-03,REG,1,21,Arizona Rattlers,23,Iowa Barnstormers,61,40,False,8621,651
+1998,Week 1,1998-05-04,REG,1,37,New Jersey Red Dogs,38,New York CityHawks,53,34,False,8271,650
+1998,Week 2,1998-05-08,REG,2,13,Orlando Predators,22,Milwaukee Mustangs,54,44,False,17111,648
+1998,Week 2,1998-05-08,REG,2,23,Iowa Barnstormers,40,Grand Rapids Rampage,27,45,False,10618,649
+1998,Week 2,1998-05-09,REG,2,36,Nashville Kats,12,Tampa Bay Storm,54,52,False,9336,647
+1998,Week 2,1998-05-09,REG,2,32,Florida Bobcats,41,Houston ThunderBears,35,41,False,4629,656
+1998,Week 2,1998-05-09,REG,2,38,New York CityHawks,35,Portland Forest Dragons,38,47,False,10457,657
+1998,Week 2,1998-05-09,REG,2,21,Arizona Rattlers,25,San Jose SaberCats,62,43,False,14299,658
+1998,Week 2,1998-05-11,REG,2,10,Albany Firebirds,37,New Jersey Red Dogs,52,38,False,8817,659
+1998,Week 3,1998-05-15,REG,3,37,New Jersey Red Dogs,36,Nashville Kats,42,46,False,11120,660
+1998,Week 3,1998-05-15,REG,3,23,Iowa Barnstormers,13,Orlando Predators,6,28,False,14369,661
+1998,Week 3,1998-05-16,REG,3,41,Houston ThunderBears,12,Tampa Bay Storm,25,56,False,10009,662
+1998,Week 3,1998-05-16,REG,3,25,San Jose SaberCats,10,Albany Firebirds,30,56,False,10140,663
+1998,Week 3,1998-05-16,REG,3,38,New York CityHawks,32,Florida Bobcats,42,38,False,2146,664
+1998,Week 3,1998-05-16,REG,3,22,Milwaukee Mustangs,21,Arizona Rattlers,61,62,False,15318,665
+1998,Week 3,1998-05-16,REG,3,40,Grand Rapids Rampage,35,Portland Forest Dragons,22,45,False,10975,666
+1998,Week 4,1998-05-22,REG,4,37,New Jersey Red Dogs,22,Milwaukee Mustangs,60,56,False,14144,667
+1998,Week 4,1998-05-22,REG,4,13,Orlando Predators,36,Nashville Kats,48,62,False,13182,668
+1998,Week 4,1998-05-22,REG,4,21,Arizona Rattlers,41,Houston ThunderBears,58,57,False,3812,669
+1998,Week 4,1998-05-23,REG,4,38,New York CityHawks,10,Albany Firebirds,57,46,False,10121,670
+1998,Week 4,1998-05-23,REG,4,12,Tampa Bay Storm,32,Florida Bobcats,44,29,False,2062,671
+1998,Week 4,1998-05-23,REG,4,35,Portland Forest Dragons,23,Iowa Barnstormers,53,47,False,9129,672
+1998,Week 4,1998-05-23,REG,4,40,Grand Rapids Rampage,25,San Jose SaberCats,20,49,False,13773,673
+1998,Week 5,1998-05-29,REG,5,22,Milwaukee Mustangs,40,Grand Rapids Rampage,54,41,False,9821,675
+1998,Week 5,1998-05-30,REG,5,12,Tampa Bay Storm,37,New Jersey Red Dogs,81,42,False,9583,674
+1998,Week 5,1998-05-30,REG,5,23,Iowa Barnstormers,41,Houston ThunderBears,21,55,False,3606,676
+1998,Week 5,1998-05-30,REG,5,32,Florida Bobcats,21,Arizona Rattlers,61,54,False,15677,677
+1998,Week 5,1998-05-30,REG,5,36,Nashville Kats,25,San Jose SaberCats,41,49,False,14300,678
+1998,Week 5,1998-05-31,REG,5,10,Albany Firebirds,35,Portland Forest Dragons,48,45,False,9683,679
+1998,Week 5,1998-06-01,REG,5,13,Orlando Predators,38,New York CityHawks,43,41,False,6714,680
+1998,Week 6,1998-06-05,REG,6,10,Albany Firebirds,36,Nashville Kats,52,49,False,13887,682
+1998,Week 6,1998-06-06,REG,6,38,New York CityHawks,12,Tampa Bay Storm,33,65,False,10945,684
+1998,Week 6,1998-06-06,REG,6,40,Grand Rapids Rampage,23,Iowa Barnstormers,47,48,False,9106,685
+1998,Week 6,1998-06-06,REG,6,22,Milwaukee Mustangs,35,Portland Forest Dragons,70,46,False,10309,686
+1998,Week 6,1998-06-06,REG,6,25,San Jose SaberCats,21,Arizona Rattlers,26,48,False,15838,687
+1998,Week 6,1998-06-08,REG,6,37,New Jersey Red Dogs,13,Orlando Predators,60,49,False,12758,681
+1998,Week 6,1998-06-08,REG,6,41,Houston ThunderBears,32,Florida Bobcats,36,83,False,2795,683
+1998,Week 7,1998-06-11,REG,7,21,Arizona Rattlers,35,Portland Forest Dragons,58,30,False,8209,691
+1998,Week 7,1998-06-12,REG,7,12,Tampa Bay Storm,13,Orlando Predators,42,34,False,15948,689
+1998,Week 7,1998-06-12,REG,7,23,Iowa Barnstormers,22,Milwaukee Mustangs,46,54,False,14235,690
+1998,Week 7,1998-06-13,REG,7,32,Florida Bobcats,10,Albany Firebirds,49,66,False,11503,692
+1998,Week 7,1998-06-13,REG,7,41,Houston ThunderBears,40,Grand Rapids Rampage,80,36,False,9105,693
+1998,Week 7,1998-06-14,REG,7,25,San Jose SaberCats,37,New Jersey Red Dogs,51,33,False,9136,688
+1998,Week 7,1998-06-15,REG,7,36,Nashville Kats,38,New York CityHawks,58,45,False,7146,694
+1998,Week 8,1998-06-19,REG,8,40,Grand Rapids Rampage,38,New York CityHawks,53,43,False,7768,695
+1998,Week 8,1998-06-19,REG,8,35,Portland Forest Dragons,25,San Jose SaberCats,44,48,False,14576,696
+1998,Week 8,1998-06-19,REG,8,32,Florida Bobcats,37,New Jersey Red Dogs,34,41,False,9227,697
+1998,Week 8,1998-06-20,REG,8,10,Albany Firebirds,12,Tampa Bay Storm,42,63,False,10297,698
+1998,Week 8,1998-06-20,REG,8,22,Milwaukee Mustangs,41,Houston ThunderBears,55,61,False,3879,699
+1998,Week 8,1998-06-20,REG,8,13,Orlando Predators,21,Arizona Rattlers,42,40,False,16565,700
+1998,Week 8,1998-06-22,REG,8,23,Iowa Barnstormers,36,Nashville Kats,46,43,False,10121,701
+1998,Week 9,1998-06-26,REG,9,25,San Jose SaberCats,22,Milwaukee Mustangs,76,40,False,13891,702
+1998,Week 9,1998-06-26,REG,9,32,Florida Bobcats,36,Nashville Kats,46,49,False,13089,703
+1998,Week 9,1998-06-27,REG,9,37,New Jersey Red Dogs,10,Albany Firebirds,55,48,False,9732,704
+1998,Week 9,1998-06-27,REG,9,13,Orlando Predators,12,Tampa Bay Storm,30,56,False,14125,705
+1998,Week 9,1998-06-27,REG,9,41,Houston ThunderBears,23,Iowa Barnstormers,72,65,False,9286,706
+1998,Week 9,1998-06-27,REG,9,38,New York CityHawks,40,Grand Rapids Rampage,28,43,False,9726,707
+1998,Week 9,1998-06-28,REG,9,35,Portland Forest Dragons,21,Arizona Rattlers,52,62,False,15098,708
+1998,Week 10,1998-07-02,REG,10,38,New York CityHawks,37,New Jersey Red Dogs,32,39,False,9692,709
+1998,Week 10,1998-07-02,REG,10,21,Arizona Rattlers,40,Grand Rapids Rampage,69,27,False,9109,710
+1998,Week 10,1998-07-02,REG,10,10,Albany Firebirds,23,Iowa Barnstormers,48,55,False,9173,711
+1998,Week 10,1998-07-02,REG,10,36,Nashville Kats,22,Milwaukee Mustangs,62,61,True,13874,715
+1998,Week 10,1998-07-03,REG,10,25,San Jose SaberCats,35,Portland Forest Dragons,68,45,False,10392,712
+1998,Week 10,1998-07-03,REG,10,12,Tampa Bay Storm,41,Houston ThunderBears,62,46,False,3691,713
+1998,Week 10,1998-07-05,REG,10,13,Orlando Predators,32,Florida Bobcats,53,44,False,1895,714
+1998,Week 11,1998-07-10,REG,11,36,Nashville Kats,13,Orlando Predators,22,37,False,15602,716
+1998,Week 11,1998-07-10,REG,11,35,Portland Forest Dragons,38,New York CityHawks,56,51,False,4817,717
+1998,Week 11,1998-07-10,REG,11,40,Grand Rapids Rampage,41,Houston ThunderBears,49,63,False,3532,718
+1998,Week 11,1998-07-11,REG,11,22,Milwaukee Mustangs,37,New Jersey Red Dogs,49,48,False,7574,720
+1998,Week 11,1998-07-11,REG,11,23,Iowa Barnstormers,25,San Jose SaberCats,44,41,False,15036,722
+1998,Week 11,1998-07-12,REG,11,32,Florida Bobcats,12,Tampa Bay Storm,18,59,False,11005,721
+1998,Week 11,1998-07-13,REG,11,21,Arizona Rattlers,10,Albany Firebirds,34,58,False,10221,719
+1998,Week 12,1998-07-16,REG,12,38,New York CityHawks,21,Arizona Rattlers,34,62,False,15964,723
+1998,Week 12,1998-07-17,REG,12,35,Portland Forest Dragons,13,Orlando Predators,48,66,False,15126,724
+1998,Week 12,1998-07-17,REG,12,12,Tampa Bay Storm,36,Nashville Kats,43,49,False,16121,727
+1998,Week 12,1998-07-17,REG,12,10,Albany Firebirds,25,San Jose SaberCats,56,53,False,14799,728
+1998,Week 12,1998-07-18,REG,12,41,Houston ThunderBears,22,Milwaukee Mustangs,39,27,False,14265,726
+1998,Week 12,1998-07-18,REG,12,37,New Jersey Red Dogs,23,Iowa Barnstormers,49,58,False,9613,729
+1998,Week 12,1998-07-20,REG,12,32,Florida Bobcats,40,Grand Rapids Rampage,62,55,False,9266,725
+1998,Week 13,1998-07-23,REG,13,41,Houston ThunderBears,35,Portland Forest Dragons,64,56,False,10293,730
+1998,Week 13,1998-07-23,REG,13,40,Grand Rapids Rampage,22,Milwaukee Mustangs,41,45,False,15125,731
+1998,Week 13,1998-07-25,REG,13,13,Orlando Predators,10,Albany Firebirds,70,79,False,12345,732
+1998,Week 13,1998-07-25,REG,13,25,San Jose SaberCats,38,New York CityHawks,37,54,False,5307,733
+1998,Week 13,1998-07-25,REG,13,36,Nashville Kats,32,Florida Bobcats,57,39,False,7967,734
+1998,Week 13,1998-07-25,REG,13,23,Iowa Barnstormers,12,Tampa Bay Storm,44,71,False,14007,735
+1998,Week 13,1998-07-26,REG,13,21,Arizona Rattlers,37,New Jersey Red Dogs,57,64,True,12956,736
+1998,Week 14,1998-07-31,REG,14,32,Florida Bobcats,13,Orlando Predators,52,59,False,16010,737
+1998,Week 14,1998-07-31,REG,14,10,Albany Firebirds,38,New York CityHawks,77,36,False,6617,738
+1998,Week 14,1998-07-31,REG,14,25,San Jose SaberCats,41,Houston ThunderBears,65,55,False,9734,739
+1998,Week 14,1998-08-01,REG,14,35,Portland Forest Dragons,37,New Jersey Red Dogs,52,55,False,10314,740
+1998,Week 14,1998-08-01,REG,14,12,Tampa Bay Storm,40,Grand Rapids Rampage,55,44,False,10021,741
+1998,Week 14,1998-08-01,REG,14,22,Milwaukee Mustangs,23,Iowa Barnstormers,49,35,False,9816,742
+1998,Week 14,1998-08-02,REG,14,36,Nashville Kats,21,Arizona Rattlers,55,59,False,16038,743
+1998,Playoffs Week 1,1998-08-07,POST,1,36,Nashville Kats,13,Orlando Predators,43,58,False,12766,
+1998,Playoffs Week 1,1998-08-07,POST,1,41,Houston ThunderBears,21,Arizona Rattlers,36,50,False,13151,
+1998,Playoffs Week 1,1998-08-08,POST,1,37,New Jersey Red Dogs,10,Albany Firebirds,66,59,False,10636,
+1998,Playoffs Week 1,1998-08-08,POST,1,25,San Jose SaberCats,12,Tampa Bay Storm,46,65,False,11001,
+1998,Playoffs Week 2,1998-08-14,POST,2,37,New Jersey Red Dogs,12,Tampa Bay Storm,23,49,False,10051,
+1998,Playoffs Week 2,1998-08-15,POST,2,13,Orlando Predators,21,Arizona Rattlers,38,33,False,14015,
+1998,ArenaBowl XII,1998-08-23,POST,3,13,Orlando Predators,12,Tampa Bay Storm,62,31,False,17222,750

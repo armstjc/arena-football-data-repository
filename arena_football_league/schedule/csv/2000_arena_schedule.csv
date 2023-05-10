@@ -1,0 +1,147 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2000,Preseason Week 1,2000-03-25,PRE,1,25,San Jose SaberCats,47,Oklahoma Wranglers,37,30,False,8566,
+2000,Preseason Week 1,2000-03-27,PRE,1,13,Orlando Predators,42,Buffalo Destroyers,46,30,False,6720,
+2000,Preseason Week 1,2000-03-27,PRE,1,44,Los Angeles Avengers,21,Arizona Rattlers,54,47,False,11547,
+2000,Preseason Week 1,2000-03-29,PRE,1,32,Florida Bobcats,12,Tampa Bay Storm,55,34,False,3956,
+2000,Preseason Week 1,2000-03-30,PRE,1,45,Carolina Cobras,10,Albany Firebirds,27,65,False,2646,
+2000,Preseason Week 1,2000-03-31,PRE,1,42,Buffalo Destroyers,23,Iowa Barnstormers,50,53,False,6136,
+2000,Preseason Week 1,2000-03-31,PRE,1,43,New England SeaWolves,22,Milwaukee Mustangs,42,49,False,9146,
+2000,Preseason Week 1,2000-04-01,PRE,1,40,Grand Rapids Rampage,36,Nashville Kats,22,51,False,7351,
+2000,Preseason Week 2,2000-04-05,PRE,2,12,Tampa Bay Storm,13,Orlando Predators,13,36,False,9521,
+2000,Preseason Week 2,2000-04-06,PRE,2,43,New England SeaWolves,45,Carolina Cobras,39,44,False,8621,
+2000,Preseason Week 2,2000-04-06,PRE,2,10,Albany Firebirds,22,Milwaukee Mustangs,51,32,False,8991,
+2000,Preseason Week 2,2000-04-07,PRE,2,37,New Jersey Red Dogs,40,Grand Rapids Rampage,62,47,False,5977,
+2000,Preseason Week 2,2000-04-07,PRE,2,41,Houston ThunderBears,32,Florida Bobcats,28,38,False,,
+2000,Preseason Week 2,2000-04-08,PRE,2,36,Nashville Kats,23,Iowa Barnstormers,38,45,False,4602,1133
+2000,Preseason Week 2,2000-04-08,PRE,2,21,Arizona Rattlers,25,San Jose SaberCats,38,45,False,10072,
+2000,Preseason Week 2,2000-04-09,PRE,2,47,Oklahoma Wranglers,44,Los Angeles Avengers,48,54,False,15928,
+2000,Week 1,2000-04-13,REG,1,10,Albany Firebirds,36,Nashville Kats,76,65,False,11716,878
+2000,Week 1,2000-04-14,REG,1,32,Florida Bobcats,45,Carolina Cobras,61,53,False,14123,805
+2000,Week 1,2000-04-15,REG,1,44,Los Angeles Avengers,40,Grand Rapids Rampage,31,51,False,8192,879
+2000,Week 1,2000-04-15,REG,1,37,New Jersey Red Dogs,13,Orlando Predators,21,38,False,10323,880
+2000,Week 1,2000-04-15,REG,1,43,New England SeaWolves,12,Tampa Bay Storm,41,26,False,11224,881
+2000,Week 1,2000-04-15,REG,1,42,Buffalo Destroyers,47,Oklahoma Wranglers,51,62,False,12028,883
+2000,Week 1,2000-04-15,REG,1,23,Iowa Barnstormers,21,Arizona Rattlers,48,56,False,13137,884
+2000,Week 1,2000-04-15,REG,1,41,Houston ThunderBears,25,San Jose SaberCats,14,54,False,14509,882
+2000,Week 2,2000-04-20,REG,2,40,Grand Rapids Rampage,22,Milwaukee Mustangs,52,47,False,13006,885
+2000,Week 2,2000-04-20,REG,2,45,Carolina Cobras,44,Los Angeles Avengers,58,50,False,10718,886
+2000,Week 2,2000-04-21,REG,2,21,Arizona Rattlers,37,New Jersey Red Dogs,48,41,False,5072,887
+2000,Week 2,2000-04-21,REG,2,25,San Jose SaberCats,47,Oklahoma Wranglers,64,68,False,8995,888
+2000,Week 2,2000-04-22,REG,2,43,New England SeaWolves,10,Albany Firebirds,34,41,False,11769,889
+2000,Week 2,2000-04-22,REG,2,23,Iowa Barnstormers,42,Buffalo Destroyers,56,35,False,7894,890
+2000,Week 2,2000-04-22,REG,2,12,Tampa Bay Storm,32,Florida Bobcats,30,31,False,3010,891
+2000,Week 2,2000-04-22,REG,2,36,Nashville Kats,41,Houston ThunderBears,50,35,False,3803,892
+2000,Week 3,2000-04-27,REG,3,13,Orlando Predators,45,Carolina Cobras,56,28,False,12762,893
+2000,Week 3,2000-04-28,REG,3,22,Milwaukee Mustangs,41,Houston ThunderBears,57,60,False,2964,894
+2000,Week 3,2000-04-28,REG,3,32,Florida Bobcats,36,Nashville Kats,27,34,False,10766,895
+2000,Week 3,2000-04-29,REG,3,12,Tampa Bay Storm,10,Albany Firebirds,34,67,False,9644,896
+2000,Week 3,2000-04-29,REG,3,42,Buffalo Destroyers,43,New England SeaWolves,31,58,False,7872,898
+2000,Week 3,2000-04-29,REG,3,23,Iowa Barnstormers,40,Grand Rapids Rampage,37,39,False,8316,897
+2000,Week 3,2000-04-29,REG,3,21,Arizona Rattlers,25,San Jose SaberCats,51,42,False,13409,899
+2000,Week 3,2000-05-01,REG,3,47,Oklahoma Wranglers,44,Los Angeles Avengers,59,33,False,9160,900
+2000,Week 4,2000-05-04,REG,4,45,Carolina Cobras,12,Tampa Bay Storm,29,50,False,10546,906
+2000,Week 4,2000-05-05,REG,4,10,Albany Firebirds,43,New England SeaWolves,49,52,False,5324,901
+2000,Week 4,2000-05-05,REG,4,32,Florida Bobcats,13,Orlando Predators,38,51,False,10072,902
+2000,Week 4,2000-05-05,REG,4,44,Los Angeles Avengers,47,Oklahoma Wranglers,44,65,False,9668,903
+2000,Week 4,2000-05-06,REG,4,37,New Jersey Red Dogs,42,Buffalo Destroyers,62,42,False,7526,904
+2000,Week 4,2000-05-06,REG,4,22,Milwaukee Mustangs,40,Grand Rapids Rampage,57,54,True,8146,905
+2000,Week 4,2000-05-06,REG,4,25,San Jose SaberCats,23,Iowa Barnstormers,54,52,False,10201,907
+2000,Week 4,2000-05-06,REG,4,36,Nashville Kats,21,Arizona Rattlers,66,46,False,13619,908
+2000,Week 5,2000-05-11,REG,5,44,Los Angeles Avengers,21,Arizona Rattlers,28,55,False,13103,909
+2000,Week 5,2000-05-12,REG,5,12,Tampa Bay Storm,13,Orlando Predators,43,44,False,13342,910
+2000,Week 5,2000-05-12,REG,5,36,Nashville Kats,37,New Jersey Red Dogs,49,44,False,4107,915
+2000,Week 5,2000-05-12,REG,5,42,Buffalo Destroyers,10,Albany Firebirds,23,75,False,8816,911
+2000,Week 5,2000-05-12,REG,5,43,New England SeaWolves,22,Milwaukee Mustangs,45,59,False,13597,912
+2000,Week 5,2000-05-12,REG,5,47,Oklahoma Wranglers,25,San Jose SaberCats,30,37,False,13063,913
+2000,Week 5,2000-05-13,REG,5,23,Iowa Barnstormers,41,Houston ThunderBears,73,63,False,3133,916
+2000,Week 5,2000-05-14,REG,5,45,Carolina Cobras,32,Florida Bobcats,42,47,False,2117,914
+2000,Week 6,2000-05-18,REG,6,37,New Jersey Red Dogs,12,Tampa Bay Storm,26,40,False,8741,917
+2000,Week 6,2000-05-19,REG,6,47,Oklahoma Wranglers,43,New England SeaWolves,42,49,False,5828,918
+2000,Week 6,2000-05-19,REG,6,25,San Jose SaberCats,42,Buffalo Destroyers,61,35,False,5486,919
+2000,Week 6,2000-05-19,REG,6,13,Orlando Predators,36,Nashville Kats,71,54,False,12423,920
+2000,Week 6,2000-05-19,REG,6,41,Houston ThunderBears,44,Los Angeles Avengers,51,36,False,10781,921
+2000,Week 6,2000-05-20,REG,6,21,Arizona Rattlers,10,Albany Firebirds,59,35,False,9725,922
+2000,Week 6,2000-05-20,REG,6,40,Grand Rapids Rampage,32,Florida Bobcats,48,37,False,1913,923
+2000,Week 6,2000-05-20,REG,6,22,Milwaukee Mustangs,23,Iowa Barnstormers,55,75,False,9995,924
+2000,Week 7,2000-05-25,REG,7,12,Tampa Bay Storm,23,Iowa Barnstormers,34,52,False,9133,925
+2000,Week 7,2000-05-26,REG,7,36,Nashville Kats,45,Carolina Cobras,60,28,False,13951,926
+2000,Week 7,2000-05-26,REG,7,10,Albany Firebirds,37,New Jersey Red Dogs,63,55,False,4029,927
+2000,Week 7,2000-05-26,REG,7,43,New England SeaWolves,42,Buffalo Destroyers,37,34,False,4203,928
+2000,Week 7,2000-05-26,REG,7,13,Orlando Predators,47,Oklahoma Wranglers,35,28,False,9074,929
+2000,Week 7,2000-05-26,REG,7,40,Grand Rapids Rampage,41,Houston ThunderBears,57,58,True,3133,932
+2000,Week 7,2000-05-27,REG,7,22,Milwaukee Mustangs,21,Arizona Rattlers,49,64,False,14303,930
+2000,Week 7,2000-05-27,REG,7,44,Los Angeles Avengers,25,San Jose SaberCats,25,78,False,14063,931
+2000,Week 8,2000-06-01,REG,8,25,San Jose SaberCats,21,Arizona Rattlers,55,34,False,13369,933
+2000,Week 8,2000-06-02,REG,8,45,Carolina Cobras,13,Orlando Predators,54,56,False,11540,934
+2000,Week 8,2000-06-02,REG,8,42,Buffalo Destroyers,36,Nashville Kats,29,42,False,10542,935
+2000,Week 8,2000-06-02,REG,8,23,Iowa Barnstormers,22,Milwaukee Mustangs,53,38,False,12409,940
+2000,Week 8,2000-06-03,REG,8,41,Houston ThunderBears,10,Albany Firebirds,55,62,False,10024,936
+2000,Week 8,2000-06-03,REG,8,37,New Jersey Red Dogs,40,Grand Rapids Rampage,59,52,False,8177,937
+2000,Week 8,2000-06-03,REG,8,44,Los Angeles Avengers,43,New England SeaWolves,50,46,False,6112,938
+2000,Week 8,2000-06-03,REG,8,32,Florida Bobcats,12,Tampa Bay Storm,26,77,False,12417,939
+2000,Week 9,2000-06-08,REG,9,41,Houston ThunderBears,23,Iowa Barnstormers,61,66,False,9655,941
+2000,Week 9,2000-06-09,REG,9,22,Milwaukee Mustangs,45,Carolina Cobras,63,16,False,12823,942
+2000,Week 9,2000-06-09,REG,9,40,Grand Rapids Rampage,13,Orlando Predators,46,34,False,13326,944
+2000,Week 9,2000-06-09,REG,9,43,New England SeaWolves,25,San Jose SaberCats,76,85,False,12583,945
+2000,Week 9,2000-06-10,REG,9,36,Nashville Kats,32,Florida Bobcats,60,34,False,2600,943
+2000,Week 9,2000-06-10,REG,9,10,Albany Firebirds,42,Buffalo Destroyers,48,51,True,5676,946
+2000,Week 9,2000-06-10,REG,9,47,Oklahoma Wranglers,37,New Jersey Red Dogs,40,56,False,4154,947
+2000,Week 9,2000-06-10,REG,9,21,Arizona Rattlers,44,Los Angeles Avengers,54,51,False,13964,948
+2000,Week 10,2000-06-15,REG,10,47,Oklahoma Wranglers,21,Arizona Rattlers,28,42,False,14011,954
+2000,Week 10,2000-06-16,REG,10,45,Carolina Cobras,43,New England SeaWolves,51,64,True,5232,949
+2000,Week 10,2000-06-16,REG,10,37,New Jersey Red Dogs,10,Albany Firebirds,54,61,False,9233,950
+2000,Week 10,2000-06-16,REG,10,13,Orlando Predators,22,Milwaukee Mustangs,43,35,False,14096,952
+2000,Week 10,2000-06-17,REG,10,36,Nashville Kats,12,Tampa Bay Storm,30,40,False,12546,951
+2000,Week 10,2000-06-17,REG,10,42,Buffalo Destroyers,41,Houston ThunderBears,55,44,False,4147,953
+2000,Week 10,2000-06-17,REG,10,40,Grand Rapids Rampage,25,San Jose SaberCats,45,68,False,12306,955
+2000,Week 10,2000-06-18,REG,10,32,Florida Bobcats,44,Los Angeles Avengers,49,63,False,8578,956
+2000,Week 11,2000-06-22,REG,11,25,San Jose SaberCats,22,Milwaukee Mustangs,63,60,False,11701,957
+2000,Week 11,2000-06-23,REG,11,43,New England SeaWolves,13,Orlando Predators,32,46,False,13011,958
+2000,Week 11,2000-06-23,REG,11,45,Carolina Cobras,36,Nashville Kats,31,54,False,12107,959
+2000,Week 11,2000-06-23,REG,11,44,Los Angeles Avengers,41,Houston ThunderBears,72,66,True,3219,963
+2000,Week 11,2000-06-24,REG,11,10,Albany Firebirds,32,Florida Bobcats,55,45,False,3462,960
+2000,Week 11,2000-06-24,REG,11,12,Tampa Bay Storm,40,Grand Rapids Rampage,74,54,False,9177,961
+2000,Week 11,2000-06-24,REG,11,23,Iowa Barnstormers,47,Oklahoma Wranglers,50,58,False,11359,962
+2000,Week 11,2000-06-25,REG,11,42,Buffalo Destroyers,37,New Jersey Red Dogs,79,54,False,4294,964
+2000,Week 12,2000-06-29,REG,12,25,San Jose SaberCats,40,Grand Rapids Rampage,52,32,False,7917,969
+2000,Week 12,2000-06-29,REG,12,32,Florida Bobcats,42,Buffalo Destroyers,33,36,True,8523,965
+2000,Week 12,2000-06-29,REG,12,22,Milwaukee Mustangs,44,Los Angeles Avengers,64,52,False,10991,966
+2000,Week 12,2000-06-30,REG,12,41,Houston ThunderBears,45,Carolina Cobras,59,63,False,12194,967
+2000,Week 12,2000-06-30,REG,12,37,New Jersey Red Dogs,43,New England SeaWolves,63,69,False,5720,968
+2000,Week 12,2000-06-30,REG,12,23,Iowa Barnstormers,36,Nashville Kats,56,31,False,12105,970
+2000,Week 12,2000-07-01,REG,12,13,Orlando Predators,12,Tampa Bay Storm,36,50,False,14047,971
+2000,Week 12,2000-07-03,REG,12,21,Arizona Rattlers,47,Oklahoma Wranglers,56,29,False,10171,972
+2000,Week 13,2000-07-07,REG,13,47,Oklahoma Wranglers,32,Florida Bobcats,47,22,False,2143,973
+2000,Week 13,2000-07-07,REG,13,36,Nashville Kats,13,Orlando Predators,45,41,False,13426,974
+2000,Week 13,2000-07-08,REG,13,43,New England SeaWolves,37,New Jersey Red Dogs,63,59,False,4416,975
+2000,Week 13,2000-07-08,REG,13,22,Milwaukee Mustangs,12,Tampa Bay Storm,62,52,False,13862,976
+2000,Week 13,2000-07-08,REG,13,40,Grand Rapids Rampage,23,Iowa Barnstormers,19,52,False,10610,977
+2000,Week 13,2000-07-08,REG,13,10,Albany Firebirds,41,Houston ThunderBears,48,41,False,3377,978
+2000,Week 13,2000-07-08,REG,13,45,Carolina Cobras,21,Arizona Rattlers,42,44,False,16613,979
+2000,Week 13,2000-07-08,REG,13,25,San Jose SaberCats,44,Los Angeles Avengers,75,72,False,13034,980
+2000,Week 14,2000-07-13,REG,14,21,Arizona Rattlers,43,New England SeaWolves,60,28,False,6812,981
+2000,Week 14,2000-07-14,REG,14,37,New Jersey Red Dogs,45,Carolina Cobras,47,77,False,13014,982
+2000,Week 14,2000-07-14,REG,14,44,Los Angeles Avengers,42,Buffalo Destroyers,52,60,False,10029,983
+2000,Week 14,2000-07-14,REG,14,12,Tampa Bay Storm,36,Nashville Kats,35,31,False,13612,984
+2000,Week 14,2000-07-15,REG,14,13,Orlando Predators,32,Florida Bobcats,51,35,False,4253,987
+2000,Week 14,2000-07-15,REG,14,41,Houston ThunderBears,40,Grand Rapids Rampage,56,62,False,9046,988
+2000,Week 14,2000-07-15,REG,14,10,Albany Firebirds,23,Iowa Barnstormers,76,77,False,10961,986
+2000,Week 14,2000-07-15,REG,14,47,Oklahoma Wranglers,22,Milwaukee Mustangs,39,49,False,13275,985
+2000,Week 15,2000-07-20,REG,15,40,Grand Rapids Rampage,47,Oklahoma Wranglers,17,59,False,9175,1121
+2000,Week 15,2000-07-21,REG,15,12,Tampa Bay Storm,45,Carolina Cobras,72,69,False,13762,1119
+2000,Week 15,2000-07-21,REG,15,41,Houston ThunderBears,22,Milwaukee Mustangs,46,55,False,13474,1120
+2000,Week 15,2000-07-22,REG,15,32,Florida Bobcats,37,New Jersey Red Dogs,52,57,False,4821,1122
+2000,Week 15,2000-07-22,REG,15,21,Arizona Rattlers,23,Iowa Barnstormers,58,50,False,11061,1124
+2000,Week 15,2000-07-22,REG,15,42,Buffalo Destroyers,25,San Jose SaberCats,54,83,False,15604,1123
+2000,Week 15,2000-07-23,REG,15,13,Orlando Predators,10,Albany Firebirds,61,59,False,11133,1125
+2000,Playoffs Week 1,2000-07-27,POST,1,42,Buffalo Destroyers,21,Arizona Rattlers,34,41,False,9471,992
+2000,Playoffs Week 1,2000-07-28,POST,1,47,Oklahoma Wranglers,43,New England SeaWolves,52,38,False,4411,993
+2000,Playoffs Week 1,2000-07-29,POST,1,22,Milwaukee Mustangs,12,Tampa Bay Storm,64,72,False,11737,994
+2000,Playoffs Week 1,2000-07-29,POST,1,40,Grand Rapids Rampage,36,Nashville Kats,14,57,False,14781,995
+2000,Playoffs Week 2,2000-08-03,POST,2,12,Tampa Bay Storm,13,Orlando Predators,24,34,False,13122,989
+2000,Playoffs Week 2,2000-08-04,POST,2,47,Oklahoma Wranglers,25,San Jose SaberCats,40,63,False,13306,990
+2000,Playoffs Week 2,2000-08-05,POST,2,21,Arizona Rattlers,10,Albany Firebirds,53,50,False,8634,991
+2000,Playoffs Week 2,2000-08-06,POST,2,36,Nashville Kats,23,Iowa Barnstormers,63,56,False,8860,1142
+2000,Playoffs Week 3,2000-08-12,POST,3,36,Nashville Kats,25,San Jose SaberCats,51,42,False,13663,997
+2000,Playoffs Week 3,2000-08-13,POST,3,21,Arizona Rattlers,13,Orlando Predators,44,56,False,13151,996
+2000,ArenaBowl XIV,2000-08-20,POST,4,36,Nashville Kats,13,Orlando Predators,38,41,False,15989,998

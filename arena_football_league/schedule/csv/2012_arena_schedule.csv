@@ -1,0 +1,161 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2012,Week 1,2012-03-09,REG,1,214,Pittsburgh Power,13,Orlando Predators,40,26,False,13002,4944
+2012,Week 1,2012-03-10,REG,1,112,Utah Blaze,218,San Antonio Talons,48,54,False,6866,4962
+2012,Week 1,2012-03-10,REG,1,12,Tampa Bay Storm,64,Chicago Rush,48,70,False,9124,4971
+2012,Week 1,2012-03-10,REG,1,21,Arizona Rattlers,25,San Jose SaberCats,70,71,True,13733,4953
+2012,Week 1,2012-03-12,REG,1,131,Cleveland Gladiators,95,Georgia Force,39,41,False,6573,4980
+2012,Week 1,2012-03-12,REG,1,145,Iowa Barnstormers,149,Spokane Shock,69,63,True,8891,4989
+2012,Week 2,2012-03-16,REG,2,95,Georgia Force,12,Tampa Bay Storm,47,50,False,16054,4997
+2012,Week 2,2012-03-16,REG,2,139,Jacksonville Sharks,213,Kansas City Command,52,28,False,5161,5024
+2012,Week 2,2012-03-17,REG,2,149,Spokane Shock,218,San Antonio Talons,63,60,False,7022,4963
+2012,Week 2,2012-03-17,REG,2,112,Utah Blaze,145,Iowa Barnstormers,69,49,False,8258,5015
+2012,Week 2,2012-03-17,REG,2,146,Milwaukee Mustangs,21,Arizona Rattlers,65,71,False,7558,5006
+2012,Week 2,2012-03-18,REG,2,99,Philadelphia Soul,66,New Orleans VooDoo,63,62,False,5307,5025
+2012,Week 3,2012-03-22,REG,3,13,Orlando Predators,64,Chicago Rush,49,51,False,6148,4972
+2012,Week 3,2012-03-23,REG,3,213,Kansas City Command,131,Cleveland Gladiators,39,49,False,6573,5065
+2012,Week 3,2012-03-23,REG,3,146,Milwaukee Mustangs,66,New Orleans VooDoo,65,42,False,4930,5026
+2012,Week 3,2012-03-23,REG,3,99,Philadelphia Soul,214,Pittsburgh Power,84,59,False,7094,5062
+2012,Week 3,2012-03-24,REG,3,95,Georgia Force,139,Jacksonville Sharks,69,41,False,10142,5039
+2012,Week 3,2012-03-24,REG,3,25,San Jose SaberCats,112,Utah Blaze,59,60,False,8128,5052
+2012,Week 4,2012-03-29,REG,4,218,San Antonio Talons,13,Orlando Predators,47,34,False,11240,4945
+2012,Week 4,2012-03-29,REG,4,214,Pittsburgh Power,146,Milwaukee Mustangs,40,63,False,3116,5088
+2012,Week 4,2012-03-29,REG,4,21,Arizona Rattlers,213,Kansas City Command,56,28,False,2833,5027
+2012,Week 4,2012-03-30,REG,4,139,Jacksonville Sharks,12,Tampa Bay Storm,69,71,False,8446,5000
+2012,Week 4,2012-03-30,REG,4,25,San Jose SaberCats,149,Spokane Shock,69,35,False,8830,4990
+2012,Week 4,2012-03-31,REG,4,64,Chicago Rush,145,Iowa Barnstormers,62,61,True,8472,5016
+2012,Week 4,2012-03-31,REG,4,66,New Orleans VooDoo,112,Utah Blaze,72,57,False,10078,5053
+2012,Week 4,2012-04-01,REG,4,131,Cleveland Gladiators,99,Philadelphia Soul,68,62,False,15328,5077
+2012,Week 5,2012-04-06,REG,5,145,Iowa Barnstormers,214,Pittsburgh Power,55,42,False,4491,5063
+2012,Week 5,2012-04-06,REG,5,12,Tampa Bay Storm,66,New Orleans VooDoo,47,66,False,8677,5028
+2012,Week 5,2012-04-06,REG,5,149,Spokane Shock,21,Arizona Rattlers,53,57,False,6897,5007
+2012,Week 5,2012-04-06,REG,5,218,San Antonio Talons,25,San Jose SaberCats,53,76,False,10117,4954
+2012,Week 5,2012-04-07,REG,5,99,Philadelphia Soul,95,Georgia Force,92,42,False,3868,4981
+2012,Week 5,2012-04-07,REG,5,213,Kansas City Command,64,Chicago Rush,40,69,False,5854,4973
+2012,Week 5,2012-04-08,REG,5,13,Orlando Predators,131,Cleveland Gladiators,24,41,False,4149,5066
+2012,Week 6,2012-04-13,REG,6,131,Cleveland Gladiators,12,Tampa Bay Storm,48,69,False,8686,5001
+2012,Week 6,2012-04-13,REG,6,66,New Orleans VooDoo,218,San Antonio Talons,48,62,False,10034,4964
+2012,Week 6,2012-04-13,REG,6,112,Utah Blaze,139,Jacksonville Sharks,75,67,False,9016,5041
+2012,Week 6,2012-04-14,REG,6,25,San Jose SaberCats,99,Philadelphia Soul,55,61,False,9303,5078
+2012,Week 6,2012-04-14,REG,6,64,Chicago Rush,95,Georgia Force,49,70,False,3442,4982
+2012,Week 6,2012-04-14,REG,6,13,Orlando Predators,214,Pittsburgh Power,54,57,True,4464,5064
+2012,Week 6,2012-04-14,REG,6,21,Arizona Rattlers,145,Iowa Barnstormers,54,56,False,7921,5017
+2012,Week 6,2012-04-14,REG,6,146,Milwaukee Mustangs,149,Spokane Shock,26,57,False,9876,4991
+2012,Week 7,2012-04-20,REG,7,95,Georgia Force,13,Orlando Predators,24,27,False,11581,4946
+2012,Week 7,2012-04-20,REG,7,214,Pittsburgh Power,66,New Orleans VooDoo,48,51,False,5491,5029
+2012,Week 7,2012-04-20,REG,7,12,Tampa Bay Storm,99,Philadelphia Soul,48,83,False,9371,5080
+2012,Week 7,2012-04-20,REG,7,145,Iowa Barnstormers,112,Utah Blaze,62,63,False,7319,5054
+2012,Week 7,2012-04-21,REG,7,139,Jacksonville Sharks,131,Cleveland Gladiators,54,49,False,7104,5067
+2012,Week 7,2012-04-21,REG,7,146,Milwaukee Mustangs,64,Chicago Rush,61,62,False,7955,4974
+2012,Week 7,2012-04-21,REG,7,213,Kansas City Command,25,San Jose SaberCats,35,49,False,9432,4955
+2012,Week 7,2012-04-22,REG,7,218,San Antonio Talons,21,Arizona Rattlers,34,68,False,6835,5008
+2012,Week 8,2012-04-28,REG,8,64,Chicago Rush,218,San Antonio Talons,55,56,False,4753,4965
+2012,Week 8,2012-04-28,REG,8,149,Spokane Shock,139,Jacksonville Sharks,56,48,False,10470,5042
+2012,Week 8,2012-04-28,REG,8,99,Philadelphia Soul,13,Orlando Predators,69,53,False,12385,4947
+2012,Week 8,2012-04-28,REG,8,131,Cleveland Gladiators,214,Pittsburgh Power,58,43,False,6034,5069
+2012,Week 8,2012-04-28,REG,8,112,Utah Blaze,146,Milwaukee Mustangs,61,58,False,6689,5089
+2012,Week 8,2012-04-28,REG,8,25,San Jose SaberCats,145,Iowa Barnstormers,76,33,False,7863,5018
+2012,Week 8,2012-04-29,REG,8,21,Arizona Rattlers,95,Georgia Force,60,27,False,2830,4983
+2012,Week 8,2012-04-30,REG,8,213,Kansas City Command,12,Tampa Bay Storm,46,63,False,7345,5002
+2012,Week 9,2012-05-04,REG,9,66,New Orleans VooDoo,139,Jacksonville Sharks,37,41,False,9064,5043
+2012,Week 9,2012-05-04,REG,9,149,Spokane Shock,112,Utah Blaze,63,84,False,6195,5056
+2012,Week 9,2012-05-05,REG,9,146,Milwaukee Mustangs,99,Philadelphia Soul,64,63,False,8674,5082
+2012,Week 9,2012-05-05,REG,9,13,Orlando Predators,12,Tampa Bay Storm,31,55,False,8488,5003
+2012,Week 9,2012-05-05,REG,9,218,San Antonio Talons,213,Kansas City Command,41,31,False,6342,5035
+2012,Week 9,2012-05-05,REG,9,95,Georgia Force,214,Pittsburgh Power,55,52,False,4117,5073
+2012,Week 9,2012-05-05,REG,9,25,San Jose SaberCats,21,Arizona Rattlers,77,70,False,9280,5009
+2012,Week 9,2012-05-06,REG,9,145,Iowa Barnstormers,64,Chicago Rush,50,61,False,6010,4975
+2012,Week 10,2012-05-11,REG,10,131,Cleveland Gladiators,146,Milwaukee Mustangs,69,48,False,5743,5090
+2012,Week 10,2012-05-11,REG,10,112,Utah Blaze,25,San Jose SaberCats,59,70,False,10093,4956
+2012,Week 10,2012-05-11,REG,10,66,New Orleans VooDoo,149,Spokane Shock,62,68,True,8918,4992
+2012,Week 10,2012-05-12,REG,10,12,Tampa Bay Storm,95,Georgia Force,41,44,False,3859,4984
+2012,Week 10,2012-05-12,REG,10,139,Jacksonville Sharks,99,Philadelphia Soul,38,56,False,8757,5096
+2012,Week 10,2012-05-12,REG,10,214,Pittsburgh Power,218,San Antonio Talons,52,68,False,5136,4966
+2012,Week 10,2012-05-12,REG,10,213,Kansas City Command,145,Iowa Barnstormers,42,62,False,7962,5019
+2012,Week 10,2012-05-12,REG,10,64,Chicago Rush,21,Arizona Rattlers,43,77,False,7280,5010
+2012,Week 11,2012-05-18,REG,11,13,Orlando Predators,66,New Orleans VooDoo,61,68,False,6161,5030
+2012,Week 11,2012-05-18,REG,11,95,Georgia Force,146,Milwaukee Mustangs,58,55,False,4466,5091
+2012,Week 11,2012-05-18,REG,11,99,Philadelphia Soul,149,Spokane Shock,47,65,False,9246,4993
+2012,Week 11,2012-05-19,REG,11,145,Iowa Barnstormers,139,Jacksonville Sharks,19,55,False,10642,5044
+2012,Week 11,2012-05-19,REG,11,12,Tampa Bay Storm,131,Cleveland Gladiators,34,53,False,6927,5068
+2012,Week 11,2012-05-19,REG,11,213,Kansas City Command,214,Pittsburgh Power,43,37,False,5062,5076
+2012,Week 11,2012-05-19,REG,11,25,San Jose SaberCats,218,San Antonio Talons,47,72,False,7415,4967
+2012,Week 11,2012-05-19,REG,11,21,Arizona Rattlers,112,Utah Blaze,86,70,False,10149,5057
+2012,Week 12,2012-05-25,REG,12,139,Jacksonville Sharks,13,Orlando Predators,55,37,False,13081,4948
+2012,Week 12,2012-05-25,REG,12,149,Spokane Shock,145,Iowa Barnstormers,68,62,False,7698,5020
+2012,Week 12,2012-05-26,REG,12,146,Milwaukee Mustangs,12,Tampa Bay Storm,55,63,False,10406,5004
+2012,Week 12,2012-05-26,REG,12,21,Arizona Rattlers,66,New Orleans VooDoo,69,45,False,5427,5031
+2012,Week 12,2012-05-26,REG,12,95,Georgia Force,213,Kansas City Command,27,39,False,5079,5036
+2012,Week 12,2012-05-26,REG,12,218,San Antonio Talons,112,Utah Blaze,64,61,False,8093,5058
+2012,Week 12,2012-05-26,REG,12,64,Chicago Rush,25,San Jose SaberCats,77,84,True,9036,4957
+2012,Week 12,2012-05-27,REG,12,99,Philadelphia Soul,131,Cleveland Gladiators,55,33,False,4737,5070
+2012,Week 13,2012-06-01,REG,13,131,Cleveland Gladiators,145,Iowa Barnstormers,62,70,False,8363,5021
+2012,Week 13,2012-06-02,REG,13,66,New Orleans VooDoo,95,Georgia Force,57,35,False,3372,4985
+2012,Week 13,2012-06-02,REG,13,12,Tampa Bay Storm,139,Jacksonville Sharks,61,71,False,11080,5045
+2012,Week 13,2012-06-02,REG,13,13,Orlando Predators,99,Philadelphia Soul,48,79,False,9871,5083
+2012,Week 13,2012-06-02,REG,13,112,Utah Blaze,213,Kansas City Command,55,45,False,4618,5037
+2012,Week 13,2012-06-02,REG,13,25,San Jose SaberCats,146,Milwaukee Mustangs,68,81,False,6089,5092
+2012,Week 13,2012-06-02,REG,13,214,Pittsburgh Power,21,Arizona Rattlers,45,55,False,7540,5011
+2012,Week 13,2012-06-03,REG,13,149,Spokane Shock,64,Chicago Rush,62,73,False,6418,4976
+2012,Week 14,2012-06-08,REG,14,214,Pittsburgh Power,131,Cleveland Gladiators,2,0,False,,
+2012,Week 14,2012-06-08,REG,14,99,Philadelphia Soul,146,Milwaukee Mustangs,69,62,False,3312,5093
+2012,Week 14,2012-06-08,REG,14,13,Orlando Predators,25,San Jose SaberCats,34,51,False,9345,4958
+2012,Week 14,2012-06-09,REG,14,139,Jacksonville Sharks,95,Georgia Force,39,56,False,3826,4986
+2012,Week 14,2012-06-09,REG,14,218,San Antonio Talons,66,New Orleans VooDoo,53,46,False,5629,5032
+2012,Week 14,2012-06-09,REG,14,64,Chicago Rush,112,Utah Blaze,28,68,False,7077,5059
+2012,Week 14,2012-06-09,REG,14,213,Kansas City Command,149,Spokane Shock,46,70,False,8674,4996
+2012,Week 14,2012-06-09,REG,14,145,Iowa Barnstormers,21,Arizona Rattlers,48,55,False,7607,5012
+2012,Week 15,2012-06-15,REG,15,12,Tampa Bay Storm,13,Orlando Predators,40,64,False,12441,4949
+2012,Week 15,2012-06-16,REG,15,99,Philadelphia Soul,139,Jacksonville Sharks,62,27,False,10206,5047
+2012,Week 15,2012-06-16,REG,15,66,New Orleans VooDoo,131,Cleveland Gladiators,54,42,False,5109,5072
+2012,Week 15,2012-06-16,REG,15,146,Milwaukee Mustangs,214,Pittsburgh Power,63,62,False,4421,5079
+2012,Week 15,2012-06-16,REG,15,145,Iowa Barnstormers,218,San Antonio Talons,35,57,False,8258,4968
+2012,Week 15,2012-06-16,REG,15,95,Georgia Force,64,Chicago Rush,27,62,False,6202,4977
+2012,Week 15,2012-06-16,REG,15,112,Utah Blaze,149,Spokane Shock,58,55,False,8852,5097
+2012,Week 15,2012-06-17,REG,15,25,San Jose SaberCats,213,Kansas City Command,41,57,False,4258,5038
+2012,Week 16,2012-06-22,REG,16,66,New Orleans VooDoo,13,Orlando Predators,48,41,False,12171,4950
+2012,Week 16,2012-06-22,REG,16,21,Arizona Rattlers,146,Milwaukee Mustangs,52,37,False,4899,5094
+2012,Week 16,2012-06-23,REG,16,131,Cleveland Gladiators,139,Jacksonville Sharks,42,56,False,9662,5048
+2012,Week 16,2012-06-23,REG,16,218,San Antonio Talons,12,Tampa Bay Storm,77,56,False,9328,5005
+2012,Week 16,2012-06-23,REG,16,64,Chicago Rush,213,Kansas City Command,59,41,False,3452,5040
+2012,Week 16,2012-06-23,REG,16,95,Georgia Force,112,Utah Blaze,38,61,False,9444,5060
+2012,Week 16,2012-06-23,REG,16,149,Spokane Shock,25,San Jose SaberCats,90,63,False,9062,4959
+2012,Week 16,2012-06-24,REG,16,214,Pittsburgh Power,99,Philadelphia Soul,34,69,False,9760,5085
+2012,Week 17,2012-06-29,REG,17,99,Philadelphia Soul,12,Tampa Bay Storm,83,79,False,9229,4998
+2012,Week 17,2012-06-29,REG,17,146,Milwaukee Mustangs,131,Cleveland Gladiators,32,69,False,7853,5074
+2012,Week 17,2012-06-29,REG,17,21,Arizona Rattlers,149,Spokane Shock,61,35,False,8946,4994
+2012,Week 17,2012-06-30,REG,17,213,Kansas City Command,218,San Antonio Talons,48,58,False,8153,4969
+2012,Week 17,2012-06-30,REG,17,25,San Jose SaberCats,64,Chicago Rush,75,61,False,6581,4978
+2012,Week 17,2012-06-30,REG,17,139,Jacksonville Sharks,66,New Orleans VooDoo,55,65,False,6029,5033
+2012,Week 17,2012-06-30,REG,17,214,Pittsburgh Power,145,Iowa Barnstormers,56,49,False,11356,5022
+2012,Week 17,2012-07-01,REG,17,13,Orlando Predators,95,Georgia Force,53,56,False,5341,4987
+2012,Week 18,2012-07-06,REG,18,131,Cleveland Gladiators,13,Orlando Predators,34,55,False,14518,4951
+2012,Week 18,2012-07-06,REG,18,146,Milwaukee Mustangs,139,Jacksonville Sharks,32,50,False,9811,5050
+2012,Week 18,2012-07-06,REG,18,112,Utah Blaze,21,Arizona Rattlers,62,49,False,8381,5013
+2012,Week 18,2012-07-07,REG,18,12,Tampa Bay Storm,214,Pittsburgh Power,65,61,False,4154,5081
+2012,Week 18,2012-07-07,REG,18,145,Iowa Barnstormers,213,Kansas City Command,54,27,False,3223,5055
+2012,Week 18,2012-07-07,REG,18,66,New Orleans VooDoo,25,San Jose SaberCats,31,55,False,9251,4960
+2012,Week 18,2012-07-08,REG,18,218,San Antonio Talons,64,Chicago Rush,61,54,False,7679,4979
+2012,Week 18,2012-07-08,REG,18,149,Spokane Shock,99,Philadelphia Soul,48,62,False,7590,5086
+2012,Week 19,2012-07-13,REG,19,21,Arizona Rattlers,218,San Antonio Talons,61,62,False,8253,4970
+2012,Week 19,2012-07-13,REG,19,131,Cleveland Gladiators,112,Utah Blaze,63,83,False,13083,5061
+2012,Week 19,2012-07-14,REG,19,214,Pittsburgh Power,95,Georgia Force,58,41,False,5074,4988
+2012,Week 19,2012-07-14,REG,19,13,Orlando Predators,139,Jacksonville Sharks,30,48,False,12403,5051
+2012,Week 19,2012-07-14,REG,19,66,New Orleans VooDoo,12,Tampa Bay Storm,77,78,True,10201,4999
+2012,Week 19,2012-07-14,REG,19,149,Spokane Shock,213,Kansas City Command,49,48,False,3764,5049
+2012,Week 19,2012-07-14,REG,19,64,Chicago Rush,146,Milwaukee Mustangs,57,54,False,6284,5095
+2012,Week 19,2012-07-14,REG,19,145,Iowa Barnstormers,25,San Jose SaberCats,48,57,False,11072,4961
+2012,Week 20,2012-07-20,REG,20,139,Jacksonville Sharks,214,Pittsburgh Power,64,39,False,6632,5084
+2012,Week 20,2012-07-21,REG,20,64,Chicago Rush,131,Cleveland Gladiators,54,60,False,7386,5075
+2012,Week 20,2012-07-21,REG,20,95,Georgia Force,66,New Orleans VooDoo,55,48,False,7370,5034
+2012,Week 20,2012-07-21,REG,20,218,San Antonio Talons,145,Iowa Barnstormers,63,66,False,9184,5023
+2012,Week 20,2012-07-21,REG,20,12,Tampa Bay Storm,149,Spokane Shock,53,63,False,8973,4995
+2012,Week 20,2012-07-21,REG,20,213,Kansas City Command,21,Arizona Rattlers,22,47,False,9166,5014
+2012,Week 20,2012-07-22,REG,20,146,Milwaukee Mustangs,13,Orlando Predators,39,49,False,13091,4952
+2012,Week 20,2012-07-22,REG,20,112,Utah Blaze,99,Philadelphia Soul,34,69,False,12765,5087
+2012,Playoffs Week 1,2012-07-27,POST,1,112,Utah Blaze,218,San Antonio Talons,35,34,False,9391,5099
+2012,Playoffs Week 1,2012-07-28,POST,1,95,Georgia Force,139,Jacksonville Sharks,56,58,False,7489,5100
+2012,Playoffs Week 1,2012-07-28,POST,1,66,New Orleans VooDoo,99,Philadelphia Soul,53,66,False,6976,5098
+2012,Playoffs Week 1,2012-07-28,POST,1,25,San Jose SaberCats,21,Arizona Rattlers,48,51,False,7545,5101
+2012,Playoffs Week 2,2012-08-03,POST,2,139,Jacksonville Sharks,99,Philadelphia Soul,34,89,False,12332,5102
+2012,Playoffs Week 2,2012-08-04,POST,2,112,Utah Blaze,21,Arizona Rattlers,69,75,False,9644,5103
+2012,ArenaBowl XXV,2012-08-10,POST,3,21,Arizona Rattlers,99,Philadelphia Soul,72,54,False,13648,4943

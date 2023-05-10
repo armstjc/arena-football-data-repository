@@ -1,0 +1,42 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2019,Week 1,2019-04-26,REG,1,227,Washington Valor,235,Baltimore Brigade,51,59,False,5195,5652
+2019,Week 1,2019-04-27,REG,1,239,Atlantic City Blackjacks,99,Philadelphia Soul,41,48,False,9245,5653
+2019,Week 1,2019-04-27,REG,1,240,Columbus Destroyers,238,Albany Empire,19,35,False,11682,5654
+2019,Week 2,2019-05-03,REG,2,99,Philadelphia Soul,235,Baltimore Brigade,36,27,False,4381,5655
+2019,Week 2,2019-05-04,REG,2,240,Columbus Destroyers,239,Atlantic City Blackjacks,35,42,False,6139,5656
+2019,Week 2,2019-05-04,REG,2,227,Washington Valor,238,Albany Empire,27,36,False,9208,5657
+2019,Week 3,2019-05-10,REG,3,240,Columbus Destroyers,235,Baltimore Brigade,30,48,False,4990,5658
+2019,Week 3,2019-05-11,REG,3,239,Atlantic City Blackjacks,227,Washington Valor,34,41,False,8044,5659
+2019,Week 3,2019-05-11,REG,3,238,Albany Empire,99,Philadelphia Soul,57,48,False,9843,5660
+2019,Week 4,2019-05-18,REG,4,99,Philadelphia Soul,227,Washington Valor,46,53,False,6357,5663
+2019,Week 4,2019-05-18,REG,4,235,Baltimore Brigade,239,Atlantic City Blackjacks,41,48,False,4054,5661
+2019,Week 4,2019-05-18,REG,4,238,Albany Empire,240,Columbus Destroyers,56,40,False,7035,5662
+2019,Week 5,2019-05-25,REG,5,227,Washington Valor,240,Columbus Destroyers,29,27,False,6122,5665
+2019,Week 5,2019-05-25,REG,5,238,Albany Empire,239,Atlantic City Blackjacks,54,35,False,4386,5664
+2019,Week 5,2019-05-26,REG,5,99,Philadelphia Soul,235,Baltimore Brigade,30,45,False,4079,5666
+2019,Week 6,2019-06-01,REG,6,235,Baltimore Brigade,239,Atlantic City Blackjacks,34,35,False,4632,5667
+2019,Week 6,2019-06-01,REG,6,227,Washington Valor,238,Albany Empire,48,58,False,8744,5669
+2019,Week 6,2019-06-01,REG,6,240,Columbus Destroyers,99,Philadelphia Soul,35,47,False,8672,5668
+2019,Week 7,2019-06-07,REG,7,239,Atlantic City Blackjacks,240,Columbus Destroyers,50,54,False,6029,5670
+2019,Week 7,2019-06-08,REG,7,235,Baltimore Brigade,238,Albany Empire,42,41,False,10287,5671
+2019,Week 7,2019-06-09,REG,7,227,Washington Valor,99,Philadelphia Soul,48,41,False,7164,5672
+2019,Week 8,2019-06-15,REG,8,235,Baltimore Brigade,240,Columbus Destroyers,44,39,False,6260,5680
+2019,Week 8,2019-06-15,REG,8,238,Albany Empire,227,Washington Valor,56,55,False,7179,5679
+2019,Week 8,2019-06-16,REG,8,239,Atlantic City Blackjacks,99,Philadelphia Soul,29,54,False,6910,5681
+2019,Week 9,2019-06-20,REG,9,235,Baltimore Brigade,227,Washington Valor,35,42,False,6795,5682
+2019,Week 9,2019-06-22,REG,9,239,Atlantic City Blackjacks,238,Albany Empire,61,63,False,9417,5683
+2019,Week 9,2019-06-22,REG,9,99,Philadelphia Soul,240,Columbus Destroyers,42,35,False,7604,5684
+2019,Week 10,2019-06-28,REG,10,240,Columbus Destroyers,235,Baltimore Brigade,12,50,False,4206,5685
+2019,Week 10,2019-06-29,REG,10,238,Albany Empire,99,Philadelphia Soul,43,54,False,10564,5687
+2019,Week 10,2019-06-29,REG,10,239,Atlantic City Blackjacks,227,Washington Valor,70,41,False,7136,5686
+2019,Week 11,2019-07-06,REG,11,99,Philadelphia Soul,239,Atlantic City Blackjacks,50,45,False,7104,5673
+2019,Week 12,2019-07-13,REG,12,227,Washington Valor,235,Baltimore Brigade,47,40,False,4609,5674
+2019,Week 12,2019-07-14,REG,12,238,Albany Empire,240,Columbus Destroyers,49,18,False,9275,5675
+2019,Week 13,2019-07-20,REG,13,240,Columbus Destroyers,227,Washington Valor,50,56,False,8456,5677
+2019,Week 13,2019-07-20,REG,13,99,Philadelphia Soul,238,Albany Empire,27,72,False,10981,5676
+2019,Week 13,2019-07-21,REG,13,235,Baltimore Brigade,239,Atlantic City Blackjacks,35,28,False,6266,5678
+2019,Playoffs Week 1,2019-07-27,POST,1,235,Baltimore Brigade,238,Albany Empire,26,61,False,9085,5690
+2019,Playoffs Week 1,2019-07-28,POST,1,99,Philadelphia Soul,227,Washington Valor,69,33,False,6942,5691
+2019,Playoffs Week 1,2019-08-03,POST,1,238,Albany Empire,235,Baltimore Brigade,62,21,False,5282,5692
+2019,Playoffs Week 1,2019-08-04,POST,1,227,Washington Valor,99,Philadelphia Soul,41,48,False,8537,5693
+2019,ArenaBowl XXXII,2019-08-11,POST,2,99,Philadelphia Soul,238,Albany Empire,27,45,False,12042,5689

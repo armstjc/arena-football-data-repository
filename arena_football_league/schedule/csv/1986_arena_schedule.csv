@@ -1,0 +1,2 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1986,Preseason Week 1,1986-04-27,PRE,1,243,Chicago Politicians,242,Rockford Metros,18,30,False,,

@@ -1,0 +1,148 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2008,Week 1,2008-02-29,REG,1,66,New Orleans VooDoo,44,Los Angeles Avengers,42,59,False,13209,3810
+2008,Week 1,2008-03-01,REG,1,86,Dallas Desperados,95,Georgia Force,51,41,False,10224,3802
+2008,Week 1,2008-03-01,REG,1,12,Tampa Bay Storm,115,Kansas City Brigade,51,49,False,13356,3818
+2008,Week 1,2008-03-01,REG,1,13,Orlando Predators,99,Philadelphia Soul,56,77,False,17869,3826
+2008,Week 1,2008-03-01,REG,1,21,Arizona Rattlers,112,Utah Blaze,63,62,False,15106,3834
+2008,Week 1,2008-03-02,REG,1,103,Columbus Destroyers,98,Colorado Crush,47,50,False,9265,3842
+2008,Week 1,2008-03-03,REG,1,72,New York Dragons,131,Cleveland Gladiators,49,61,False,17391,3850
+2008,Week 1,2008-03-03,REG,1,25,San Jose SaberCats,64,Chicago Rush,47,70,False,15409,3858
+2008,Week 2,2008-03-07,REG,2,95,Georgia Force,12,Tampa Bay Storm,48,69,False,18194,3927
+2008,Week 2,2008-03-07,REG,2,103,Columbus Destroyers,86,Dallas Desperados,36,46,False,12432,3909
+2008,Week 2,2008-03-09,REG,2,112,Utah Blaze,131,Cleveland Gladiators,63,66,False,14765,3855
+2008,Week 2,2008-03-09,REG,2,99,Philadelphia Soul,64,Chicago Rush,60,49,False,16051,3861
+2008,Week 2,2008-03-09,REG,2,13,Orlando Predators,66,New Orleans VooDoo,53,54,False,13042,3902
+2008,Week 2,2008-03-09,REG,2,115,Kansas City Brigade,72,New York Dragons,47,50,False,10542,3919
+2008,Week 2,2008-03-10,REG,2,25,San Jose SaberCats,40,Grand Rapids Rampage,66,58,False,5833,3871
+2008,Week 2,2008-03-10,REG,2,44,Los Angeles Avengers,21,Arizona Rattlers,65,33,False,11532,3934
+2008,Week 3,2008-03-14,REG,3,64,Chicago Rush,40,Grand Rapids Rampage,64,35,False,10594,3866
+2008,Week 3,2008-03-14,REG,3,112,Utah Blaze,13,Orlando Predators,61,69,False,11861,3874
+2008,Week 3,2008-03-15,REG,3,44,Los Angeles Avengers,95,Georgia Force,34,58,False,10156,3804
+2008,Week 3,2008-03-15,REG,3,131,Cleveland Gladiators,103,Columbus Destroyers,59,57,False,15946,3882
+2008,Week 3,2008-03-15,REG,3,21,Arizona Rattlers,25,San Jose SaberCats,43,63,False,13625,3890
+2008,Week 3,2008-03-16,REG,3,72,New York Dragons,99,Philadelphia Soul,42,63,False,16102,3827
+2008,Week 3,2008-03-16,REG,3,12,Tampa Bay Storm,66,New Orleans VooDoo,55,76,False,13011,3898
+2008,Week 3,2008-03-17,REG,3,98,Colorado Crush,86,Dallas Desperados,40,51,False,12576,3906
+2008,Week 4,2008-03-20,REG,4,99,Philadelphia Soul,44,Los Angeles Avengers,71,34,False,13398,3813
+2008,Week 4,2008-03-21,REG,4,131,Cleveland Gladiators,66,New Orleans VooDoo,24,63,False,13027,3903
+2008,Week 4,2008-03-21,REG,4,103,Columbus Destroyers,112,Utah Blaze,52,49,False,13717,3839
+2008,Week 4,2008-03-21,REG,4,72,New York Dragons,21,Arizona Rattlers,33,62,False,11689,3935
+2008,Week 4,2008-03-22,REG,4,95,Georgia Force,13,Orlando Predators,45,50,False,12107,3877
+2008,Week 4,2008-03-22,REG,4,98,Colorado Crush,64,Chicago Rush,35,70,False,16036,3862
+2008,Week 4,2008-03-22,REG,4,86,Dallas Desperados,25,San Jose SaberCats,59,56,False,11472,3895
+2008,Week 4,2008-03-24,REG,4,40,Grand Rapids Rampage,115,Kansas City Brigade,92,52,False,12943,3823
+2008,Week 5,2008-03-28,REG,5,21,Arizona Rattlers,64,Chicago Rush,35,59,False,15058,3859
+2008,Week 5,2008-03-29,REG,5,12,Tampa Bay Storm,99,Philadelphia Soul,51,59,False,16179,3828
+2008,Week 5,2008-03-29,REG,5,25,San Jose SaberCats,115,Kansas City Brigade,44,36,False,13146,3819
+2008,Week 5,2008-03-29,REG,5,13,Orlando Predators,103,Columbus Destroyers,47,44,False,13035,3883
+2008,Week 5,2008-03-29,REG,5,95,Georgia Force,112,Utah Blaze,70,49,False,15240,3835
+2008,Week 5,2008-03-30,REG,5,44,Los Angeles Avengers,40,Grand Rapids Rampage,59,84,False,5818,3867
+2008,Week 5,2008-03-30,REG,5,86,Dallas Desperados,72,New York Dragons,33,31,False,8216,3914
+2008,Week 5,2008-03-30,REG,5,66,New Orleans VooDoo,98,Colorado Crush,54,51,False,10350,3843
+2008,Week 6,2008-04-04,REG,6,115,Kansas City Brigade,95,Georgia Force,63,70,False,10052,3805
+2008,Week 6,2008-04-04,REG,6,44,Los Angeles Avengers,98,Colorado Crush,54,67,False,11159,3846
+2008,Week 6,2008-04-05,REG,6,112,Utah Blaze,99,Philadelphia Soul,56,64,False,16390,3831
+2008,Week 6,2008-04-05,REG,6,12,Tampa Bay Storm,103,Columbus Destroyers,49,51,False,14256,3886
+2008,Week 6,2008-04-05,REG,6,25,San Jose SaberCats,66,New Orleans VooDoo,43,72,False,14236,3904
+2008,Week 6,2008-04-05,REG,6,40,Grand Rapids Rampage,72,New York Dragons,34,63,False,8211,3920
+2008,Week 6,2008-04-05,REG,6,131,Cleveland Gladiators,86,Dallas Desperados,51,58,False,11497,3910
+2008,Week 6,2008-04-06,REG,6,64,Chicago Rush,13,Orlando Predators,56,57,True,12483,3878
+2008,Week 7,2008-04-11,REG,7,98,Colorado Crush,131,Cleveland Gladiators,69,66,False,15079,3851
+2008,Week 7,2008-04-12,REG,7,66,New Orleans VooDoo,86,Dallas Desperados,44,55,False,12314,3913
+2008,Week 7,2008-04-12,REG,7,112,Utah Blaze,44,Los Angeles Avengers,62,79,False,14861,3811
+2008,Week 7,2008-04-12,REG,7,99,Philadelphia Soul,25,San Jose SaberCats,58,57,False,12462,3891
+2008,Week 7,2008-04-13,REG,7,13,Orlando Predators,40,Grand Rapids Rampage,75,56,False,6946,3868
+2008,Week 7,2008-04-13,REG,7,21,Arizona Rattlers,12,Tampa Bay Storm,63,62,False,16413,3922
+2008,Week 7,2008-04-13,REG,7,103,Columbus Destroyers,72,New York Dragons,44,62,False,7346,3915
+2008,Week 7,2008-04-14,REG,7,64,Chicago Rush,115,Kansas City Brigade,49,42,False,13184,3820
+2008,Week 8,2008-04-18,REG,8,72,New York Dragons,12,Tampa Bay Storm,66,47,False,17104,3928
+2008,Week 8,2008-04-18,REG,8,25,San Jose SaberCats,112,Utah Blaze,61,40,False,14701,3840
+2008,Week 8,2008-04-18,REG,8,66,New Orleans VooDoo,21,Arizona Rattlers,60,36,False,11749,3936
+2008,Week 8,2008-04-19,REG,8,98,Colorado Crush,115,Kansas City Brigade,53,55,False,14057,3824
+2008,Week 8,2008-04-19,REG,8,13,Orlando Predators,95,Georgia Force,65,62,False,10079,3806
+2008,Week 8,2008-04-19,REG,8,131,Cleveland Gladiators,44,Los Angeles Avengers,83,69,False,13863,3814
+2008,Week 8,2008-04-20,REG,8,40,Grand Rapids Rampage,64,Chicago Rush,52,55,False,16112,3863
+2008,Week 8,2008-04-21,REG,8,99,Philadelphia Soul,103,Columbus Destroyers,76,55,False,14974,3887
+2008,Week 9,2008-04-25,REG,9,115,Kansas City Brigade,40,Grand Rapids Rampage,38,72,False,8102,3869
+2008,Week 9,2008-04-25,REG,9,112,Utah Blaze,66,New Orleans VooDoo,56,70,False,15041,3899
+2008,Week 9,2008-04-25,REG,9,64,Chicago Rush,98,Colorado Crush,65,52,False,11114,3844
+2008,Week 9,2008-04-26,REG,9,131,Cleveland Gladiators,72,New York Dragons,39,56,False,9991,3916
+2008,Week 9,2008-04-26,REG,9,12,Tampa Bay Storm,13,Orlando Predators,48,41,False,13365,3875
+2008,Week 9,2008-04-26,REG,9,95,Georgia Force,21,Arizona Rattlers,61,66,False,10444,3930
+2008,Week 9,2008-04-26,REG,9,44,Los Angeles Avengers,25,San Jose SaberCats,42,70,False,13083,3892
+2008,Week 9,2008-04-28,REG,9,86,Dallas Desperados,99,Philadelphia Soul,28,57,False,15426,3829
+2008,Week 10,2008-05-02,REG,10,99,Philadelphia Soul,131,Cleveland Gladiators,55,67,False,13721,3856
+2008,Week 10,2008-05-02,REG,10,40,Grand Rapids Rampage,98,Colorado Crush,28,63,False,14527,3847
+2008,Week 10,2008-05-03,REG,10,66,New Orleans VooDoo,95,Georgia Force,39,66,False,10071,3807
+2008,Week 10,2008-05-03,REG,10,86,Dallas Desperados,103,Columbus Destroyers,48,45,False,14310,3889
+2008,Week 10,2008-05-03,REG,10,25,San Jose SaberCats,13,Orlando Predators,35,61,False,11733,3879
+2008,Week 10,2008-05-03,REG,10,115,Kansas City Brigade,112,Utah Blaze,50,67,False,12208,3841
+2008,Week 10,2008-05-03,REG,10,21,Arizona Rattlers,44,Los Angeles Avengers,59,66,False,13511,3815
+2008,Week 10,2008-05-05,REG,10,64,Chicago Rush,12,Tampa Bay Storm,51,46,False,14491,3929
+2008,Week 11,2008-05-09,REG,11,13,Orlando Predators,131,Cleveland Gladiators,43,62,False,13808,3852
+2008,Week 11,2008-05-09,REG,11,66,New Orleans VooDoo,12,Tampa Bay Storm,37,41,False,16934,3923
+2008,Week 11,2008-05-09,REG,11,25,San Jose SaberCats,21,Arizona Rattlers,63,42,False,11514,3931
+2008,Week 11,2008-05-10,REG,11,103,Columbus Destroyers,115,Kansas City Brigade,43,59,False,12736,3821
+2008,Week 11,2008-05-10,REG,11,40,Grand Rapids Rampage,86,Dallas Desperados,54,65,False,11476,3907
+2008,Week 11,2008-05-10,REG,11,98,Colorado Crush,112,Utah Blaze,36,71,False,13787,3836
+2008,Week 11,2008-05-10,REG,11,72,New York Dragons,44,Los Angeles Avengers,52,48,False,13422,3812
+2008,Week 11,2008-05-12,REG,11,99,Philadelphia Soul,95,Georgia Force,62,63,False,10278,3803
+2008,Week 12,2008-05-16,REG,12,12,Tampa Bay Storm,40,Grand Rapids Rampage,58,50,False,7205,3872
+2008,Week 12,2008-05-17,REG,12,103,Columbus Destroyers,99,Philadelphia Soul,43,51,False,18741,3832
+2008,Week 12,2008-05-17,REG,12,131,Cleveland Gladiators,98,Colorado Crush,50,46,False,11214,3848
+2008,Week 12,2008-05-17,REG,12,21,Arizona Rattlers,86,Dallas Desperados,55,54,False,12950,3911
+2008,Week 12,2008-05-17,REG,12,112,Utah Blaze,25,San Jose SaberCats,64,74,False,13252,3896
+2008,Week 12,2008-05-18,REG,12,13,Orlando Predators,115,Kansas City Brigade,58,51,False,10992,3825
+2008,Week 12,2008-05-18,REG,12,95,Georgia Force,72,New York Dragons,72,67,False,8634,3921
+2008,Week 12,2008-05-19,REG,12,44,Los Angeles Avengers,64,Chicago Rush,28,72,False,15904,3864
+2008,Week 13,2008-05-22,REG,13,115,Kansas City Brigade,99,Philadelphia Soul,54,47,False,14473,3830
+2008,Week 13,2008-05-23,REG,13,86,Dallas Desperados,13,Orlando Predators,67,41,False,12366,3876
+2008,Week 13,2008-05-23,REG,13,131,Cleveland Gladiators,12,Tampa Bay Storm,48,58,False,15976,3924
+2008,Week 13,2008-05-24,REG,13,72,New York Dragons,103,Columbus Destroyers,41,43,False,12842,3884
+2008,Week 13,2008-05-24,REG,13,64,Chicago Rush,112,Utah Blaze,48,51,False,15295,3837
+2008,Week 13,2008-05-24,REG,13,40,Grand Rapids Rampage,21,Arizona Rattlers,48,52,False,12559,3932
+2008,Week 13,2008-05-24,REG,13,98,Colorado Crush,25,San Jose SaberCats,42,59,False,13147,3893
+2008,Week 13,2008-05-26,REG,13,95,Georgia Force,66,New Orleans VooDoo,40,29,False,16005,3900
+2008,Week 14,2008-05-30,REG,14,103,Columbus Destroyers,66,New Orleans VooDoo,61,83,False,13206,3905
+2008,Week 14,2008-05-31,REG,14,12,Tampa Bay Storm,95,Georgia Force,55,56,False,10400,3808
+2008,Week 14,2008-05-31,REG,14,86,Dallas Desperados,131,Cleveland Gladiators,68,52,False,11717,3857
+2008,Week 14,2008-05-31,REG,14,21,Arizona Rattlers,13,Orlando Predators,60,53,False,12821,3880
+2008,Week 14,2008-05-31,REG,14,115,Kansas City Brigade,64,Chicago Rush,47,52,False,16164,3865
+2008,Week 14,2008-05-31,REG,14,25,San Jose SaberCats,44,Los Angeles Avengers,66,56,False,15174,3816
+2008,Week 14,2008-06-01,REG,14,112,Utah Blaze,40,Grand Rapids Rampage,63,56,False,5252,3873
+2008,Week 14,2008-06-02,REG,14,72,New York Dragons,98,Colorado Crush,73,65,False,14078,3849
+2008,Week 15,2008-06-07,REG,15,64,Chicago Rush,131,Cleveland Gladiators,44,65,False,11377,3853
+2008,Week 15,2008-06-07,REG,15,98,Colorado Crush,40,Grand Rapids Rampage,65,84,False,7766,3870
+2008,Week 15,2008-06-07,REG,15,95,Georgia Force,103,Columbus Destroyers,63,34,False,12948,3885
+2008,Week 15,2008-06-07,REG,15,66,New Orleans VooDoo,72,New York Dragons,51,58,False,9922,3917
+2008,Week 15,2008-06-07,REG,15,13,Orlando Predators,12,Tampa Bay Storm,61,71,False,17344,3925
+2008,Week 15,2008-06-07,REG,15,99,Philadelphia Soul,86,Dallas Desperados,71,64,False,11943,3908
+2008,Week 15,2008-06-08,REG,15,21,Arizona Rattlers,115,Kansas City Brigade,73,34,False,12210,3822
+2008,Week 15,2008-06-09,REG,15,44,Los Angeles Avengers,112,Utah Blaze,56,65,False,16054,3838
+2008,Week 16,2008-06-13,REG,16,66,New Orleans VooDoo,13,Orlando Predators,49,51,False,13423,3881
+2008,Week 16,2008-06-14,REG,16,115,Kansas City Brigade,44,Los Angeles Avengers,48,51,False,11282,3817
+2008,Week 16,2008-06-14,REG,16,64,Chicago Rush,95,Georgia Force,47,50,False,11073,3809
+2008,Week 16,2008-06-14,REG,16,131,Cleveland Gladiators,99,Philadelphia Soul,61,62,False,16637,3833
+2008,Week 16,2008-06-14,REG,16,40,Grand Rapids Rampage,103,Columbus Destroyers,63,60,False,12831,3888
+2008,Week 16,2008-06-14,REG,16,72,New York Dragons,86,Dallas Desperados,49,51,False,12042,3912
+2008,Week 16,2008-06-14,REG,16,12,Tampa Bay Storm,25,San Jose SaberCats,70,73,False,14042,3897
+2008,Week 16,2008-06-16,REG,16,98,Colorado Crush,21,Arizona Rattlers,62,55,False,11608,3937
+2008,Week 17,2008-06-21,REG,17,103,Columbus Destroyers,131,Cleveland Gladiators,35,47,False,14397,3854
+2008,Week 17,2008-06-21,REG,17,40,Grand Rapids Rampage,66,New Orleans VooDoo,86,70,False,17006,3901
+2008,Week 17,2008-06-21,REG,17,44,Los Angeles Avengers,12,Tampa Bay Storm,47,72,False,17891,3926
+2008,Week 17,2008-06-21,REG,17,115,Kansas City Brigade,98,Colorado Crush,27,51,False,13571,3845
+2008,Week 17,2008-06-21,REG,17,112,Utah Blaze,21,Arizona Rattlers,62,45,False,13542,3933
+2008,Week 17,2008-06-21,REG,17,95,Georgia Force,25,San Jose SaberCats,62,68,False,12866,3894
+2008,Week 17,2008-06-22,REG,17,99,Philadelphia Soul,72,New York Dragons,59,30,False,9718,3918
+2008,Week 17,2008-06-22,REG,17,86,Dallas Desperados,64,Chicago Rush,63,75,False,16260,3860
+2008,Playoffs Week 1,2008-06-27,POST,1,72,New York Dragons,86,Dallas Desperados,77,63,False,10076,3940
+2008,Playoffs Week 1,2008-06-28,POST,1,98,Colorado Crush,112,Utah Blaze,49,44,False,10073,3938
+2008,Playoffs Week 1,2008-06-30,POST,1,13,Orlando Predators,131,Cleveland Gladiators,66,69,False,13896,3939
+2008,Playoffs Week 1,2008-06-30,POST,1,40,Grand Rapids Rampage,21,Arizona Rattlers,48,41,False,10862,3941
+2008,Playoffs Week 2,2008-07-05,POST,2,98,Colorado Crush,25,San Jose SaberCats,51,64,False,12479,3943
+2008,Playoffs Week 2,2008-07-05,POST,2,72,New York Dragons,99,Philadelphia Soul,48,49,False,16102,3944
+2008,Playoffs Week 2,2008-07-06,POST,2,40,Grand Rapids Rampage,64,Chicago Rush,58,41,False,14338,3945
+2008,Playoffs Week 2,2008-07-07,POST,2,131,Cleveland Gladiators,95,Georgia Force,73,70,False,10173,3942
+2008,Playoffs Week 3,2008-07-12,POST,3,131,Cleveland Gladiators,99,Philadelphia Soul,35,70,False,13389,4181
+2008,Playoffs Week 3,2008-07-12,POST,3,40,Grand Rapids Rampage,25,San Jose SaberCats,55,81,False,14072,3947
+2008,ArenaBowl XXII,2008-07-27,POST,4,25,San Jose SaberCats,99,Philadelphia Soul,56,59,False,17244,3948

@@ -1,0 +1,28 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1990,Week 1,1990-06-08,REG,1,4,Denver Dynamite,11,Dallas Texans,47,50,False,8369,66
+1990,Week 1,1990-06-08,REG,1,6,Detroit Drive,5,Pittsburgh Gladiators,43,35,False,5837,67
+1990,Week 1,1990-06-09,REG,1,3,Washington Commandos,10,Albany Firebirds,12,16,False,7813,68
+1990,Week 2,1990-06-14,REG,2,10,Albany Firebirds,4,Denver Dynamite,20,38,False,6661,69
+1990,Week 2,1990-06-16,REG,2,5,Pittsburgh Gladiators,11,Dallas Texans,35,40,False,11838,71
+1990,Week 2,1990-06-16,REG,2,6,Detroit Drive,3,Washington Commandos,52,28,False,3492,70
+1990,Week 3,1990-06-22,REG,3,4,Denver Dynamite,6,Detroit Drive,35,22,False,8048,72
+1990,Week 3,1990-06-22,REG,3,3,Washington Commandos,5,Pittsburgh Gladiators,32,55,False,5927,73
+1990,Week 3,1990-06-23,REG,3,11,Dallas Texans,10,Albany Firebirds,34,46,False,9829,74
+1990,Week 4,1990-06-29,REG,4,11,Dallas Texans,6,Detroit Drive,14,53,False,12984,75
+1990,Week 4,1990-06-29,REG,4,4,Denver Dynamite,5,Pittsburgh Gladiators,47,45,False,4869,76
+1990,Week 4,1990-06-30,REG,4,10,Albany Firebirds,3,Washington Commandos,19,50,False,3127,77
+1990,Week 5,1990-07-06,REG,5,6,Detroit Drive,10,Albany Firebirds,50,21,False,11814,78
+1990,Week 5,1990-07-06,REG,5,5,Pittsburgh Gladiators,4,Denver Dynamite,29,38,False,9414,79
+1990,Week 5,1990-07-07,REG,5,11,Dallas Texans,3,Washington Commandos,49,38,False,3008,80
+1990,Week 6,1990-07-13,REG,6,3,Washington Commandos,4,Denver Dynamite,33,26,False,9652,81
+1990,Week 6,1990-07-14,REG,6,10,Albany Firebirds,5,Pittsburgh Gladiators,24,27,False,4523,82
+1990,Week 6,1990-07-14,REG,6,6,Detroit Drive,11,Dallas Texans,29,33,False,13360,83
+1990,Week 7,1990-07-20,REG,7,10,Albany Firebirds,6,Detroit Drive,16,37,False,15684,84
+1990,Week 7,1990-07-20,REG,7,11,Dallas Texans,4,Denver Dynamite,42,32,False,10587,85
+1990,Week 7,1990-07-21,REG,7,5,Pittsburgh Gladiators,3,Washington Commandos,30,23,True,3760,86
+1990,Week 8,1990-07-27,REG,8,5,Pittsburgh Gladiators,6,Detroit Drive,33,40,False,15768,87
+1990,Week 8,1990-07-28,REG,8,4,Denver Dynamite,10,Albany Firebirds,20,26,False,11151,88
+1990,Week 8,1990-07-28,REG,8,3,Washington Commandos,11,Dallas Texans,28,37,False,16088,89
+1990,Playoffs Week 1,1990-08-03,POST,1,5,Pittsburgh Gladiators,6,Detroit Drive,30,61,False,15874,90
+1990,Playoffs Week 1,1990-08-04,POST,1,4,Denver Dynamite,11,Dallas Texans,25,26,False,9245,
+1990,ArenaBowl IV,1990-08-11,POST,2,11,Dallas Texans,6,Detroit Drive,27,51,False,19902,92

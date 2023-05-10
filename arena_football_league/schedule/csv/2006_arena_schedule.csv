@@ -1,0 +1,156 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2006,Week 1,2006-01-27,REG,1,102,Las Vegas Gladiators,104,Austin Wranglers,46,64,False,11081,3047
+2006,Week 1,2006-01-28,REG,1,13,Orlando Predators,95,Georgia Force,31,48,False,13265,3079
+2006,Week 1,2006-01-28,REG,1,111,Nashville Kats,72,New York Dragons,57,28,False,11126,3127
+2006,Week 1,2006-01-28,REG,1,112,Utah Blaze,25,San Jose SaberCats,48,35,False,13872,3151
+2006,Week 1,2006-01-29,REG,1,64,Chicago Rush,98,Colorado Crush,56,65,False,14832,3055
+2006,Week 1,2006-01-29,REG,1,40,Grand Rapids Rampage,103,Columbus Destroyers,30,53,False,12451,3063
+2006,Week 1,2006-01-29,REG,1,115,Kansas City Brigade,86,Dallas Desperados,44,58,False,11571,3071
+2006,Week 1,2006-01-29,REG,1,21,Arizona Rattlers,44,Los Angeles Avengers,31,40,False,11731,3111
+2006,Week 1,2006-01-29,REG,1,12,Tampa Bay Storm,99,Philadelphia Soul,34,52,False,14115,3143
+2006,Week 2,2006-02-03,REG,2,12,Tampa Bay Storm,40,Grand Rapids Rampage,51,43,False,7714,3087
+2006,Week 2,2006-02-03,REG,2,115,Kansas City Brigade,13,Orlando Predators,41,48,False,13512,3135
+2006,Week 2,2006-02-03,REG,2,103,Columbus Destroyers,111,Nashville Kats,27,53,False,10941,3119
+2006,Week 2,2006-02-03,REG,2,72,New York Dragons,64,Chicago Rush,51,47,False,14947,3032
+2006,Week 2,2006-02-03,REG,2,104,Austin Wranglers,21,Arizona Rattlers,53,34,False,10205,3039
+2006,Week 2,2006-02-04,REG,2,86,Dallas Desperados,112,Utah Blaze,56,53,False,16705,3167
+2006,Week 2,2006-02-05,REG,2,98,Colorado Crush,95,Georgia Force,61,59,False,10431,3080
+2006,Week 2,2006-02-05,REG,2,44,Los Angeles Avengers,99,Philadelphia Soul,33,47,False,15732,3144
+2006,Week 2,2006-02-06,REG,2,25,San Jose SaberCats,102,Las Vegas Gladiators,48,51,False,10436,3103
+2006,Week 3,2006-02-10,REG,3,95,Georgia Force,12,Tampa Bay Storm,60,61,False,16751,3159
+2006,Week 3,2006-02-11,REG,3,86,Dallas Desperados,103,Columbus Destroyers,52,38,False,12286,3064
+2006,Week 3,2006-02-11,REG,3,99,Philadelphia Soul,13,Orlando Predators,33,47,False,14381,3136
+2006,Week 3,2006-02-11,REG,3,72,New York Dragons,112,Utah Blaze,84,81,False,15213,3168
+2006,Week 3,2006-02-12,REG,3,44,Los Angeles Avengers,40,Grand Rapids Rampage,41,66,False,4851,3088
+2006,Week 3,2006-02-12,REG,3,104,Austin Wranglers,115,Kansas City Brigade,37,33,False,16523,3095
+2006,Week 3,2006-02-12,REG,3,111,Nashville Kats,64,Chicago Rush,55,56,True,12663,3033
+2006,Week 3,2006-02-12,REG,3,102,Las Vegas Gladiators,98,Colorado Crush,55,65,False,15116,3056
+2006,Week 3,2006-02-12,REG,3,25,San Jose SaberCats,21,Arizona Rattlers,58,50,False,8315,3040
+2006,Week 4,2006-02-17,REG,4,104,Austin Wranglers,86,Dallas Desperados,56,49,False,12306,3072
+2006,Week 4,2006-02-17,REG,4,95,Georgia Force,102,Las Vegas Gladiators,54,34,False,10902,3104
+2006,Week 4,2006-02-18,REG,4,98,Colorado Crush,111,Nashville Kats,36,58,False,10014,3120
+2006,Week 4,2006-02-18,REG,4,112,Utah Blaze,21,Arizona Rattlers,38,45,False,11206,3041
+2006,Week 4,2006-02-18,REG,4,64,Chicago Rush,44,Los Angeles Avengers,65,46,False,12554,3112
+2006,Week 4,2006-02-19,REG,4,25,San Jose SaberCats,40,Grand Rapids Rampage,52,66,False,4875,3089
+2006,Week 4,2006-02-19,REG,4,103,Columbus Destroyers,115,Kansas City Brigade,24,45,False,14632,3096
+2006,Week 4,2006-02-19,REG,4,72,New York Dragons,99,Philadelphia Soul,59,75,False,15563,3145
+2006,Week 4,2006-02-19,REG,4,13,Orlando Predators,12,Tampa Bay Storm,67,64,True,14692,3160
+2006,Week 5,2006-02-24,REG,5,21,Arizona Rattlers,103,Columbus Destroyers,26,42,False,12097,3065
+2006,Week 5,2006-02-24,REG,5,115,Kansas City Brigade,95,Georgia Force,19,51,False,11623,3081
+2006,Week 5,2006-02-25,REG,5,104,Austin Wranglers,12,Tampa Bay Storm,48,58,False,15622,3161
+2006,Week 5,2006-02-25,REG,5,40,Grand Rapids Rampage,111,Nashville Kats,31,47,False,11113,3121
+2006,Week 5,2006-02-25,REG,5,102,Las Vegas Gladiators,86,Dallas Desperados,48,55,False,11439,3073
+2006,Week 5,2006-02-25,REG,5,112,Utah Blaze,44,Los Angeles Avengers,68,66,False,12314,3113
+2006,Week 5,2006-02-26,REG,5,25,San Jose SaberCats,64,Chicago Rush,48,54,True,12950,3031
+2006,Week 5,2006-02-26,REG,5,13,Orlando Predators,72,New York Dragons,35,55,False,11678,3128
+2006,Week 5,2006-02-26,REG,5,98,Colorado Crush,99,Philadelphia Soul,48,38,False,16617,3146
+2006,Week 6,2006-03-03,REG,6,103,Columbus Destroyers,72,New York Dragons,65,54,False,10173,3129
+2006,Week 6,2006-03-04,REG,6,104,Austin Wranglers,95,Georgia Force,53,52,False,11815,3082
+2006,Week 6,2006-03-04,REG,6,111,Nashville Kats,21,Arizona Rattlers,49,51,False,9099,3042
+2006,Week 6,2006-03-04,REG,6,25,San Jose SaberCats,112,Utah Blaze,65,50,False,16395,3169
+2006,Week 6,2006-03-05,REG,6,86,Dallas Desperados,64,Chicago Rush,59,42,False,13503,3034
+2006,Week 6,2006-03-05,REG,6,44,Los Angeles Avengers,13,Orlando Predators,34,59,False,12839,3137
+2006,Week 6,2006-03-05,REG,6,40,Grand Rapids Rampage,98,Colorado Crush,54,66,False,14597,3057
+2006,Week 6,2006-03-05,REG,6,12,Tampa Bay Storm,115,Kansas City Brigade,69,59,False,15227,3097
+2006,Week 6,2006-03-05,REG,6,99,Philadelphia Soul,102,Las Vegas Gladiators,49,67,False,10903,3105
+2006,Week 7,2006-03-10,REG,7,95,Georgia Force,103,Columbus Destroyers,68,50,False,10801,3066
+2006,Week 7,2006-03-10,REG,7,98,Colorado Crush,64,Chicago Rush,49,42,False,13807,3035
+2006,Week 7,2006-03-10,REG,7,13,Orlando Predators,21,Arizona Rattlers,57,60,False,10158,3043
+2006,Week 7,2006-03-10,REG,7,111,Nashville Kats,112,Utah Blaze,34,63,False,14052,3170
+2006,Week 7,2006-03-10,REG,7,40,Grand Rapids Rampage,102,Las Vegas Gladiators,41,66,False,8872,3106
+2006,Week 7,2006-03-12,REG,7,86,Dallas Desperados,12,Tampa Bay Storm,64,35,False,13114,3162
+2006,Week 7,2006-03-12,REG,7,72,New York Dragons,104,Austin Wranglers,59,56,False,10040,3048
+2006,Week 7,2006-03-12,REG,7,44,Los Angeles Avengers,25,San Jose SaberCats,75,61,False,13185,3152
+2006,Week 7,2006-03-13,REG,7,99,Philadelphia Soul,115,Kansas City Brigade,54,24,False,15379,3098
+2006,Week 8,2006-03-16,REG,8,112,Utah Blaze,40,Grand Rapids Rampage,49,59,False,4848,3090
+2006,Week 8,2006-03-17,REG,8,64,Chicago Rush,111,Nashville Kats,47,48,False,8772,3122
+2006,Week 8,2006-03-17,REG,8,21,Arizona Rattlers,102,Las Vegas Gladiators,47,33,False,9265,3107
+2006,Week 8,2006-03-17,REG,8,95,Georgia Force,25,San Jose SaberCats,55,56,True,12389,3153
+2006,Week 8,2006-03-18,REG,8,99,Philadelphia Soul,103,Columbus Destroyers,20,53,False,12807,3067
+2006,Week 8,2006-03-18,REG,8,72,New York Dragons,12,Tampa Bay Storm,44,60,False,13274,3163
+2006,Week 8,2006-03-18,REG,8,115,Kansas City Brigade,104,Austin Wranglers,37,64,False,9184,3049
+2006,Week 8,2006-03-19,REG,8,86,Dallas Desperados,13,Orlando Predators,87,62,False,12630,3138
+2006,Week 8,2006-03-19,REG,8,98,Colorado Crush,44,Los Angeles Avengers,57,60,False,12276,3114
+2006,Week 9,2006-03-24,REG,9,115,Kansas City Brigade,72,New York Dragons,48,54,False,10758,3130
+2006,Week 9,2006-03-24,REG,9,44,Los Angeles Avengers,21,Arizona Rattlers,45,58,False,10075,3044
+2006,Week 9,2006-03-24,REG,9,102,Las Vegas Gladiators,112,Utah Blaze,49,47,False,14472,3171
+2006,Week 9,2006-03-25,REG,9,13,Orlando Predators,104,Austin Wranglers,47,37,False,8099,3050
+2006,Week 9,2006-03-25,REG,9,99,Philadelphia Soul,86,Dallas Desperados,55,51,False,13931,3074
+2006,Week 9,2006-03-25,REG,9,25,San Jose SaberCats,111,Nashville Kats,48,51,False,8905,3123
+2006,Week 9,2006-03-25,REG,9,103,Columbus Destroyers,98,Colorado Crush,65,21,False,17416,3058
+2006,Week 9,2006-03-26,REG,9,40,Grand Rapids Rampage,64,Chicago Rush,44,51,False,15228,3036
+2006,Week 9,2006-03-26,REG,9,12,Tampa Bay Storm,95,Georgia Force,51,61,False,13032,3083
+2006,Week 10,2006-03-31,REG,10,104,Austin Wranglers,99,Philadelphia Soul,43,38,False,16547,3147
+2006,Week 10,2006-04-01,REG,10,40,Grand Rapids Rampage,72,New York Dragons,24,48,False,10443,3131
+2006,Week 10,2006-04-01,REG,10,112,Utah Blaze,12,Tampa Bay Storm,41,56,False,13404,3164
+2006,Week 10,2006-04-01,REG,10,103,Columbus Destroyers,86,Dallas Desperados,30,51,False,12821,3075
+2006,Week 10,2006-04-01,REG,10,95,Georgia Force,115,Kansas City Brigade,55,47,False,16032,3099
+2006,Week 10,2006-04-01,REG,10,111,Nashville Kats,98,Colorado Crush,47,77,False,14084,3059
+2006,Week 10,2006-04-02,REG,10,64,Chicago Rush,13,Orlando Predators,27,55,False,13111,3139
+2006,Week 10,2006-04-02,REG,10,44,Los Angeles Avengers,102,Las Vegas Gladiators,49,63,False,9652,3108
+2006,Week 10,2006-04-02,REG,10,21,Arizona Rattlers,25,San Jose SaberCats,49,61,False,13462,3154
+2006,Week 11,2006-04-07,REG,11,25,San Jose SaberCats,12,Tampa Bay Storm,52,43,False,14566,3165
+2006,Week 11,2006-04-07,REG,11,21,Arizona Rattlers,112,Utah Blaze,64,52,False,14651,3172
+2006,Week 11,2006-04-08,REG,11,98,Colorado Crush,40,Grand Rapids Rampage,73,48,False,5712,3091
+2006,Week 11,2006-04-09,REG,11,44,Los Angeles Avengers,115,Kansas City Brigade,45,62,False,15173,3100
+2006,Week 11,2006-04-09,REG,11,86,Dallas Desperados,72,New York Dragons,46,28,False,11478,3132
+2006,Week 11,2006-04-09,REG,11,64,Chicago Rush,99,Philadelphia Soul,55,56,True,14778,3148
+2006,Week 11,2006-04-09,REG,11,13,Orlando Predators,103,Columbus Destroyers,39,36,False,11551,3068
+2006,Week 11,2006-04-09,REG,11,111,Nashville Kats,102,Las Vegas Gladiators,58,44,False,9763,3109
+2006,Week 11,2006-04-09,REG,11,95,Georgia Force,104,Austin Wranglers,61,29,False,11464,3051
+2006,Week 12,2006-04-14,REG,12,72,New York Dragons,103,Columbus Destroyers,64,57,False,10306,3069
+2006,Week 12,2006-04-14,REG,12,95,Georgia Force,13,Orlando Predators,41,57,False,14371,3140
+2006,Week 12,2006-04-14,REG,12,99,Philadelphia Soul,111,Nashville Kats,49,33,False,9458,3124
+2006,Week 12,2006-04-14,REG,12,102,Las Vegas Gladiators,25,San Jose SaberCats,59,69,False,12154,3155
+2006,Week 12,2006-04-15,REG,12,12,Tampa Bay Storm,104,Austin Wranglers,59,60,False,10394,3052
+2006,Week 12,2006-04-15,REG,12,40,Grand Rapids Rampage,86,Dallas Desperados,25,55,False,12823,3076
+2006,Week 12,2006-04-15,REG,12,44,Los Angeles Avengers,112,Utah Blaze,61,63,False,15642,3173
+2006,Week 12,2006-04-15,REG,12,64,Chicago Rush,21,Arizona Rattlers,42,61,False,11790,3045
+2006,Week 12,2006-04-16,REG,12,98,Colorado Crush,115,Kansas City Brigade,55,49,False,12814,3101
+2006,Week 13,2006-04-21,REG,13,103,Columbus Destroyers,99,Philadelphia Soul,46,45,False,14918,3149
+2006,Week 13,2006-04-21,REG,13,112,Utah Blaze,98,Colorado Crush,52,40,False,15321,3060
+2006,Week 13,2006-04-22,REG,13,86,Dallas Desperados,95,Georgia Force,62,59,False,14186,3084
+2006,Week 13,2006-04-22,REG,13,12,Tampa Bay Storm,13,Orlando Predators,13,52,False,15920,3141
+2006,Week 13,2006-04-22,REG,13,115,Kansas City Brigade,111,Nashville Kats,58,52,False,8214,3125
+2006,Week 13,2006-04-22,REG,13,104,Austin Wranglers,25,San Jose SaberCats,59,63,False,12214,3156
+2006,Week 13,2006-04-23,REG,13,21,Arizona Rattlers,40,Grand Rapids Rampage,42,45,False,5297,3092
+2006,Week 13,2006-04-23,REG,13,102,Las Vegas Gladiators,64,Chicago Rush,47,67,False,16230,3037
+2006,Week 13,2006-04-23,REG,13,72,New York Dragons,44,Los Angeles Avengers,70,61,False,9852,3115
+2006,Week 14,2006-04-28,REG,14,21,Arizona Rattlers,86,Dallas Desperados,46,54,False,12033,3077
+2006,Week 14,2006-04-29,REG,14,64,Chicago Rush,95,Georgia Force,20,55,False,13087,3085
+2006,Week 14,2006-04-29,REG,14,99,Philadelphia Soul,72,New York Dragons,58,65,False,12063,3133
+2006,Week 14,2006-04-29,REG,14,115,Kansas City Brigade,12,Tampa Bay Storm,42,58,False,17143,3166
+2006,Week 14,2006-04-29,REG,14,103,Columbus Destroyers,104,Austin Wranglers,40,33,False,10340,3053
+2006,Week 14,2006-04-29,REG,14,111,Nashville Kats,40,Grand Rapids Rampage,54,61,False,7452,3093
+2006,Week 14,2006-04-29,REG,14,112,Utah Blaze,102,Las Vegas Gladiators,63,52,False,11127,3110
+2006,Week 14,2006-04-29,REG,14,25,San Jose SaberCats,44,Los Angeles Avengers,53,36,False,11552,3116
+2006,Week 14,2006-04-30,REG,14,13,Orlando Predators,98,Colorado Crush,54,75,False,13447,3061
+2006,Week 15,2006-05-05,REG,15,102,Las Vegas Gladiators,21,Arizona Rattlers,28,75,False,10687,3046
+2006,Week 15,2006-05-06,REG,15,86,Dallas Desperados,99,Philadelphia Soul,48,51,False,15438,3150
+2006,Week 15,2006-05-06,REG,15,12,Tampa Bay Storm,103,Columbus Destroyers,48,51,False,14357,3070
+2006,Week 15,2006-05-06,REG,15,95,Georgia Force,72,New York Dragons,35,47,False,10722,3134
+2006,Week 15,2006-05-06,REG,15,112,Utah Blaze,64,Chicago Rush,48,84,False,16154,3038
+2006,Week 15,2006-05-06,REG,15,13,Orlando Predators,115,Kansas City Brigade,63,42,False,16095,3102
+2006,Week 15,2006-05-06,REG,15,111,Nashville Kats,44,Los Angeles Avengers,56,73,False,9030,3117
+2006,Week 15,2006-05-06,REG,15,98,Colorado Crush,25,San Jose SaberCats,56,61,False,13504,3157
+2006,Week 15,2006-05-07,REG,15,40,Grand Rapids Rampage,104,Austin Wranglers,38,57,False,10178,3054
+2006,Week 16,2006-05-12,REG,16,104,Austin Wranglers,13,Orlando Predators,67,43,False,14501,3142
+2006,Week 16,2006-05-12,REG,16,72,New York Dragons,86,Dallas Desperados,38,82,False,12304,3078
+2006,Week 16,2006-05-12,REG,16,21,Arizona Rattlers,98,Colorado Crush,35,59,False,15261,3062
+2006,Week 16,2006-05-12,REG,16,115,Kansas City Brigade,112,Utah Blaze,54,55,False,16855,3174
+2006,Week 16,2006-05-13,REG,16,64,Chicago Rush,40,Grand Rapids Rampage,70,47,False,7280,3094
+2006,Week 16,2006-05-13,REG,16,99,Philadelphia Soul,95,Georgia Force,57,41,False,13766,3086
+2006,Week 16,2006-05-13,REG,16,12,Tampa Bay Storm,111,Nashville Kats,50,66,False,9713,3126
+2006,Week 16,2006-05-13,REG,16,102,Las Vegas Gladiators,44,Los Angeles Avengers,27,44,False,11182,3118
+2006,Week 16,2006-05-13,REG,16,103,Columbus Destroyers,25,San Jose SaberCats,47,68,False,12354,3158
+2006,Playoffs Week 1,2006-05-20,POST,1,112,Utah Blaze,21,Arizona Rattlers,34,57,False,7982,3360
+2006,Playoffs Week 1,2006-05-21,POST,1,95,Georgia Force,72,New York Dragons,72,69,False,10243,3362
+2006,Playoffs Week 1,2006-05-21,POST,1,99,Philadelphia Soul,104,Austin Wranglers,52,35,False,10060,3364
+2006,Playoffs Week 1,2006-05-21,POST,1,64,Chicago Rush,111,Nashville Kats,55,47,False,7838,3367
+2006,Playoffs Week 2,2006-05-27,POST,2,95,Georgia Force,86,Dallas Desperados,27,62,False,12231,3359
+2006,Playoffs Week 2,2006-05-27,POST,2,21,Arizona Rattlers,25,San Jose SaberCats,48,62,False,12504,3369
+2006,Playoffs Week 2,2006-05-28,POST,2,99,Philadelphia Soul,13,Orlando Predators,27,31,False,13205,3361
+2006,Playoffs Week 2,2006-05-28,POST,2,64,Chicago Rush,98,Colorado Crush,63,46,False,13258,3368
+2006,Playoffs Week 3,2006-06-03,POST,3,64,Chicago Rush,25,San Jose SaberCats,59,56,False,12229,3365
+2006,Playoffs Week 3,2006-06-04,POST,3,13,Orlando Predators,86,Dallas Desperados,45,28,False,12954,3366
+2006,ArenaBowl XX,2006-06-11,POST,4,64,Chicago Rush,13,Orlando Predators,69,61,False,13476,3030

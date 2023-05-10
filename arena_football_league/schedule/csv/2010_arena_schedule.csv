@@ -1,0 +1,128 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2010,Week 1,2010-04-02,REG,1,64,Chicago Rush,145,Iowa Barnstormers,61,43,False,12184,4445
+2010,Week 1,2010-04-02,REG,1,215,Milwaukee Iron,149,Spokane Shock,74,62,False,10096,4506
+2010,Week 1,2010-04-03,REG,1,151,Alabama Vipers,141,Bossier-Shreveport Battle Wings,48,54,False,2974,4414
+2010,Week 1,2010-04-03,REG,1,21,Arizona Rattlers,131,Cleveland Gladiators,61,56,False,11688,4429
+2010,Week 1,2010-04-03,REG,1,12,Tampa Bay Storm,152,Tulsa Talons,58,69,False,6688,4507
+2010,Week 1,2010-04-03,REG,1,139,Jacksonville Sharks,147,Oklahoma City Yard Dawgz,54,38,False,5542,4496
+2010,Week 2,2010-04-09,REG,2,131,Cleveland Gladiators,64,Chicago Rush,56,59,False,8075,4446
+2010,Week 2,2010-04-09,REG,2,139,Jacksonville Sharks,151,Alabama Vipers,49,63,False,4007,4415
+2010,Week 2,2010-04-09,REG,2,149,Spokane Shock,112,Utah Blaze,68,34,False,5032,4508
+2010,Week 2,2010-04-10,REG,2,144,Dallas Vigilantes,152,Tulsa Talons,59,63,False,6108,4485
+2010,Week 2,2010-04-10,REG,2,13,Orlando Predators,141,Bossier-Shreveport Battle Wings,67,73,False,3515,4459
+2010,Week 3,2010-04-16,REG,3,144,Dallas Vigilantes,12,Tampa Bay Storm,41,54,False,14122,4486
+2010,Week 3,2010-04-16,REG,3,13,Orlando Predators,139,Jacksonville Sharks,31,57,False,11179,4497
+2010,Week 3,2010-04-16,REG,3,145,Iowa Barnstormers,215,Milwaukee Iron,48,65,False,5032,4509
+2010,Week 3,2010-04-16,REG,3,64,Chicago Rush,21,Arizona Rattlers,70,56,False,14994,4430
+2010,Week 3,2010-04-17,REG,3,131,Cleveland Gladiators,147,Oklahoma City Yard Dawgz,50,63,False,5422,4472
+2010,Week 3,2010-04-17,REG,3,151,Alabama Vipers,112,Utah Blaze,63,54,False,4898,4416
+2010,Week 3,2010-04-17,REG,3,141,Bossier-Shreveport Battle Wings,149,Spokane Shock,70,78,False,10378,4460
+2010,Week 4,2010-04-23,REG,4,112,Utah Blaze,64,Chicago Rush,40,63,False,7459,4447
+2010,Week 4,2010-04-23,REG,4,152,Tulsa Talons,21,Arizona Rattlers,76,77,False,10083,4431
+2010,Week 4,2010-04-24,REG,4,147,Oklahoma City Yard Dawgz,145,Iowa Barnstormers,60,68,False,8312,4510
+2010,Week 4,2010-04-25,REG,4,12,Tampa Bay Storm,215,Milwaukee Iron,61,72,False,4049,4511
+2010,Week 5,2010-04-30,REG,5,145,Iowa Barnstormers,13,Orlando Predators,50,40,False,11076,4512
+2010,Week 5,2010-04-30,REG,5,147,Oklahoma City Yard Dawgz,144,Dallas Vigilantes,34,55,False,7051,4487
+2010,Week 5,2010-04-30,REG,5,141,Bossier-Shreveport Battle Wings,112,Utah Blaze,46,65,False,4256,4461
+2010,Week 5,2010-05-01,REG,5,152,Tulsa Talons,139,Jacksonville Sharks,60,62,False,9352,4498
+2010,Week 5,2010-05-01,REG,5,21,Arizona Rattlers,12,Tampa Bay Storm,61,62,False,12874,4432
+2010,Week 5,2010-05-01,REG,5,215,Milwaukee Iron,151,Alabama Vipers,67,75,False,5170,4417
+2010,Week 5,2010-05-01,REG,5,131,Cleveland Gladiators,149,Spokane Shock,72,68,False,9974,4473
+2010,Week 6,2010-05-07,REG,6,139,Jacksonville Sharks,12,Tampa Bay Storm,46,43,False,14201,4499
+2010,Week 6,2010-05-07,REG,6,64,Chicago Rush,215,Milwaukee Iron,48,71,False,5386,4448
+2010,Week 6,2010-05-07,REG,6,13,Orlando Predators,144,Dallas Vigilantes,70,59,False,7108,4488
+2010,Week 6,2010-05-07,REG,6,149,Spokane Shock,21,Arizona Rattlers,63,56,False,10203,4433
+2010,Week 6,2010-05-08,REG,6,151,Alabama Vipers,152,Tulsa Talons,56,62,False,6941,4418
+2010,Week 6,2010-05-08,REG,6,141,Bossier-Shreveport Battle Wings,147,Oklahoma City Yard Dawgz,79,88,False,4775,4462
+2010,Week 6,2010-05-08,REG,6,131,Cleveland Gladiators,145,Iowa Barnstormers,70,56,False,8059,4474
+2010,Week 7,2010-05-14,REG,7,144,Dallas Vigilantes,139,Jacksonville Sharks,49,70,False,10052,4489
+2010,Week 7,2010-05-14,REG,7,112,Utah Blaze,215,Milwaukee Iron,55,56,True,6815,4513
+2010,Week 7,2010-05-15,REG,7,152,Tulsa Talons,131,Cleveland Gladiators,55,68,False,8979,4475
+2010,Week 7,2010-05-15,REG,7,145,Iowa Barnstormers,64,Chicago Rush,44,30,False,10363,4449
+2010,Week 7,2010-05-15,REG,7,12,Tampa Bay Storm,141,Bossier-Shreveport Battle Wings,48,44,False,4784,4463
+2010,Week 7,2010-05-15,REG,7,13,Orlando Predators,151,Alabama Vipers,48,31,False,4007,4413
+2010,Week 7,2010-05-16,REG,7,149,Spokane Shock,147,Oklahoma City Yard Dawgz,68,63,False,4415,4514
+2010,Week 8,2010-05-21,REG,8,215,Milwaukee Iron,13,Orlando Predators,54,58,False,10333,4515
+2010,Week 8,2010-05-21,REG,8,21,Arizona Rattlers,145,Iowa Barnstormers,52,48,False,9912,4435
+2010,Week 8,2010-05-22,REG,8,131,Cleveland Gladiators,139,Jacksonville Sharks,44,46,False,11715,4476
+2010,Week 8,2010-05-22,REG,8,147,Oklahoma City Yard Dawgz,152,Tulsa Talons,41,67,False,7235,4516
+2010,Week 8,2010-05-22,REG,8,141,Bossier-Shreveport Battle Wings,151,Alabama Vipers,19,56,False,3701,4419
+2010,Week 8,2010-05-22,REG,8,64,Chicago Rush,144,Dallas Vigilantes,63,56,False,4583,4450
+2010,Week 8,2010-05-22,REG,8,112,Utah Blaze,149,Spokane Shock,28,77,False,10481,4517
+2010,Week 9,2010-05-28,REG,9,12,Tampa Bay Storm,13,Orlando Predators,62,50,False,10924,4500
+2010,Week 9,2010-05-28,REG,9,151,Alabama Vipers,147,Oklahoma City Yard Dawgz,39,65,False,5139,4420
+2010,Week 9,2010-05-28,REG,9,21,Arizona Rattlers,112,Utah Blaze,83,58,False,8501,4434
+2010,Week 9,2010-05-29,REG,9,64,Chicago Rush,131,Cleveland Gladiators,52,49,False,8688,4451
+2010,Week 9,2010-05-29,REG,9,144,Dallas Vigilantes,215,Milwaukee Iron,38,63,False,4251,4490
+2010,Week 9,2010-05-29,REG,9,152,Tulsa Talons,141,Bossier-Shreveport Battle Wings,52,48,False,3173,4464
+2010,Week 9,2010-05-29,REG,9,139,Jacksonville Sharks,149,Spokane Shock,57,67,False,10460,4501
+2010,Week 10,2010-06-04,REG,10,112,Utah Blaze,131,Cleveland Gladiators,39,75,False,7751,4477
+2010,Week 10,2010-06-04,REG,10,139,Jacksonville Sharks,64,Chicago Rush,64,56,False,7430,4452
+2010,Week 10,2010-06-05,REG,10,147,Oklahoma City Yard Dawgz,12,Tampa Bay Storm,48,50,False,16200,4518
+2010,Week 10,2010-06-05,REG,10,13,Orlando Predators,152,Tulsa Talons,57,54,False,6125,4519
+2010,Week 10,2010-06-05,REG,10,151,Alabama Vipers,145,Iowa Barnstormers,45,44,False,8143,4421
+2010,Week 10,2010-06-05,REG,10,141,Bossier-Shreveport Battle Wings,144,Dallas Vigilantes,70,69,False,4297,4465
+2010,Week 10,2010-06-05,REG,10,215,Milwaukee Iron,21,Arizona Rattlers,67,68,True,10031,4436
+2010,Week 11,2010-06-11,REG,11,12,Tampa Bay Storm,151,Alabama Vipers,61,55,False,5994,4422
+2010,Week 11,2010-06-11,REG,11,152,Tulsa Talons,144,Dallas Vigilantes,69,51,False,4192,4491
+2010,Week 11,2010-06-11,REG,11,147,Oklahoma City Yard Dawgz,21,Arizona Rattlers,55,56,False,10115,4437
+2010,Week 11,2010-06-12,REG,11,149,Spokane Shock,13,Orlando Predators,53,52,False,10346,4520
+2010,Week 11,2010-06-12,REG,11,131,Cleveland Gladiators,215,Milwaukee Iron,54,82,False,4771,4478
+2010,Week 11,2010-06-12,REG,11,145,Iowa Barnstormers,141,Bossier-Shreveport Battle Wings,48,42,False,3477,4466
+2010,Week 11,2010-06-12,REG,11,64,Chicago Rush,112,Utah Blaze,70,50,False,4892,4453
+2010,Week 12,2010-06-18,REG,12,139,Jacksonville Sharks,13,Orlando Predators,48,70,False,14010,4502
+2010,Week 12,2010-06-18,REG,12,152,Tulsa Talons,149,Spokane Shock,42,63,False,10077,4521
+2010,Week 12,2010-06-19,REG,12,145,Iowa Barnstormers,131,Cleveland Gladiators,35,76,False,8179,4479
+2010,Week 12,2010-06-19,REG,12,215,Milwaukee Iron,64,Chicago Rush,56,63,False,8287,4454
+2010,Week 12,2010-06-19,REG,12,144,Dallas Vigilantes,151,Alabama Vipers,52,55,False,5260,4423
+2010,Week 12,2010-06-19,REG,12,12,Tampa Bay Storm,112,Utah Blaze,65,40,False,4525,4522
+2010,Week 12,2010-06-19,REG,12,141,Bossier-Shreveport Battle Wings,21,Arizona Rattlers,50,79,False,10217,4438
+2010,Week 13,2010-06-25,REG,13,141,Bossier-Shreveport Battle Wings,12,Tampa Bay Storm,39,78,False,15808,4467
+2010,Week 13,2010-06-26,REG,13,21,Arizona Rattlers,139,Jacksonville Sharks,66,50,False,11922,4439
+2010,Week 13,2010-06-26,REG,13,13,Orlando Predators,64,Chicago Rush,42,55,False,8120,4455
+2010,Week 13,2010-06-26,REG,13,131,Cleveland Gladiators,152,Tulsa Talons,44,65,False,5469,4480
+2010,Week 13,2010-06-26,REG,13,149,Spokane Shock,215,Milwaukee Iron,62,48,False,6613,4524
+2010,Week 13,2010-06-26,REG,13,144,Dallas Vigilantes,147,Oklahoma City Yard Dawgz,31,35,False,5114,4492
+2010,Week 13,2010-06-26,REG,13,112,Utah Blaze,145,Iowa Barnstormers,32,68,False,9542,4523
+2010,Week 14,2010-07-02,REG,14,64,Chicago Rush,12,Tampa Bay Storm,60,68,False,15704,4456
+2010,Week 14,2010-07-02,REG,14,145,Iowa Barnstormers,144,Dallas Vigilantes,59,38,False,4126,4493
+2010,Week 14,2010-07-02,REG,14,215,Milwaukee Iron,112,Utah Blaze,82,56,False,3537,4525
+2010,Week 14,2010-07-02,REG,14,21,Arizona Rattlers,149,Spokane Shock,36,37,False,10268,4440
+2010,Week 14,2010-07-03,REG,14,151,Alabama Vipers,139,Jacksonville Sharks,47,62,False,8753,4424
+2010,Week 14,2010-07-03,REG,14,131,Cleveland Gladiators,13,Orlando Predators,77,70,True,10101,4481
+2010,Week 14,2010-07-03,REG,14,147,Oklahoma City Yard Dawgz,141,Bossier-Shreveport Battle Wings,70,44,False,3382,4468
+2010,Week 15,2010-07-09,REG,15,151,Alabama Vipers,13,Orlando Predators,34,45,False,10504,4425
+2010,Week 15,2010-07-09,REG,15,12,Tampa Bay Storm,144,Dallas Vigilantes,56,34,False,5009,4494
+2010,Week 15,2010-07-09,REG,15,139,Jacksonville Sharks,112,Utah Blaze,67,56,False,4508,4503
+2010,Week 15,2010-07-10,REG,15,149,Spokane Shock,131,Cleveland Gladiators,62,56,True,8237,4482
+2010,Week 15,2010-07-10,REG,15,21,Arizona Rattlers,64,Chicago Rush,50,55,False,8452,4441
+2010,Week 15,2010-07-10,REG,15,141,Bossier-Shreveport Battle Wings,152,Tulsa Talons,45,74,False,5938,4469
+2010,Week 15,2010-07-10,REG,15,145,Iowa Barnstormers,147,Oklahoma City Yard Dawgz,42,52,False,5415,4526
+2010,Week 16,2010-07-16,REG,16,149,Spokane Shock,145,Iowa Barnstormers,48,42,False,9164,4528
+2010,Week 16,2010-07-16,REG,16,112,Utah Blaze,21,Arizona Rattlers,20,48,False,10317,4442
+2010,Week 16,2010-07-17,REG,16,147,Oklahoma City Yard Dawgz,131,Cleveland Gladiators,39,44,False,7682,4483
+2010,Week 16,2010-07-17,REG,16,12,Tampa Bay Storm,139,Jacksonville Sharks,47,49,False,13011,4504
+2010,Week 16,2010-07-17,REG,16,144,Dallas Vigilantes,64,Chicago Rush,65,52,True,7594,4457
+2010,Week 16,2010-07-17,REG,16,13,Orlando Predators,215,Milwaukee Iron,41,57,False,6948,4527
+2010,Week 16,2010-07-17,REG,16,152,Tulsa Talons,151,Alabama Vipers,61,48,False,4298,4426
+2010,Week 17,2010-07-23,REG,17,64,Chicago Rush,149,Spokane Shock,49,63,False,10775,4458
+2010,Week 17,2010-07-24,REG,17,151,Alabama Vipers,12,Tampa Bay Storm,29,53,False,15685,4427
+2010,Week 17,2010-07-24,REG,17,147,Oklahoma City Yard Dawgz,13,Orlando Predators,21,49,False,12343,4529
+2010,Week 17,2010-07-24,REG,17,21,Arizona Rattlers,152,Tulsa Talons,61,51,False,8147,4443
+2010,Week 17,2010-07-24,REG,17,139,Jacksonville Sharks,141,Bossier-Shreveport Battle Wings,48,20,False,6015,4470
+2010,Week 17,2010-07-24,REG,17,215,Milwaukee Iron,145,Iowa Barnstormers,75,67,False,10190,4530
+2010,Week 17,2010-07-24,REG,17,112,Utah Blaze,144,Dallas Vigilantes,51,41,False,9123,4495
+2010,Week 18,2010-07-30,REG,18,149,Spokane Shock,139,Jacksonville Sharks,49,64,False,13000,4505
+2010,Week 18,2010-07-30,REG,18,152,Tulsa Talons,147,Oklahoma City Yard Dawgz,74,61,False,7702,4531
+2010,Week 18,2010-07-30,REG,18,145,Iowa Barnstormers,21,Arizona Rattlers,67,47,False,10420,4444
+2010,Week 18,2010-07-31,REG,18,215,Milwaukee Iron,131,Cleveland Gladiators,54,47,False,9423,4484
+2010,Week 18,2010-07-31,REG,18,13,Orlando Predators,12,Tampa Bay Storm,75,60,False,17302,4532
+2010,Week 18,2010-07-31,REG,18,144,Dallas Vigilantes,141,Bossier-Shreveport Battle Wings,62,56,False,4417,4471
+2010,Week 18,2010-07-31,REG,18,112,Utah Blaze,151,Alabama Vipers,64,68,False,5136,4428
+2010,Playoffs Week 1,2010-08-06,POST,1,13,Orlando Predators,139,Jacksonville Sharks,73,69,False,10000,4769
+2010,Playoffs Week 1,2010-08-06,POST,1,21,Arizona Rattlers,149,Spokane Shock,49,57,False,8236,4768
+2010,Playoffs Week 1,2010-08-07,POST,1,64,Chicago Rush,215,Milwaukee Iron,54,64,False,5023,4770
+2010,Playoffs Week 1,2010-08-07,POST,1,12,Tampa Bay Storm,152,Tulsa Talons,68,38,False,5964,4767
+2010,Playoffs Week 2,2010-08-12,POST,2,215,Milwaukee Iron,149,Spokane Shock,57,60,False,8151,4771
+2010,Playoffs Week 2,2010-08-14,POST,2,13,Orlando Predators,12,Tampa Bay Storm,62,63,False,10104,4772
+2010,ArenaBowl XXIII,2010-08-20,POST,3,12,Tampa Bay Storm,149,Spokane Shock,57,69,False,11017,4773

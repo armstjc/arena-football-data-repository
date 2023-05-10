@@ -1,0 +1,128 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1999,Preseason Week 1,1999-04-07,PRE,1,32,Florida Bobcats,42,Buffalo Destroyers,17,24,False,3750,856
+1999,Preseason Week 1,1999-04-07,PRE,1,35,Portland Forest Dragons,25,San Jose SaberCats,55,33,False,,
+1999,Preseason Week 1,1999-04-09,PRE,1,37,New Jersey Red Dogs,36,Nashville Kats,49,51,False,,
+1999,Preseason Week 1,1999-04-09,PRE,1,43,New England SeaWolves,41,Houston ThunderBears,51,68,False,5999,
+1999,Preseason Week 1,1999-04-09,PRE,1,10,Albany Firebirds,22,Milwaukee Mustangs,45,47,False,,
+1999,Preseason Week 1,1999-04-10,PRE,1,13,Orlando Predators,12,Tampa Bay Storm,45,39,False,8262,
+1999,Preseason Week 1,1999-04-10,PRE,1,21,Arizona Rattlers,23,Iowa Barnstormers,26,40,False,,
+1999,Preseason Week 1,1999-04-10,PRE,1,40,Grand Rapids Rampage,35,Portland Forest Dragons,46,40,False,,
+1999,Preseason Week 2,1999-04-14,PRE,2,25,San Jose SaberCats,21,Arizona Rattlers,41,64,False,,
+1999,Preseason Week 2,1999-04-15,PRE,2,41,Houston ThunderBears,40,Grand Rapids Rampage,33,58,False,,
+1999,Preseason Week 2,1999-04-15,PRE,2,37,New Jersey Red Dogs,22,Milwaukee Mustangs,35,41,False,,
+1999,Preseason Week 2,1999-04-16,PRE,2,42,Buffalo Destroyers,13,Orlando Predators,34,35,False,11161,
+1999,Preseason Week 2,1999-04-16,PRE,2,12,Tampa Bay Storm,32,Florida Bobcats,49,44,False,5817,
+1999,Preseason Week 2,1999-04-16,PRE,2,43,New England SeaWolves,36,Nashville Kats,46,57,False,10342,
+1999,Preseason Week 2,1999-04-17,PRE,2,10,Albany Firebirds,23,Iowa Barnstormers,39,60,False,6792,
+1999,Week 1,1999-04-23,REG,1,43,New England SeaWolves,32,Florida Bobcats,45,43,False,4879,751
+1999,Week 1,1999-04-23,REG,1,23,Iowa Barnstormers,41,Houston ThunderBears,69,36,False,3056,752
+1999,Week 1,1999-04-23,REG,1,13,Orlando Predators,36,Nashville Kats,49,40,False,14621,753
+1999,Week 1,1999-04-23,REG,1,22,Milwaukee Mustangs,35,Portland Forest Dragons,27,61,False,6157,754
+1999,Week 1,1999-04-23,REG,1,37,New Jersey Red Dogs,21,Arizona Rattlers,54,62,False,13137,757
+1999,Week 1,1999-04-24,REG,1,10,Albany Firebirds,12,Tampa Bay Storm,49,42,False,10436,755
+1999,Week 1,1999-04-24,REG,1,25,San Jose SaberCats,40,Grand Rapids Rampage,54,53,False,10097,756
+1999,Week 2,1999-04-29,REG,2,12,Tampa Bay Storm,22,Milwaukee Mustangs,49,42,False,13101,758
+1999,Week 2,1999-04-30,REG,2,43,New England SeaWolves,42,Buffalo Destroyers,59,26,False,13214,760
+1999,Week 2,1999-04-30,REG,2,25,San Jose SaberCats,32,Florida Bobcats,56,78,False,4370,761
+1999,Week 2,1999-05-01,REG,2,40,Grand Rapids Rampage,41,Houston ThunderBears,68,65,False,1517,762
+1999,Week 2,1999-05-01,REG,2,13,Orlando Predators,23,Iowa Barnstormers,47,64,False,9505,646
+1999,Week 2,1999-05-01,REG,2,36,Nashville Kats,35,Portland Forest Dragons,37,31,False,7408,763
+1999,Week 2,1999-05-02,REG,2,10,Albany Firebirds,37,New Jersey Red Dogs,51,52,False,8461,759
+1999,Week 3,1999-05-07,REG,3,10,Albany Firebirds,43,New England SeaWolves,77,42,False,8869,764
+1999,Week 3,1999-05-07,REG,3,37,New Jersey Red Dogs,42,Buffalo Destroyers,41,39,False,14600,765
+1999,Week 3,1999-05-07,REG,3,41,Houston ThunderBears,13,Orlando Predators,49,67,False,13562,766
+1999,Week 3,1999-05-07,REG,3,40,Grand Rapids Rampage,22,Milwaukee Mustangs,73,37,False,14403,767
+1999,Week 3,1999-05-08,REG,3,23,Iowa Barnstormers,21,Arizona Rattlers,39,58,False,13964,768
+1999,Week 3,1999-05-08,REG,3,35,Portland Forest Dragons,25,San Jose SaberCats,51,79,False,14795,769
+1999,Week 3,1999-05-10,REG,3,32,Florida Bobcats,36,Nashville Kats,42,63,False,11562,770
+1999,Week 4,1999-05-14,REG,4,23,Iowa Barnstormers,40,Grand Rapids Rampage,47,61,False,8619,771
+1999,Week 4,1999-05-14,REG,4,43,New England SeaWolves,13,Orlando Predators,57,46,False,12413,772
+1999,Week 4,1999-05-14,REG,4,22,Milwaukee Mustangs,41,Houston ThunderBears,61,75,False,3091,773
+1999,Week 4,1999-05-15,REG,4,42,Buffalo Destroyers,10,Albany Firebirds,41,51,False,12011,774
+1999,Week 4,1999-05-15,REG,4,32,Florida Bobcats,12,Tampa Bay Storm,12,43,False,9672,775
+1999,Week 4,1999-05-15,REG,4,21,Arizona Rattlers,25,San Jose SaberCats,50,54,False,13782,776
+1999,Week 4,1999-05-17,REG,4,37,New Jersey Red Dogs,35,Portland Forest Dragons,38,24,False,6791,777
+1999,Week 5,1999-05-21,REG,5,42,Buffalo Destroyers,43,New England SeaWolves,22,36,False,6502,778
+1999,Week 5,1999-05-22,REG,5,21,Arizona Rattlers,10,Albany Firebirds,54,59,False,10043,779
+1999,Week 5,1999-05-22,REG,5,40,Grand Rapids Rampage,32,Florida Bobcats,36,39,False,6129,780
+1999,Week 5,1999-05-22,REG,5,36,Nashville Kats,12,Tampa Bay Storm,34,41,False,8689,781
+1999,Week 5,1999-05-22,REG,5,13,Orlando Predators,37,New Jersey Red Dogs,51,38,True,4128,782
+1999,Week 5,1999-05-22,REG,5,35,Portland Forest Dragons,23,Iowa Barnstormers,45,51,False,10312,783
+1999,Week 5,1999-05-24,REG,5,25,San Jose SaberCats,22,Milwaukee Mustangs,52,45,False,12781,784
+1999,Week 6,1999-05-28,REG,6,10,Albany Firebirds,13,Orlando Predators,38,45,False,13107,785
+1999,Week 6,1999-05-28,REG,6,40,Grand Rapids Rampage,42,Buffalo Destroyers,40,38,False,15317,786
+1999,Week 6,1999-05-28,REG,6,35,Portland Forest Dragons,32,Florida Bobcats,48,37,False,3261,787
+1999,Week 6,1999-05-28,REG,6,22,Milwaukee Mustangs,37,New Jersey Red Dogs,53,40,False,4062,789
+1999,Week 6,1999-05-28,REG,6,12,Tampa Bay Storm,36,Nashville Kats,43,32,False,12080,788
+1999,Week 6,1999-05-29,REG,6,41,Houston ThunderBears,21,Arizona Rattlers,47,56,False,15723,790
+1999,Week 6,1999-05-29,REG,6,23,Iowa Barnstormers,25,San Jose SaberCats,34,30,False,14019,791
+1999,Week 7,1999-06-04,REG,7,32,Florida Bobcats,42,Buffalo Destroyers,50,32,False,11476,792
+1999,Week 7,1999-06-04,REG,7,21,Arizona Rattlers,41,Houston ThunderBears,45,38,True,2985,793
+1999,Week 7,1999-06-05,REG,7,12,Tampa Bay Storm,40,Grand Rapids Rampage,44,46,False,8679,794
+1999,Week 7,1999-06-05,REG,7,22,Milwaukee Mustangs,43,New England SeaWolves,55,53,False,6688,795
+1999,Week 7,1999-06-05,REG,7,36,Nashville Kats,23,Iowa Barnstormers,63,64,False,9042,796
+1999,Week 7,1999-06-05,REG,7,25,San Jose SaberCats,35,Portland Forest Dragons,38,39,False,7210,797
+1999,Week 7,1999-06-07,REG,7,13,Orlando Predators,10,Albany Firebirds,54,62,False,9871,798
+1999,Week 8,1999-06-11,REG,8,41,Houston ThunderBears,43,New England SeaWolves,55,62,False,5684,799
+1999,Week 8,1999-06-11,REG,8,35,Portland Forest Dragons,22,Milwaukee Mustangs,47,52,False,14503,800
+1999,Week 8,1999-06-12,REG,8,12,Tampa Bay Storm,13,Orlando Predators,63,37,False,15101,855
+1999,Week 8,1999-06-12,REG,8,37,New Jersey Red Dogs,10,Albany Firebirds,34,38,False,11452,801
+1999,Week 8,1999-06-12,REG,8,36,Nashville Kats,32,Florida Bobcats,63,56,True,6824,802
+1999,Week 8,1999-06-12,REG,8,42,Buffalo Destroyers,23,Iowa Barnstormers,42,49,False,9452,803
+1999,Week 8,1999-06-12,REG,8,25,San Jose SaberCats,21,Arizona Rattlers,37,75,False,16303,804
+1999,Week 9,1999-06-18,REG,9,43,New England SeaWolves,37,New Jersey Red Dogs,43,44,False,4223,806
+1999,Week 9,1999-06-18,REG,9,23,Iowa Barnstormers,22,Milwaukee Mustangs,37,42,False,14302,807
+1999,Week 9,1999-06-18,REG,9,41,Houston ThunderBears,36,Nashville Kats,74,78,False,11789,808
+1999,Week 9,1999-06-19,REG,9,21,Arizona Rattlers,12,Tampa Bay Storm,60,41,False,10636,809
+1999,Week 9,1999-06-19,REG,9,40,Grand Rapids Rampage,35,Portland Forest Dragons,43,46,False,7001,810
+1999,Week 9,1999-06-19,REG,9,32,Florida Bobcats,25,San Jose SaberCats,50,58,False,13008,811
+1999,Week 9,1999-06-21,REG,9,10,Albany Firebirds,42,Buffalo Destroyers,54,34,False,9429,812
+1999,Week 10,1999-06-25,REG,10,42,Buffalo Destroyers,37,New Jersey Red Dogs,20,34,False,4064,813
+1999,Week 10,1999-06-25,REG,10,12,Tampa Bay Storm,32,Florida Bobcats,57,35,False,5682,814
+1999,Week 10,1999-06-25,REG,10,13,Orlando Predators,40,Grand Rapids Rampage,42,63,False,8133,815
+1999,Week 10,1999-06-25,REG,10,25,San Jose SaberCats,41,Houston ThunderBears,57,61,False,3014,816
+1999,Week 10,1999-06-25,REG,10,21,Arizona Rattlers,36,Nashville Kats,65,64,True,13789,817
+1999,Week 10,1999-06-26,REG,10,23,Iowa Barnstormers,10,Albany Firebirds,77,76,False,9046,818
+1999,Week 10,1999-06-26,REG,10,35,Portland Forest Dragons,43,New England SeaWolves,57,42,False,6704,819
+1999,Week 11,1999-07-01,REG,11,36,Nashville Kats,40,Grand Rapids Rampage,48,47,False,9478,820
+1999,Week 11,1999-07-02,REG,11,43,New England SeaWolves,10,Albany Firebirds,46,72,False,9279,821
+1999,Week 11,1999-07-02,REG,11,12,Tampa Bay Storm,42,Buffalo Destroyers,59,14,False,9442,822
+1999,Week 11,1999-07-02,REG,11,32,Florida Bobcats,13,Orlando Predators,24,37,False,14186,823
+1999,Week 11,1999-07-02,REG,11,22,Milwaukee Mustangs,23,Iowa Barnstormers,31,48,False,10499,824
+1999,Week 11,1999-07-02,REG,11,37,New Jersey Red Dogs,41,Houston ThunderBears,38,44,False,2767,825
+1999,Week 11,1999-07-02,REG,11,21,Arizona Rattlers,35,Portland Forest Dragons,45,40,False,7129,826
+1999,Week 12,1999-07-09,REG,12,41,Houston ThunderBears,22,Milwaukee Mustangs,55,37,False,14298,827
+1999,Week 12,1999-07-09,REG,12,10,Albany Firebirds,36,Nashville Kats,61,59,False,11564,828
+1999,Week 12,1999-07-09,REG,12,42,Buffalo Destroyers,25,San Jose SaberCats,46,52,False,13406,829
+1999,Week 12,1999-07-10,REG,12,23,Iowa Barnstormers,37,New Jersey Red Dogs,56,23,False,4889,830
+1999,Week 12,1999-07-10,REG,12,40,Grand Rapids Rampage,43,New England SeaWolves,41,38,False,6980,831
+1999,Week 12,1999-07-11,REG,12,13,Orlando Predators,12,Tampa Bay Storm,28,47,False,11777,832
+1999,Week 12,1999-07-12,REG,12,32,Florida Bobcats,21,Arizona Rattlers,40,50,False,14556,833
+1999,Week 13,1999-07-16,REG,13,25,San Jose SaberCats,36,Nashville Kats,45,56,False,14123,835
+1999,Week 13,1999-07-16,REG,13,42,Buffalo Destroyers,35,Portland Forest Dragons,43,46,False,8563,836
+1999,Week 13,1999-07-17,REG,13,37,New Jersey Red Dogs,12,Tampa Bay Storm,31,55,False,11247,837
+1999,Week 13,1999-07-17,REG,13,22,Milwaukee Mustangs,40,Grand Rapids Rampage,52,51,False,9212,838
+1999,Week 13,1999-07-18,REG,13,13,Orlando Predators,32,Florida Bobcats,42,10,False,4685,834
+1999,Week 13,1999-07-18,REG,13,43,New England SeaWolves,21,Arizona Rattlers,40,66,False,15423,839
+1999,Week 13,1999-07-19,REG,13,41,Houston ThunderBears,23,Iowa Barnstormers,40,59,False,10695,840
+1999,Week 14,1999-07-23,REG,14,35,Portland Forest Dragons,42,Buffalo Destroyers,23,30,False,10617,841
+1999,Week 14,1999-07-23,REG,14,41,Houston ThunderBears,40,Grand Rapids Rampage,48,55,False,9024,842
+1999,Week 14,1999-07-23,REG,14,36,Nashville Kats,13,Orlando Predators,51,41,False,14013,843
+1999,Week 14,1999-07-24,REG,14,32,Florida Bobcats,10,Albany Firebirds,39,71,False,13069,844
+1999,Week 14,1999-07-24,REG,14,21,Arizona Rattlers,22,Milwaukee Mustangs,28,31,False,15981,845
+1999,Week 14,1999-07-24,REG,14,12,Tampa Bay Storm,25,San Jose SaberCats,52,48,False,14128,846
+1999,Week 14,1999-07-26,REG,14,37,New Jersey Red Dogs,43,New England SeaWolves,65,64,True,10576,847
+1999,Week 15,1999-07-30,REG,15,42,Buffalo Destroyers,13,Orlando Predators,40,48,False,14861,848
+1999,Week 15,1999-07-30,REG,15,36,Nashville Kats,37,New Jersey Red Dogs,66,51,False,5636,849
+1999,Week 15,1999-07-30,REG,15,10,Albany Firebirds,41,Houston ThunderBears,63,55,False,4729,850
+1999,Week 15,1999-07-31,REG,15,40,Grand Rapids Rampage,23,Iowa Barnstormers,49,56,False,11250,851
+1999,Week 15,1999-07-31,REG,15,22,Milwaukee Mustangs,25,San Jose SaberCats,56,52,False,15108,852
+1999,Week 15,1999-08-01,REG,15,35,Portland Forest Dragons,21,Arizona Rattlers,55,35,False,15533,853
+1999,Week 15,1999-08-02,REG,15,43,New England SeaWolves,12,Tampa Bay Storm,20,54,False,12410,854
+1999,Playoffs Week 1,1999-08-07,POST,1,36,Nashville Kats,21,Arizona Rattlers,30,34,False,11671,874
+1999,Playoffs Week 1,1999-08-07,POST,1,13,Orlando Predators,12,Tampa Bay Storm,41,19,False,10706,871
+1999,Playoffs Week 1,1999-08-07,POST,1,40,Grand Rapids Rampage,10,Albany Firebirds,45,55,False,10671,873
+1999,Playoffs Week 1,1999-08-07,POST,1,22,Milwaukee Mustangs,23,Iowa Barnstormers,34,66,False,9151,872
+1999,Playoffs Week 2,1999-08-13,POST,2,13,Orlando Predators,23,Iowa Barnstormers,48,41,False,9513,875
+1999,Playoffs Week 2,1999-08-14,POST,2,21,Arizona Rattlers,10,Albany Firebirds,47,73,False,10043,876
+1999,ArenaBowl XIII,1999-08-21,POST,3,13,Orlando Predators,10,Albany Firebirds,48,59,False,13652,877

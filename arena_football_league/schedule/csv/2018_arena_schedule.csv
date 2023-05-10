@@ -1,0 +1,30 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2018,Week 1,2018-04-13,REG,1,227,Washington Valor,235,Baltimore Brigade,56,61,False,5358,5623
+2018,Week 1,2018-04-14,REG,1,99,Philadelphia Soul,238,Albany Empire,56,35,False,13648,5622
+2018,Week 2,2018-04-21,REG,2,235,Baltimore Brigade,99,Philadelphia Soul,49,54,False,9326,5625
+2018,Week 3,2018-04-28,REG,3,238,Albany Empire,235,Baltimore Brigade,49,52,False,4796,5626
+2018,Week 3,2018-04-28,REG,3,227,Washington Valor,99,Philadelphia Soul,51,67,False,10164,5627
+2018,Week 4,2018-05-04,REG,4,99,Philadelphia Soul,235,Baltimore Brigade,21,31,False,4833,5628
+2018,Week 4,2018-05-05,REG,4,227,Washington Valor,238,Albany Empire,23,47,False,10065,5629
+2018,Week 5,2018-05-11,REG,5,238,Albany Empire,227,Washington Valor,53,42,False,9037,5624
+2018,Week 6,2018-05-19,REG,6,235,Baltimore Brigade,227,Washington Valor,42,41,False,7198,5630
+2018,Week 6,2018-05-19,REG,6,238,Albany Empire,99,Philadelphia Soul,41,36,False,9715,5631
+2018,Week 7,2018-05-25,REG,7,99,Philadelphia Soul,235,Baltimore Brigade,35,54,False,5035,5632
+2018,Week 7,2018-05-26,REG,7,227,Washington Valor,238,Albany Empire,21,48,False,7847,5633
+2018,Week 8,2018-05-31,REG,8,99,Philadelphia Soul,227,Washington Valor,51,46,False,4711,5634
+2018,Week 8,2018-06-02,REG,8,235,Baltimore Brigade,238,Albany Empire,53,61,False,8057,5635
+2018,Week 9,2018-06-09,REG,9,235,Baltimore Brigade,238,Albany Empire,59,56,False,8767,5636
+2018,Week 9,2018-06-10,REG,9,227,Washington Valor,99,Philadelphia Soul,49,48,False,9636,5639
+2018,Week 10,2018-06-15,REG,10,227,Washington Valor,235,Baltimore Brigade,42,72,False,5105,5637
+2018,Week 10,2018-06-16,REG,10,99,Philadelphia Soul,238,Albany Empire,75,74,False,9534,5638
+2018,Week 11,2018-06-22,REG,11,99,Philadelphia Soul,227,Washington Valor,63,28,False,8351,5640
+2018,Week 11,2018-06-23,REG,11,238,Albany Empire,235,Baltimore Brigade,56,49,False,5552,5641
+2018,Week 12,2018-06-29,REG,12,238,Albany Empire,227,Washington Valor,55,41,False,5044,5642
+2018,Week 12,2018-06-30,REG,12,235,Baltimore Brigade,99,Philadelphia Soul,48,49,False,8432,5643
+2018,Week 13,2018-07-07,REG,13,235,Baltimore Brigade,227,Washington Valor,35,42,False,6116,5644
+2018,Week 13,2018-07-07,REG,13,99,Philadelphia Soul,238,Albany Empire,57,71,False,10082,5645
+2018,Playoffs Week 1,2018-07-14,POST,1,238,Albany Empire,227,Washington Valor,57,56,True,5160,5647
+2018,Playoffs Week 1,2018-07-15,POST,1,235,Baltimore Brigade,99,Philadelphia Soul,57,45,False,8164,5648
+2018,Playoffs Week 1,2018-07-20,POST,1,99,Philadelphia Soul,235,Baltimore Brigade,41,53,False,5139,5650
+2018,Playoffs Week 1,2018-07-21,POST,1,227,Washington Valor,238,Albany Empire,47,40,False,9261,5649
+2018,ArenaBowl XXXI,2018-07-28,POST,2,227,Washington Valor,235,Baltimore Brigade,69,55,False,8183,5651

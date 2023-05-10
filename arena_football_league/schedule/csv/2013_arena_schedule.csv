@@ -1,0 +1,136 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2013,Week 1,2013-03-23,REG,1,112,Utah Blaze,214,Pittsburgh Power,64,33,False,8390,5141
+2013,Week 1,2013-03-23,REG,1,139,Jacksonville Sharks,12,Tampa Bay Storm,64,55,False,12222,5114
+2013,Week 1,2013-03-23,REG,1,99,Philadelphia Soul,21,Arizona Rattlers,52,66,False,8524,5123
+2013,Week 1,2013-03-23,REG,1,145,Iowa Barnstormers,64,Chicago Rush,63,41,False,6026,5132
+2013,Week 1,2013-03-23,REG,1,25,San Jose SaberCats,218,San Antonio Talons,47,42,False,8161,5150
+2013,Week 1,2013-03-24,REG,1,149,Spokane Shock,131,Cleveland Gladiators,67,41,False,7614,5159
+2013,Week 1,2013-03-24,REG,1,13,Orlando Predators,66,New Orleans VooDoo,45,51,True,3564,5105
+2013,Week 2,2013-03-29,REG,2,139,Jacksonville Sharks,214,Pittsburgh Power,61,35,False,5342,5142
+2013,Week 2,2013-03-29,REG,2,21,Arizona Rattlers,112,Utah Blaze,77,49,False,4829,5168
+2013,Week 2,2013-03-29,REG,2,13,Orlando Predators,25,San Jose SaberCats,62,65,False,11263,5177
+2013,Week 2,2013-03-30,REG,2,145,Iowa Barnstormers,66,New Orleans VooDoo,48,34,False,4751,5106
+2013,Week 2,2013-03-30,REG,2,131,Cleveland Gladiators,12,Tampa Bay Storm,47,69,False,10142,5115
+2013,Week 2,2013-03-31,REG,2,149,Spokane Shock,64,Chicago Rush,76,61,False,3108,5133
+2013,Week 3,2013-04-05,REG,3,149,Spokane Shock,145,Iowa Barnstormers,66,43,False,7218,5186
+2013,Week 3,2013-04-05,REG,3,64,Chicago Rush,218,San Antonio Talons,48,41,False,6018,5151
+2013,Week 3,2013-04-06,REG,3,139,Jacksonville Sharks,131,Cleveland Gladiators,66,49,False,8862,5160
+2013,Week 3,2013-04-06,REG,3,99,Philadelphia Soul,13,Orlando Predators,61,33,False,12248,5200
+2013,Week 3,2013-04-06,REG,3,25,San Jose SaberCats,21,Arizona Rattlers,47,73,False,7156,5124
+2013,Week 3,2013-04-06,REG,3,12,Tampa Bay Storm,112,Utah Blaze,77,65,False,6014,5169
+2013,Week 4,2013-04-12,REG,4,218,San Antonio Talons,12,Tampa Bay Storm,52,36,False,10126,5116
+2013,Week 4,2013-04-12,REG,4,66,New Orleans VooDoo,139,Jacksonville Sharks,30,76,False,8330,5204
+2013,Week 4,2013-04-12,REG,4,21,Arizona Rattlers,149,Spokane Shock,49,66,False,10358,5213
+2013,Week 4,2013-04-13,REG,4,99,Philadelphia Soul,145,Iowa Barnstormers,54,43,False,7743,5187
+2013,Week 4,2013-04-14,REG,4,214,Pittsburgh Power,64,Chicago Rush,14,45,False,4187,5134
+2013,Week 5,2013-04-19,REG,5,145,Iowa Barnstormers,139,Jacksonville Sharks,34,40,False,8011,5205
+2013,Week 5,2013-04-19,REG,5,214,Pittsburgh Power,66,New Orleans VooDoo,46,43,False,4286,5107
+2013,Week 5,2013-04-19,REG,5,149,Spokane Shock,25,San Jose SaberCats,69,47,False,10123,5178
+2013,Week 5,2013-04-20,REG,5,12,Tampa Bay Storm,13,Orlando Predators,53,35,False,11969,5201
+2013,Week 5,2013-04-20,REG,5,131,Cleveland Gladiators,99,Philadelphia Soul,64,57,True,12975,5222
+2013,Week 5,2013-04-20,REG,5,218,San Antonio Talons,21,Arizona Rattlers,40,83,False,8323,5125
+2013,Week 5,2013-04-20,REG,5,64,Chicago Rush,112,Utah Blaze,59,56,False,7141,5170
+2013,Week 6,2013-04-26,REG,6,64,Chicago Rush,145,Iowa Barnstormers,64,63,True,6854,5188
+2013,Week 6,2013-04-27,REG,6,112,Utah Blaze,131,Cleveland Gladiators,57,40,False,9234,5161
+2013,Week 6,2013-04-27,REG,6,139,Jacksonville Sharks,99,Philadelphia Soul,55,53,False,8363,5223
+2013,Week 6,2013-04-27,REG,6,25,San Jose SaberCats,66,New Orleans VooDoo,57,38,False,4357,5108
+2013,Week 6,2013-04-27,REG,6,12,Tampa Bay Storm,149,Spokane Shock,70,62,False,9872,5214
+2013,Week 6,2013-04-28,REG,6,218,San Antonio Talons,214,Pittsburgh Power,42,37,False,6688,5143
+2013,Week 6,2013-04-28,REG,6,13,Orlando Predators,21,Arizona Rattlers,42,82,False,8062,5126
+2013,Week 7,2013-05-03,REG,7,145,Iowa Barnstormers,218,San Antonio Talons,48,36,False,7803,5152
+2013,Week 7,2013-05-04,REG,7,13,Orlando Predators,214,Pittsburgh Power,52,38,False,4174,5144
+2013,Week 7,2013-05-04,REG,7,21,Arizona Rattlers,139,Jacksonville Sharks,58,48,False,11076,5206
+2013,Week 7,2013-05-04,REG,7,99,Philadelphia Soul,64,Chicago Rush,72,41,False,4722,5135
+2013,Week 7,2013-05-04,REG,7,66,New Orleans VooDoo,12,Tampa Bay Storm,32,63,False,10114,5117
+2013,Week 7,2013-05-04,REG,7,149,Spokane Shock,112,Utah Blaze,48,52,False,5784,5171
+2013,Week 7,2013-05-04,REG,7,131,Cleveland Gladiators,25,San Jose SaberCats,36,56,False,8563,5179
+2013,Week 8,2013-05-10,REG,8,12,Tampa Bay Storm,25,San Jose SaberCats,34,64,False,8001,5180
+2013,Week 8,2013-05-11,REG,8,64,Chicago Rush,131,Cleveland Gladiators,50,53,False,7437,5162
+2013,Week 8,2013-05-11,REG,8,214,Pittsburgh Power,99,Philadelphia Soul,53,48,False,8098,5224
+2013,Week 8,2013-05-11,REG,8,66,New Orleans VooDoo,145,Iowa Barnstormers,16,62,False,7015,5189
+2013,Week 8,2013-05-11,REG,8,112,Utah Blaze,21,Arizona Rattlers,49,65,False,10216,5127
+2013,Week 8,2013-05-11,REG,8,139,Jacksonville Sharks,218,San Antonio Talons,30,34,False,7869,5153
+2013,Week 8,2013-05-11,REG,8,13,Orlando Predators,149,Spokane Shock,83,82,False,8730,5215
+2013,Week 9,2013-05-17,REG,9,66,New Orleans VooDoo,149,Spokane Shock,54,65,False,9317,5216
+2013,Week 9,2013-05-18,REG,9,12,Tampa Bay Storm,214,Pittsburgh Power,62,34,False,4625,5145
+2013,Week 9,2013-05-18,REG,9,218,San Antonio Talons,131,Cleveland Gladiators,57,33,False,6919,5163
+2013,Week 9,2013-05-18,REG,9,25,San Jose SaberCats,139,Jacksonville Sharks,57,36,False,8641,5207
+2013,Week 9,2013-05-18,REG,9,13,Orlando Predators,99,Philadelphia Soul,51,61,False,9094,5225
+2013,Week 9,2013-05-18,REG,9,145,Iowa Barnstormers,112,Utah Blaze,34,43,False,8139,5172
+2013,Week 9,2013-05-19,REG,9,21,Arizona Rattlers,64,Chicago Rush,56,49,False,4859,5136
+2013,Week 10,2013-05-24,REG,10,149,Spokane Shock,218,San Antonio Talons,61,48,False,7961,5154
+2013,Week 10,2013-05-25,REG,10,131,Cleveland Gladiators,214,Pittsburgh Power,44,55,False,5340,5146
+2013,Week 10,2013-05-25,REG,10,139,Jacksonville Sharks,13,Orlando Predators,44,41,False,11557,5202
+2013,Week 10,2013-05-25,REG,10,99,Philadelphia Soul,12,Tampa Bay Storm,73,55,False,11804,5118
+2013,Week 10,2013-05-25,REG,10,64,Chicago Rush,66,New Orleans VooDoo,84,48,False,7349,5109
+2013,Week 10,2013-05-25,REG,10,145,Iowa Barnstormers,21,Arizona Rattlers,26,70,False,8177,5128
+2013,Week 10,2013-05-25,REG,10,112,Utah Blaze,25,San Jose SaberCats,34,35,False,8438,5181
+2013,Week 11,2013-06-01,REG,11,21,Arizona Rattlers,99,Philadelphia Soul,64,57,False,7027,5226
+2013,Week 11,2013-06-01,REG,11,64,Chicago Rush,13,Orlando Predators,63,55,False,11374,5203
+2013,Week 11,2013-06-01,REG,11,214,Pittsburgh Power,139,Jacksonville Sharks,48,70,False,8568,5208
+2013,Week 11,2013-06-01,REG,11,131,Cleveland Gladiators,66,New Orleans VooDoo,40,69,False,4148,5110
+2013,Week 11,2013-06-01,REG,11,12,Tampa Bay Storm,145,Iowa Barnstormers,65,62,False,6568,5190
+2013,Week 11,2013-06-01,REG,11,25,San Jose SaberCats,149,Spokane Shock,45,75,False,9138,5217
+2013,Week 11,2013-06-03,REG,11,112,Utah Blaze,218,San Antonio Talons,41,42,False,5894,5155
+2013,Week 12,2013-06-07,REG,12,145,Iowa Barnstormers,131,Cleveland Gladiators,37,33,False,7685,5164
+2013,Week 12,2013-06-08,REG,12,66,New Orleans VooDoo,99,Philadelphia Soul,56,65,False,8035,5227
+2013,Week 12,2013-06-08,REG,12,13,Orlando Predators,12,Tampa Bay Storm,55,48,False,14041,5119
+2013,Week 12,2013-06-08,REG,12,112,Utah Blaze,64,Chicago Rush,43,67,False,3890,5137
+2013,Week 12,2013-06-08,REG,12,21,Arizona Rattlers,218,San Antonio Talons,70,21,False,8047,5156
+2013,Week 12,2013-06-08,REG,12,139,Jacksonville Sharks,149,Spokane Shock,41,76,False,8463,5218
+2013,Week 12,2013-06-08,REG,12,214,Pittsburgh Power,25,San Jose SaberCats,54,68,False,8263,5182
+2013,Week 13,2013-06-15,REG,13,99,Philadelphia Soul,214,Pittsburgh Power,59,21,False,6059,5147
+2013,Week 13,2013-06-15,REG,13,131,Cleveland Gladiators,13,Orlando Predators,55,62,False,11469,5195
+2013,Week 13,2013-06-15,REG,13,12,Tampa Bay Storm,66,New Orleans VooDoo,51,54,False,4758,5111
+2013,Week 13,2013-06-15,REG,13,218,San Antonio Talons,64,Chicago Rush,61,54,False,4016,5138
+2013,Week 13,2013-06-15,REG,13,25,San Jose SaberCats,145,Iowa Barnstormers,68,73,False,9072,5191
+2013,Week 13,2013-06-15,REG,13,149,Spokane Shock,21,Arizona Rattlers,42,59,False,10654,5129
+2013,Week 13,2013-06-15,REG,13,139,Jacksonville Sharks,112,Utah Blaze,55,62,False,5109,5173
+2013,Week 14,2013-06-21,REG,14,112,Utah Blaze,149,Spokane Shock,41,80,False,9965,5219
+2013,Week 14,2013-06-22,REG,14,214,Pittsburgh Power,13,Orlando Predators,35,50,False,11356,5196
+2013,Week 14,2013-06-22,REG,14,131,Cleveland Gladiators,139,Jacksonville Sharks,41,43,False,8708,5209
+2013,Week 14,2013-06-22,REG,14,145,Iowa Barnstormers,99,Philadelphia Soul,30,54,False,8048,5228
+2013,Week 14,2013-06-22,REG,14,64,Chicago Rush,12,Tampa Bay Storm,50,49,False,11514,5120
+2013,Week 14,2013-06-22,REG,14,218,San Antonio Talons,66,New Orleans VooDoo,56,53,False,4326,5112
+2013,Week 14,2013-06-22,REG,14,21,Arizona Rattlers,25,San Jose SaberCats,42,72,False,9296,5183
+2013,Week 15,2013-06-29,REG,15,66,New Orleans VooDoo,214,Pittsburgh Power,59,54,False,5036,5148
+2013,Week 15,2013-06-29,REG,15,99,Philadelphia Soul,131,Cleveland Gladiators,66,57,False,7909,5165
+2013,Week 15,2013-06-29,REG,15,13,Orlando Predators,139,Jacksonville Sharks,55,62,False,10108,5210
+2013,Week 15,2013-06-29,REG,15,218,San Antonio Talons,145,Iowa Barnstormers,35,34,False,7553,5192
+2013,Week 15,2013-06-29,REG,15,25,San Jose SaberCats,112,Utah Blaze,57,49,False,6393,5174
+2013,Week 16,2013-07-06,REG,16,214,Pittsburgh Power,131,Cleveland Gladiators,58,71,False,6857,5166
+2013,Week 16,2013-07-06,REG,16,64,Chicago Rush,99,Philadelphia Soul,26,58,False,10878,5229
+2013,Week 16,2013-07-06,REG,16,149,Spokane Shock,12,Tampa Bay Storm,63,49,False,9934,5121
+2013,Week 16,2013-07-06,REG,16,21,Arizona Rattlers,13,Orlando Predators,84,56,False,11433,5197
+2013,Week 16,2013-07-06,REG,16,66,New Orleans VooDoo,112,Utah Blaze,63,49,False,7171,5175
+2013,Week 16,2013-07-06,REG,16,218,San Antonio Talons,25,San Jose SaberCats,35,62,False,8976,5184
+2013,Week 17,2013-07-12,REG,17,112,Utah Blaze,99,Philadelphia Soul,39,69,False,9163,5230
+2013,Week 17,2013-07-13,REG,17,25,San Jose SaberCats,214,Pittsburgh Power,78,20,False,7134,5149
+2013,Week 17,2013-07-13,REG,17,145,Iowa Barnstormers,13,Orlando Predators,41,55,False,11784,5198
+2013,Week 17,2013-07-13,REG,17,149,Spokane Shock,139,Jacksonville Sharks,62,40,False,9175,5211
+2013,Week 17,2013-07-13,REG,17,131,Cleveland Gladiators,64,Chicago Rush,32,68,False,3838,5139
+2013,Week 17,2013-07-13,REG,17,12,Tampa Bay Storm,218,San Antonio Talons,42,68,False,8576,5157
+2013,Week 17,2013-07-13,REG,17,66,New Orleans VooDoo,21,Arizona Rattlers,42,79,False,9958,5130
+2013,Week 18,2013-07-19,REG,18,218,San Antonio Talons,149,Spokane Shock,30,77,False,8485,5220
+2013,Week 18,2013-07-20,REG,18,139,Jacksonville Sharks,66,New Orleans VooDoo,58,49,False,7183,5113
+2013,Week 18,2013-07-20,REG,18,13,Orlando Predators,131,Cleveland Gladiators,62,65,False,8512,5167
+2013,Week 18,2013-07-20,REG,18,214,Pittsburgh Power,12,Tampa Bay Storm,48,37,False,16118,5122
+2013,Week 18,2013-07-20,REG,18,112,Utah Blaze,145,Iowa Barnstormers,55,41,False,8262,5193
+2013,Week 18,2013-07-20,REG,18,64,Chicago Rush,21,Arizona Rattlers,63,42,False,11353,5131
+2013,Week 18,2013-07-20,REG,18,99,Philadelphia Soul,25,San Jose SaberCats,65,43,False,9163,5185
+2013,Week 19,2013-07-26,REG,19,214,Pittsburgh Power,149,Spokane Shock,43,61,False,9341,5221
+2013,Week 19,2013-07-27,REG,19,66,New Orleans VooDoo,13,Orlando Predators,42,71,False,13356,5199
+2013,Week 19,2013-07-27,REG,19,12,Tampa Bay Storm,139,Jacksonville Sharks,44,52,False,10409,5212
+2013,Week 19,2013-07-27,REG,19,21,Arizona Rattlers,145,Iowa Barnstormers,84,45,False,7719,5194
+2013,Week 19,2013-07-27,REG,19,99,Philadelphia Soul,218,San Antonio Talons,28,42,False,9112,5158
+2013,Week 19,2013-07-27,REG,19,131,Cleveland Gladiators,112,Utah Blaze,46,48,False,7106,5176
+2013,Week 19,2013-07-27,REG,19,64,Chicago Rush,25,San Jose SaberCats,40,65,False,8874,5140
+2013,Playoffs Week 1,2013-08-01,POST,1,64,Chicago Rush,149,Spokane Shock,47,69,False,6916,5234
+2013,Playoffs Week 1,2013-08-03,POST,1,12,Tampa Bay Storm,139,Jacksonville Sharks,62,69,False,7899,5231
+2013,Playoffs Week 1,2013-08-03,POST,1,13,Orlando Predators,99,Philadelphia Soul,55,59,False,9641,5232
+2013,Playoffs Week 1,2013-08-04,POST,1,25,San Jose SaberCats,21,Arizona Rattlers,49,59,False,7932,5233
+2013,Playoffs Week 2,2013-08-10,POST,2,99,Philadelphia Soul,139,Jacksonville Sharks,75,59,False,9161,5235
+2013,Playoffs Week 2,2013-08-10,POST,2,149,Spokane Shock,21,Arizona Rattlers,57,65,False,8275,5236
+2013,ArenaBowl XXVI,2013-08-17,POST,3,99,Philadelphia Soul,21,Arizona Rattlers,39,48,False,12039,5104
+2013,All Star Games,2013-11-02,ASG,1,221,Eastern Conference All Stars,222,Western Conference All Stars,67,63,False,2000,5238
+2013,All Star Games,2013-11-10,ASG,1,222,Western Conference All Stars,221,Eastern Conference All Stars,52,69,False,9800,5239

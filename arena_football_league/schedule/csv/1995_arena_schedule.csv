@@ -1,0 +1,86 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1995,Week 1,1995-05-12,REG,1,23,Iowa Barnstormers,22,Milwaukee Mustangs,69,61,False,12297,346
+1995,Week 1,1995-05-12,REG,1,31,Memphis Pharaohs,30,St Louis Stampede,22,35,False,10675,347
+1995,Week 1,1995-05-12,REG,1,21,Arizona Rattlers,25,San Jose SaberCats,43,37,True,15105,345
+1995,Week 1,1995-05-13,REG,1,13,Orlando Predators,27,Connecticut Coyotes,45,43,False,7643,348
+1995,Week 1,1995-05-13,REG,1,18,Charlotte Rage,10,Albany Firebirds,51,49,False,12965,349
+1995,Week 1,1995-05-13,REG,1,12,Tampa Bay Storm,26,Miami Hooters,58,43,False,6978,350
+1995,Week 2,1995-05-19,REG,2,10,Albany Firebirds,21,Arizona Rattlers,35,45,False,15121,351
+1995,Week 2,1995-05-19,REG,2,22,Milwaukee Mustangs,31,Memphis Pharaohs,26,33,False,8887,352
+1995,Week 2,1995-05-19,REG,2,13,Orlando Predators,18,Charlotte Rage,38,41,False,6665,353
+1995,Week 2,1995-05-20,REG,2,27,Connecticut Coyotes,30,St Louis Stampede,40,42,False,8774,354
+1995,Week 2,1995-05-20,REG,2,26,Miami Hooters,23,Iowa Barnstormers,29,41,False,10628,355
+1995,Week 2,1995-05-20,REG,2,25,San Jose SaberCats,29,Las Vegas Sting,32,27,False,4105,356
+1995,Week 3,1995-05-25,REG,3,23,Iowa Barnstormers,27,Connecticut Coyotes,51,18,False,7340,357
+1995,Week 3,1995-05-26,REG,3,31,Memphis Pharaohs,25,San Jose SaberCats,41,30,False,13043,358
+1995,Week 3,1995-05-26,REG,3,26,Miami Hooters,13,Orlando Predators,13,51,False,15638,359
+1995,Week 3,1995-05-26,REG,3,30,St Louis Stampede,22,Milwaukee Mustangs,67,65,False,12474,360
+1995,Week 3,1995-05-27,REG,3,18,Charlotte Rage,12,Tampa Bay Storm,16,34,False,12426,361
+1995,Week 3,1995-05-27,REG,3,29,Las Vegas Sting,21,Arizona Rattlers,69,72,False,15435,362
+1995,Week 4,1995-06-02,REG,4,21,Arizona Rattlers,31,Memphis Pharaohs,48,33,False,8205,363
+1995,Week 4,1995-06-02,REG,4,22,Milwaukee Mustangs,18,Charlotte Rage,31,27,False,8166,364
+1995,Week 4,1995-06-02,REG,4,12,Tampa Bay Storm,29,Las Vegas Sting,69,55,False,4212,365
+1995,Week 4,1995-06-03,REG,4,27,Connecticut Coyotes,10,Albany Firebirds,34,57,False,11994,366
+1995,Week 4,1995-06-03,REG,4,30,St Louis Stampede,23,Iowa Barnstormers,44,38,False,11081,367
+1995,Week 4,1995-06-03,REG,4,25,San Jose SaberCats,26,Miami Hooters,50,22,False,7100,368
+1995,Week 5,1995-06-09,REG,5,10,Albany Firebirds,13,Orlando Predators,47,55,False,15638,369
+1995,Week 5,1995-06-09,REG,5,18,Charlotte Rage,27,Connecticut Coyotes,33,22,False,7059,370
+1995,Week 5,1995-06-09,REG,5,29,Las Vegas Sting,25,San Jose SaberCats,31,35,False,12892,371
+1995,Week 5,1995-06-09,REG,5,22,Milwaukee Mustangs,30,St Louis Stampede,45,53,False,10809,372
+1995,Week 5,1995-06-10,REG,5,23,Iowa Barnstormers,21,Arizona Rattlers,62,54,False,15505,373
+1995,Week 5,1995-06-10,REG,5,26,Miami Hooters,12,Tampa Bay Storm,7,54,False,13114,374
+1995,Week 6,1995-06-16,REG,6,27,Connecticut Coyotes,18,Charlotte Rage,24,53,False,7988,375
+1995,Week 6,1995-06-16,REG,6,31,Memphis Pharaohs,23,Iowa Barnstormers,57,54,True,10187,376
+1995,Week 6,1995-06-16,REG,6,25,San Jose SaberCats,22,Milwaukee Mustangs,47,64,False,14747,377
+1995,Week 6,1995-06-17,REG,6,13,Orlando Predators,26,Miami Hooters,48,29,False,6700,378
+1995,Week 6,1995-06-17,REG,6,30,St Louis Stampede,29,Las Vegas Sting,25,57,False,6144,379
+1995,Week 6,1995-06-17,REG,6,12,Tampa Bay Storm,10,Albany Firebirds,36,42,False,11801,380
+1995,Week 7,1995-06-23,REG,7,10,Albany Firebirds,27,Connecticut Coyotes,63,31,False,7831,381
+1995,Week 7,1995-06-23,REG,7,22,Milwaukee Mustangs,13,Orlando Predators,33,58,False,15638,382
+1995,Week 7,1995-06-24,REG,7,18,Charlotte Rage,21,Arizona Rattlers,52,50,False,15505,383
+1995,Week 7,1995-06-24,REG,7,29,Las Vegas Sting,12,Tampa Bay Storm,38,37,False,13022,384
+1995,Week 7,1995-06-24,REG,7,26,Miami Hooters,31,Memphis Pharaohs,24,40,False,11285,385
+1995,Week 7,1995-06-24,REG,7,25,San Jose SaberCats,23,Iowa Barnstormers,33,17,False,11411,386
+1995,Week 8,1995-06-30,REG,8,10,Albany Firebirds,18,Charlotte Rage,69,49,False,8942,387
+1995,Week 8,1995-06-30,REG,8,23,Iowa Barnstormers,30,St Louis Stampede,52,35,False,12270,388
+1995,Week 8,1995-06-30,REG,8,22,Milwaukee Mustangs,29,Las Vegas Sting,35,45,False,5483,389
+1995,Week 8,1995-07-01,REG,8,21,Arizona Rattlers,13,Orlando Predators,49,48,False,15638,390
+1995,Week 8,1995-07-01,REG,8,27,Connecticut Coyotes,26,Miami Hooters,60,39,False,4500,391
+1995,Week 8,1995-07-01,REG,8,31,Memphis Pharaohs,12,Tampa Bay Storm,32,68,False,14209,392
+1995,Week 9,1995-07-07,REG,9,21,Arizona Rattlers,22,Milwaukee Mustangs,53,66,False,13714,393
+1995,Week 9,1995-07-07,REG,9,25,San Jose SaberCats,18,Charlotte Rage,66,35,False,9164,394
+1995,Week 9,1995-07-08,REG,9,29,Las Vegas Sting,26,Miami Hooters,30,32,False,3875,395
+1995,Week 9,1995-07-08,REG,9,13,Orlando Predators,10,Albany Firebirds,56,38,False,12868,396
+1995,Week 9,1995-07-08,REG,9,12,Tampa Bay Storm,27,Connecticut Coyotes,38,32,False,7521,398
+1995,Week 9,1995-07-08,REG,9,30,St Louis Stampede,31,Memphis Pharaohs,33,55,False,11481,397
+1995,Week 10,1995-07-14,REG,10,18,Charlotte Rage,25,San Jose SaberCats,20,52,False,13612,399
+1995,Week 10,1995-07-14,REG,10,31,Memphis Pharaohs,29,Las Vegas Sting,38,30,False,4753,400
+1995,Week 10,1995-07-14,REG,10,12,Tampa Bay Storm,13,Orlando Predators,51,34,False,15638,401
+1995,Week 10,1995-07-15,REG,10,26,Miami Hooters,10,Albany Firebirds,56,82,False,11209,402
+1995,Week 10,1995-07-15,REG,10,22,Milwaukee Mustangs,23,Iowa Barnstormers,35,74,False,11411,403
+1995,Week 10,1995-07-15,REG,10,30,St Louis Stampede,21,Arizona Rattlers,56,46,False,15505,404
+1995,Week 11,1995-07-21,REG,11,18,Charlotte Rage,30,St Louis Stampede,26,34,False,10881,405
+1995,Week 11,1995-07-21,REG,11,27,Connecticut Coyotes,12,Tampa Bay Storm,32,60,False,12825,406
+1995,Week 11,1995-07-21,REG,11,29,Las Vegas Sting,23,Iowa Barnstormers,40,34,False,11411,407
+1995,Week 11,1995-07-22,REG,11,10,Albany Firebirds,31,Memphis Pharaohs,45,39,False,11853,408
+1995,Week 11,1995-07-22,REG,11,26,Miami Hooters,21,Arizona Rattlers,29,52,False,15505,409
+1995,Week 11,1995-07-22,REG,11,13,Orlando Predators,25,San Jose SaberCats,27,54,False,14431,410
+1995,Week 12,1995-07-28,REG,12,31,Memphis Pharaohs,22,Milwaukee Mustangs,37,53,False,15471,411
+1995,Week 12,1995-07-28,REG,12,30,St Louis Stampede,26,Miami Hooters,43,38,False,8406,412
+1995,Week 12,1995-07-29,REG,12,21,Arizona Rattlers,29,Las Vegas Sting,46,60,False,5621,413
+1995,Week 12,1995-07-29,REG,12,23,Iowa Barnstormers,10,Albany Firebirds,56,73,False,12603,414
+1995,Week 12,1995-07-29,REG,12,13,Orlando Predators,12,Tampa Bay Storm,20,44,False,24055,415
+1995,Week 12,1995-07-29,REG,12,25,San Jose SaberCats,27,Connecticut Coyotes,48,44,False,9724,416
+1995,Week 13,1995-08-04,REG,13,27,Connecticut Coyotes,13,Orlando Predators,29,62,False,15638,417
+1995,Week 13,1995-08-04,REG,13,29,Las Vegas Sting,18,Charlotte Rage,50,43,False,7746,418
+1995,Week 13,1995-08-04,REG,13,12,Tampa Bay Storm,22,Milwaukee Mustangs,56,27,False,16147,419
+1995,Week 13,1995-08-05,REG,13,10,Albany Firebirds,30,St Louis Stampede,49,52,False,11808,420
+1995,Week 13,1995-08-05,REG,13,23,Iowa Barnstormers,31,Memphis Pharaohs,45,32,False,12621,421
+1995,Week 13,1995-08-06,REG,13,21,Arizona Rattlers,25,San Jose SaberCats,41,40,False,15569,422
+1995,Playoffs Week 1,1995-08-11,POST,1,10,Albany Firebirds,30,St Louis Stampede,51,49,False,9082,
+1995,Playoffs Week 1,1995-08-12,POST,1,31,Memphis Pharaohs,12,Tampa Bay Storm,41,53,False,10677,
+1995,Playoffs Week 1,1995-08-13,POST,1,23,Iowa Barnstormers,21,Arizona Rattlers,56,52,False,14761,
+1995,Playoffs Week 1,1995-08-13,POST,1,13,Orlando Predators,25,San Jose SaberCats,55,37,False,13471,
+1995,Playoffs Week 2,1995-08-18,POST,2,10,Albany Firebirds,12,Tampa Bay Storm,49,56,False,11288,
+1995,Playoffs Week 2,1995-08-19,POST,2,13,Orlando Predators,23,Iowa Barnstormers,56,49,False,11411,
+1995,ArenaBowl IX,1995-09-01,POST,3,13,Orlando Predators,12,Tampa Bay Storm,35,48,False,25087,429

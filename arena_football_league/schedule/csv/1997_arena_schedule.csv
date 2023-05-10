@@ -1,0 +1,106 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1997,Week 1,1997-05-01,REG,1,12,Tampa Bay Storm,21,Arizona Rattlers,42,30,False,14653,546
+1997,Week 1,1997-05-02,REG,1,25,San Jose SaberCats,36,Nashville Kats,21,47,False,11582,543
+1997,Week 1,1997-05-02,REG,1,23,Iowa Barnstormers,33,Texas Terror,63,45,False,3674,544
+1997,Week 1,1997-05-03,REG,1,10,Albany Firebirds,32,Florida Bobcats,45,26,False,3222,540
+1997,Week 1,1997-05-03,REG,1,37,New Jersey Red Dogs,24,Anaheim Piranhas,33,32,False,10582,541
+1997,Week 1,1997-05-04,REG,1,22,Milwaukee Mustangs,35,Portland Forest Dragons,41,45,False,10976,545
+1997,Week 1,1997-05-05,REG,1,13,Orlando Predators,38,New York CityHawks,50,42,False,7244,542
+1997,Week 2,1997-05-09,REG,2,21,Arizona Rattlers,13,Orlando Predators,32,31,False,12855,547
+1997,Week 2,1997-05-09,REG,2,23,Iowa Barnstormers,37,New Jersey Red Dogs,21,45,False,13185,548
+1997,Week 2,1997-05-10,REG,2,22,Milwaukee Mustangs,10,Albany Firebirds,23,34,False,12858,550
+1997,Week 2,1997-05-10,REG,2,32,Florida Bobcats,12,Tampa Bay Storm,19,38,False,11222,551
+1997,Week 2,1997-05-10,REG,2,24,Anaheim Piranhas,25,San Jose SaberCats,27,47,False,14869,552
+1997,Week 2,1997-05-10,REG,2,38,New York CityHawks,36,Nashville Kats,39,42,False,11318,553
+1997,Week 2,1997-05-10,REG,2,33,Texas Terror,35,Portland Forest Dragons,63,46,False,8938,549
+1997,Week 3,1997-05-15,REG,3,37,New Jersey Red Dogs,32,Florida Bobcats,28,44,False,7098,559
+1997,Week 3,1997-05-16,REG,3,24,Anaheim Piranhas,21,Arizona Rattlers,26,58,False,15041,554
+1997,Week 3,1997-05-16,REG,3,36,Nashville Kats,33,Texas Terror,44,48,False,3429,555
+1997,Week 3,1997-05-16,REG,3,38,New York CityHawks,22,Milwaukee Mustangs,46,54,False,16411,556
+1997,Week 3,1997-05-17,REG,3,13,Orlando Predators,12,Tampa Bay Storm,43,17,False,14179,558
+1997,Week 3,1997-05-17,REG,3,10,Albany Firebirds,25,San Jose SaberCats,37,41,False,14269,560
+1997,Week 3,1997-05-17,REG,3,35,Portland Forest Dragons,23,Iowa Barnstormers,13,60,False,11411,557
+1997,Week 4,1997-05-23,REG,4,38,New York CityHawks,37,New Jersey Red Dogs,27,59,False,9698,561
+1997,Week 4,1997-05-23,REG,4,12,Tampa Bay Storm,36,Nashville Kats,42,26,False,11875,562
+1997,Week 4,1997-05-23,REG,4,33,Texas Terror,22,Milwaukee Mustangs,57,59,False,14171,564
+1997,Week 4,1997-05-23,REG,4,13,Orlando Predators,35,Portland Forest Dragons,40,9,False,8678,563
+1997,Week 4,1997-05-24,REG,4,25,San Jose SaberCats,21,Arizona Rattlers,50,59,False,15181,565
+1997,Week 4,1997-05-24,REG,4,32,Florida Bobcats,24,Anaheim Piranhas,45,62,False,8102,567
+1997,Week 4,1997-05-24,REG,4,23,Iowa Barnstormers,10,Albany Firebirds,68,57,False,11413,566
+1997,Week 5,1997-05-30,REG,5,25,San Jose SaberCats,33,Texas Terror,55,61,False,4750,568
+1997,Week 5,1997-05-30,REG,5,22,Milwaukee Mustangs,12,Tampa Bay Storm,52,41,False,9888,569
+1997,Week 5,1997-05-30,REG,5,36,Nashville Kats,13,Orlando Predators,46,36,False,13507,570
+1997,Week 5,1997-05-30,REG,5,10,Albany Firebirds,37,New Jersey Red Dogs,52,53,True,8677,571
+1997,Week 5,1997-05-31,REG,5,24,Anaheim Piranhas,23,Iowa Barnstormers,42,63,False,11250,572
+1997,Week 5,1997-05-31,REG,5,21,Arizona Rattlers,32,Florida Bobcats,48,25,False,3612,573
+1997,Week 5,1997-06-02,REG,5,35,Portland Forest Dragons,38,New York CityHawks,27,45,False,5216,574
+1997,Week 6,1997-06-06,REG,6,24,Anaheim Piranhas,22,Milwaukee Mustangs,44,47,False,16714,575
+1997,Week 6,1997-06-06,REG,6,33,Texas Terror,13,Orlando Predators,34,40,True,14023,576
+1997,Week 6,1997-06-06,REG,6,37,New Jersey Red Dogs,36,Nashville Kats,59,55,False,12082,579
+1997,Week 6,1997-06-07,REG,6,12,Tampa Bay Storm,10,Albany Firebirds,31,53,False,9384,578
+1997,Week 6,1997-06-08,REG,6,23,Iowa Barnstormers,35,Portland Forest Dragons,56,36,False,9475,577
+1997,Week 6,1997-06-09,REG,6,21,Arizona Rattlers,25,San Jose SaberCats,59,22,False,14394,580
+1997,Week 6,1997-06-09,REG,6,32,Florida Bobcats,38,New York CityHawks,44,40,False,6721,581
+1997,Week 7,1997-06-13,REG,7,21,Arizona Rattlers,35,Portland Forest Dragons,49,30,False,8369,582
+1997,Week 7,1997-06-14,REG,7,36,Nashville Kats,24,Anaheim Piranhas,68,62,False,9862,583
+1997,Week 7,1997-06-14,REG,7,25,San Jose SaberCats,23,Iowa Barnstormers,37,31,True,11250,584
+1997,Week 7,1997-06-14,REG,7,22,Milwaukee Mustangs,33,Texas Terror,64,52,False,4878,585
+1997,Week 7,1997-06-14,REG,7,37,New Jersey Red Dogs,12,Tampa Bay Storm,44,28,False,11488,586
+1997,Week 7,1997-06-14,REG,7,13,Orlando Predators,32,Florida Bobcats,62,39,False,3434,587
+1997,Week 7,1997-06-14,REG,7,38,New York CityHawks,10,Albany Firebirds,62,41,False,9723,588
+1997,Week 8,1997-06-20,REG,8,24,Anaheim Piranhas,13,Orlando Predators,40,41,False,14103,589
+1997,Week 8,1997-06-20,REG,8,33,Texas Terror,37,New Jersey Red Dogs,62,91,False,12091,590
+1997,Week 8,1997-06-20,REG,8,23,Iowa Barnstormers,22,Milwaukee Mustangs,72,53,False,15717,591
+1997,Week 8,1997-06-20,REG,8,10,Albany Firebirds,36,Nashville Kats,51,66,False,12802,592
+1997,Week 8,1997-06-20,REG,8,35,Portland Forest Dragons,25,San Jose SaberCats,29,42,False,13724,593
+1997,Week 8,1997-06-21,REG,8,32,Florida Bobcats,21,Arizona Rattlers,41,58,False,16923,594
+1997,Week 8,1997-06-21,REG,8,38,New York CityHawks,12,Tampa Bay Storm,9,27,False,11461,595
+1997,Week 9,1997-06-27,REG,9,35,Portland Forest Dragons,24,Anaheim Piranhas,48,57,False,8426,596
+1997,Week 9,1997-06-27,REG,9,21,Arizona Rattlers,22,Milwaukee Mustangs,47,40,False,14007,598
+1997,Week 9,1997-06-27,REG,9,37,New Jersey Red Dogs,25,San Jose SaberCats,24,22,False,14196,599
+1997,Week 9,1997-06-27,REG,9,12,Tampa Bay Storm,13,Orlando Predators,30,54,False,16529,600
+1997,Week 9,1997-06-28,REG,9,32,Florida Bobcats,23,Iowa Barnstormers,68,55,False,6846,597
+1997,Week 9,1997-06-28,REG,9,33,Texas Terror,10,Albany Firebirds,35,63,False,10052,601
+1997,Week 9,1997-06-30,REG,9,36,Nashville Kats,38,New York CityHawks,59,58,False,7533,602
+1997,Week 10,1997-07-05,REG,10,25,San Jose SaberCats,24,Anaheim Piranhas,49,35,False,10117,603
+1997,Week 10,1997-07-05,REG,10,22,Milwaukee Mustangs,23,Iowa Barnstormers,29,47,False,10725,604
+1997,Week 10,1997-07-05,REG,10,12,Tampa Bay Storm,33,Texas Terror,40,31,False,4026,605
+1997,Week 10,1997-07-06,REG,10,13,Orlando Predators,37,New Jersey Red Dogs,45,33,False,9180,607
+1997,Week 10,1997-07-06,REG,10,21,Arizona Rattlers,36,Nashville Kats,49,56,False,10204,608
+1997,Week 10,1997-07-07,REG,10,32,Florida Bobcats,35,Portland Forest Dragons,33,45,False,8937,606
+1997,Week 10,1997-07-07,REG,10,10,Albany Firebirds,38,New York CityHawks,71,50,False,5723,609
+1997,Week 11,1997-07-11,REG,11,25,San Jose SaberCats,37,New Jersey Red Dogs,51,36,False,10499,610
+1997,Week 11,1997-07-11,REG,11,35,Portland Forest Dragons,33,Texas Terror,37,57,False,3971,611
+1997,Week 11,1997-07-11,REG,11,24,Anaheim Piranhas,12,Tampa Bay Storm,43,68,False,13542,616
+1997,Week 11,1997-07-12,REG,11,13,Orlando Predators,23,Iowa Barnstormers,56,60,False,11250,612
+1997,Week 11,1997-07-12,REG,11,38,New York CityHawks,32,Florida Bobcats,12,52,False,6252,613
+1997,Week 11,1997-07-12,REG,11,36,Nashville Kats,10,Albany Firebirds,57,47,False,11123,614
+1997,Week 11,1997-07-12,REG,11,22,Milwaukee Mustangs,21,Arizona Rattlers,44,56,False,16923,615
+1997,Week 12,1997-07-18,REG,12,21,Arizona Rattlers,24,Anaheim Piranhas,53,37,False,8301,617
+1997,Week 12,1997-07-18,REG,12,35,Portland Forest Dragons,13,Orlando Predators,14,58,False,15679,618
+1997,Week 12,1997-07-18,REG,12,33,Texas Terror,38,New York CityHawks,66,28,False,5431,620
+1997,Week 12,1997-07-18,REG,12,36,Nashville Kats,22,Milwaukee Mustangs,41,48,False,14401,621
+1997,Week 12,1997-07-18,REG,12,32,Florida Bobcats,25,San Jose SaberCats,26,37,False,14895,622
+1997,Week 12,1997-07-19,REG,12,23,Iowa Barnstormers,12,Tampa Bay Storm,61,38,False,11818,619
+1997,Week 12,1997-07-19,REG,12,37,New Jersey Red Dogs,10,Albany Firebirds,49,70,False,11232,623
+1997,Week 13,1997-07-24,REG,13,37,New Jersey Red Dogs,38,New York CityHawks,61,28,False,6741,624
+1997,Week 13,1997-07-25,REG,13,13,Orlando Predators,36,Nashville Kats,55,74,False,16121,625
+1997,Week 13,1997-07-26,REG,13,10,Albany Firebirds,21,Arizona Rattlers,60,77,False,16923,626
+1997,Week 13,1997-07-26,REG,13,22,Milwaukee Mustangs,24,Anaheim Piranhas,55,52,False,8253,627
+1997,Week 13,1997-07-26,REG,13,33,Texas Terror,23,Iowa Barnstormers,62,70,False,11250,628
+1997,Week 13,1997-07-26,REG,13,32,Florida Bobcats,12,Tampa Bay Storm,22,48,False,12460,629
+1997,Week 13,1997-07-26,REG,13,25,San Jose SaberCats,35,Portland Forest Dragons,40,34,False,11249,630
+1997,Week 14,1997-07-31,REG,14,38,New York CityHawks,21,Arizona Rattlers,36,38,False,16214,631
+1997,Week 14,1997-08-01,REG,14,24,Anaheim Piranhas,33,Texas Terror,56,60,False,5200,632
+1997,Week 14,1997-08-01,REG,14,32,Florida Bobcats,13,Orlando Predators,35,67,False,15832,633
+1997,Week 14,1997-08-01,REG,14,36,Nashville Kats,37,New Jersey Red Dogs,59,45,False,13977,634
+1997,Week 14,1997-08-01,REG,14,35,Portland Forest Dragons,22,Milwaukee Mustangs,33,60,False,15447,635
+1997,Week 14,1997-08-02,REG,14,10,Albany Firebirds,23,Iowa Barnstormers,64,76,False,11250,636
+1997,Week 14,1997-08-02,REG,14,12,Tampa Bay Storm,25,San Jose SaberCats,58,34,False,15284,637
+1997,Playoffs Week 1,1997-08-08,POST,1,37,New Jersey Red Dogs,13,Orlando Predators,37,45,False,15270,
+1997,Playoffs Week 1,1997-08-08,POST,1,25,San Jose SaberCats,23,Iowa Barnstormers,59,68,False,10381,
+1997,Playoffs Week 1,1997-08-09,POST,1,22,Milwaukee Mustangs,21,Arizona Rattlers,29,46,False,15631,
+1997,Playoffs Week 1,1997-08-10,POST,1,12,Tampa Bay Storm,36,Nashville Kats,52,49,False,10214,
+1997,Playoffs Week 2,1997-08-16,POST,2,12,Tampa Bay Storm,21,Arizona Rattlers,46,49,True,15749,
+1997,Playoffs Week 2,1997-08-16,POST,2,13,Orlando Predators,23,Iowa Barnstormers,34,52,False,10432,
+1997,ArenaBowl XI,1997-08-25,POST,3,23,Iowa Barnstormers,21,Arizona Rattlers,33,55,False,17436,644

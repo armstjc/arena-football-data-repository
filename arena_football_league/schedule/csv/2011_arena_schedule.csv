@@ -1,0 +1,170 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2011,Week 1,2011-03-11,REG,1,12,Tampa Bay Storm,66,New Orleans VooDoo,46,40,False,6335,4774
+2011,Week 1,2011-03-11,REG,1,99,Philadelphia Soul,214,Pittsburgh Power,58,52,True,13904,4783
+2011,Week 1,2011-03-11,REG,1,149,Spokane Shock,25,San Jose SaberCats,48,76,False,10563,4792
+2011,Week 1,2011-03-12,REG,1,213,Kansas City Command,144,Dallas Vigilantes,46,53,False,5129,4810
+2011,Week 1,2011-03-12,REG,1,139,Jacksonville Sharks,21,Arizona Rattlers,52,55,False,8428,4801
+2011,Week 1,2011-03-13,REG,1,152,Tulsa Talons,95,Georgia Force,47,53,False,4385,4819
+2011,Week 1,2011-03-14,REG,1,64,Chicago Rush,146,Milwaukee Mustangs,49,41,False,3157,4828
+2011,Week 2,2011-03-17,REG,2,12,Tampa Bay Storm,112,Utah Blaze,36,72,False,10077,4859
+2011,Week 2,2011-03-18,REG,2,13,Orlando Predators,66,New Orleans VooDoo,47,34,False,8543,4775
+2011,Week 2,2011-03-18,REG,2,99,Philadelphia Soul,64,Chicago Rush,28,62,False,10582,4837
+2011,Week 2,2011-03-18,REG,2,95,Georgia Force,139,Jacksonville Sharks,57,71,False,7079,4846
+2011,Week 2,2011-03-18,REG,2,213,Kansas City Command,25,San Jose SaberCats,57,60,False,9563,4793
+2011,Week 2,2011-03-19,REG,2,152,Tulsa Talons,144,Dallas Vigilantes,40,64,False,7177,4811
+2011,Week 2,2011-03-19,REG,2,145,Iowa Barnstormers,214,Pittsburgh Power,28,58,False,9190,4784
+2011,Week 2,2011-03-19,REG,2,146,Milwaukee Mustangs,21,Arizona Rattlers,31,62,False,9108,4802
+2011,Week 2,2011-03-19,REG,2,131,Cleveland Gladiators,149,Spokane Shock,61,55,False,10140,4849
+2011,Week 3,2011-03-25,REG,3,149,Spokane Shock,145,Iowa Barnstormers,42,43,False,10552,4886
+2011,Week 3,2011-03-25,REG,3,25,San Jose SaberCats,64,Chicago Rush,41,54,False,7466,4838
+2011,Week 3,2011-03-26,REG,3,66,New Orleans VooDoo,139,Jacksonville Sharks,33,64,False,7438,4847
+2011,Week 3,2011-03-26,REG,3,112,Utah Blaze,13,Orlando Predators,53,68,False,12186,4882
+2011,Week 3,2011-03-27,REG,3,131,Cleveland Gladiators,12,Tampa Bay Storm,66,26,False,7939,4870
+2011,Week 3,2011-03-28,REG,3,21,Arizona Rattlers,152,Tulsa Talons,69,20,False,9311,4905
+2011,Week 3,2011-03-28,REG,3,214,Pittsburgh Power,146,Milwaukee Mustangs,49,47,False,3283,4829
+2011,Week 4,2011-03-31,REG,4,144,Dallas Vigilantes,112,Utah Blaze,40,69,False,7163,4860
+2011,Week 4,2011-04-01,REG,4,139,Jacksonville Sharks,12,Tampa Bay Storm,54,30,False,10304,4873
+2011,Week 4,2011-04-01,REG,4,145,Iowa Barnstormers,25,San Jose SaberCats,76,69,False,9163,4794
+2011,Week 4,2011-04-01,REG,4,213,Kansas City Command,149,Spokane Shock,34,61,False,9172,4851
+2011,Week 4,2011-04-02,REG,4,64,Chicago Rush,131,Cleveland Gladiators,48,55,False,8305,4922
+2011,Week 4,2011-04-02,REG,4,152,Tulsa Talons,214,Pittsburgh Power,45,22,False,9925,4785
+2011,Week 4,2011-04-02,REG,4,95,Georgia Force,66,New Orleans VooDoo,61,35,False,8282,4776
+2011,Week 4,2011-04-02,REG,4,13,Orlando Predators,21,Arizona Rattlers,47,48,False,9977,4803
+2011,Week 4,2011-04-04,REG,4,99,Philadelphia Soul,146,Milwaukee Mustangs,49,51,False,2112,4830
+2011,Week 5,2011-04-08,REG,5,144,Dallas Vigilantes,95,Georgia Force,48,55,False,6335,4820
+2011,Week 5,2011-04-08,REG,5,112,Utah Blaze,25,San Jose SaberCats,55,75,False,8763,4795
+2011,Week 5,2011-04-09,REG,5,99,Philadelphia Soul,13,Orlando Predators,46,53,False,11789,4883
+2011,Week 5,2011-04-09,REG,5,145,Iowa Barnstormers,213,Kansas City Command,48,62,False,5438,4899
+2011,Week 6,2011-04-14,REG,6,146,Milwaukee Mustangs,144,Dallas Vigilantes,21,49,False,6014,4812
+2011,Week 6,2011-04-15,REG,6,12,Tampa Bay Storm,99,Philadelphia Soul,51,48,False,12893,4918
+2011,Week 6,2011-04-15,REG,6,149,Spokane Shock,112,Utah Blaze,62,69,False,7649,4861
+2011,Week 6,2011-04-16,REG,6,139,Jacksonville Sharks,214,Pittsburgh Power,65,40,False,9773,4786
+2011,Week 6,2011-04-16,REG,6,13,Orlando Predators,95,Georgia Force,48,43,False,3797,4821
+2011,Week 6,2011-04-16,REG,6,66,New Orleans VooDoo,131,Cleveland Gladiators,34,33,False,7123,4924
+2011,Week 6,2011-04-16,REG,6,21,Arizona Rattlers,213,Kansas City Command,63,49,False,4166,4901
+2011,Week 6,2011-04-16,REG,6,25,San Jose SaberCats,152,Tulsa Talons,42,33,False,4747,4907
+2011,Week 6,2011-04-16,REG,6,64,Chicago Rush,145,Iowa Barnstormers,50,49,False,9552,4888
+2011,Week 7,2011-04-21,REG,7,214,Pittsburgh Power,66,New Orleans VooDoo,56,49,False,6937,4777
+2011,Week 7,2011-04-22,REG,7,213,Kansas City Command,64,Chicago Rush,58,51,False,7310,4839
+2011,Week 7,2011-04-22,REG,7,99,Philadelphia Soul,25,San Jose SaberCats,61,68,False,8663,4796
+2011,Week 7,2011-04-23,REG,7,131,Cleveland Gladiators,139,Jacksonville Sharks,42,56,False,9080,4848
+2011,Week 7,2011-04-23,REG,7,144,Dallas Vigilantes,12,Tampa Bay Storm,67,61,False,12226,4875
+2011,Week 7,2011-04-23,REG,7,149,Spokane Shock,13,Orlando Predators,70,58,False,11756,4884
+2011,Week 7,2011-04-23,REG,7,95,Georgia Force,146,Milwaukee Mustangs,57,48,False,3712,4831
+2011,Week 7,2011-04-23,REG,7,145,Iowa Barnstormers,152,Tulsa Talons,60,61,False,5385,4909
+2011,Week 7,2011-04-23,REG,7,112,Utah Blaze,21,Arizona Rattlers,61,67,True,8717,4804
+2011,Week 8,2011-04-29,REG,8,152,Tulsa Talons,131,Cleveland Gladiators,30,34,False,5109,4934
+2011,Week 8,2011-04-29,REG,8,144,Dallas Vigilantes,213,Kansas City Command,72,63,False,3502,4902
+2011,Week 8,2011-04-30,REG,8,214,Pittsburgh Power,95,Georgia Force,39,58,False,2093,4822
+2011,Week 8,2011-04-30,REG,8,12,Tampa Bay Storm,146,Milwaukee Mustangs,33,50,False,4012,4832
+2011,Week 8,2011-04-30,REG,8,66,New Orleans VooDoo,64,Chicago Rush,28,50,False,9018,4840
+2011,Week 8,2011-04-30,REG,8,13,Orlando Predators,139,Jacksonville Sharks,55,76,False,10150,4868
+2011,Week 8,2011-04-30,REG,8,99,Philadelphia Soul,145,Iowa Barnstormers,76,62,False,8103,4891
+2011,Week 8,2011-04-30,REG,8,21,Arizona Rattlers,149,Spokane Shock,69,70,False,10113,4852
+2011,Week 9,2011-05-06,REG,9,139,Jacksonville Sharks,99,Philadelphia Soul,58,42,False,8429,4919
+2011,Week 9,2011-05-06,REG,9,146,Milwaukee Mustangs,131,Cleveland Gladiators,41,50,False,5077,4928
+2011,Week 9,2011-05-06,REG,9,12,Tampa Bay Storm,13,Orlando Predators,61,63,False,12897,4885
+2011,Week 9,2011-05-06,REG,9,112,Utah Blaze,95,Georgia Force,74,71,False,3259,4823
+2011,Week 9,2011-05-07,REG,9,149,Spokane Shock,214,Pittsburgh Power,41,51,False,6756,4787
+2011,Week 9,2011-05-07,REG,9,66,New Orleans VooDoo,213,Kansas City Command,59,52,False,4422,4903
+2011,Week 9,2011-05-07,REG,9,64,Chicago Rush,152,Tulsa Talons,45,64,False,4141,4912
+2011,Week 9,2011-05-07,REG,9,145,Iowa Barnstormers,144,Dallas Vigilantes,57,71,False,6634,4813
+2011,Week 9,2011-05-07,REG,9,21,Arizona Rattlers,25,San Jose SaberCats,65,43,False,9499,4797
+2011,Week 10,2011-05-13,REG,10,95,Georgia Force,99,Philadelphia Soul,49,68,False,7551,4920
+2011,Week 10,2011-05-13,REG,10,213,Kansas City Command,12,Tampa Bay Storm,30,46,False,11172,4876
+2011,Week 10,2011-05-13,REG,10,152,Tulsa Talons,66,New Orleans VooDoo,48,35,False,8127,4778
+2011,Week 10,2011-05-13,REG,10,145,Iowa Barnstormers,139,Jacksonville Sharks,27,79,False,9052,4869
+2011,Week 10,2011-05-14,REG,10,25,San Jose SaberCats,214,Pittsburgh Power,48,54,False,7333,4788
+2011,Week 10,2011-05-14,REG,10,131,Cleveland Gladiators,13,Orlando Predators,26,56,False,11256,4887
+2011,Week 10,2011-05-14,REG,10,146,Milwaukee Mustangs,112,Utah Blaze,65,53,False,7667,4862
+2011,Week 10,2011-05-14,REG,10,64,Chicago Rush,21,Arizona Rattlers,50,49,False,9000,4805
+2011,Week 10,2011-05-14,REG,10,144,Dallas Vigilantes,149,Spokane Shock,49,71,False,9368,4853
+2011,Week 11,2011-05-20,REG,11,21,Arizona Rattlers,66,New Orleans VooDoo,61,53,False,8257,4779
+2011,Week 11,2011-05-20,REG,11,12,Tampa Bay Storm,149,Spokane Shock,51,42,False,9320,4854
+2011,Week 11,2011-05-21,REG,11,99,Philadelphia Soul,131,Cleveland Gladiators,41,59,False,7979,4930
+2011,Week 11,2011-05-21,REG,11,139,Jacksonville Sharks,95,Georgia Force,62,55,False,4301,4824
+2011,Week 11,2011-05-21,REG,11,213,Kansas City Command,152,Tulsa Talons,40,38,False,4504,4913
+2011,Week 11,2011-05-21,REG,11,25,San Jose SaberCats,112,Utah Blaze,68,76,False,8815,4863
+2011,Week 11,2011-05-22,REG,11,144,Dallas Vigilantes,64,Chicago Rush,57,69,False,9535,4841
+2011,Week 12,2011-05-26,REG,12,13,Orlando Predators,146,Milwaukee Mustangs,35,30,False,3348,4833
+2011,Week 12,2011-05-27,REG,12,66,New Orleans VooDoo,99,Philadelphia Soul,49,70,False,7626,4921
+2011,Week 12,2011-05-27,REG,12,112,Utah Blaze,145,Iowa Barnstormers,48,50,False,7884,4894
+2011,Week 12,2011-05-28,REG,12,149,Spokane Shock,213,Kansas City Command,42,45,False,3870,4904
+2011,Week 12,2011-05-28,REG,12,214,Pittsburgh Power,144,Dallas Vigilantes,76,75,False,9876,4814
+2011,Week 12,2011-05-28,REG,12,131,Cleveland Gladiators,21,Arizona Rattlers,42,63,False,7987,4806
+2011,Week 12,2011-05-28,REG,12,95,Georgia Force,25,San Jose SaberCats,55,49,False,10231,4798
+2011,Week 12,2011-05-29,REG,12,152,Tulsa Talons,64,Chicago Rush,48,49,False,7350,4842
+2011,Week 13,2011-06-03,REG,13,146,Milwaukee Mustangs,99,Philadelphia Soul,37,39,False,7681,4923
+2011,Week 13,2011-06-03,REG,13,139,Jacksonville Sharks,66,New Orleans VooDoo,62,55,False,8500,4780
+2011,Week 13,2011-06-04,REG,13,64,Chicago Rush,213,Kansas City Command,58,30,False,3635,4906
+2011,Week 13,2011-06-04,REG,13,131,Cleveland Gladiators,214,Pittsburgh Power,32,35,False,9066,4789
+2011,Week 13,2011-06-04,REG,13,12,Tampa Bay Storm,95,Georgia Force,49,60,False,4023,4825
+2011,Week 13,2011-06-04,REG,13,13,Orlando Predators,145,Iowa Barnstormers,77,61,False,8279,4895
+2011,Week 13,2011-06-04,REG,13,25,San Jose SaberCats,144,Dallas Vigilantes,57,70,False,8463,4815
+2011,Week 13,2011-06-04,REG,13,21,Arizona Rattlers,112,Utah Blaze,72,37,False,7997,4864
+2011,Week 14,2011-06-10,REG,14,99,Philadelphia Soul,149,Spokane Shock,54,75,False,8972,4855
+2011,Week 14,2011-06-11,REG,14,95,Georgia Force,131,Cleveland Gladiators,48,62,False,5029,4935
+2011,Week 14,2011-06-11,REG,14,214,Pittsburgh Power,12,Tampa Bay Storm,55,62,False,11756,4877
+2011,Week 14,2011-06-11,REG,14,139,Jacksonville Sharks,13,Orlando Predators,68,67,False,12356,4889
+2011,Week 14,2011-06-11,REG,14,213,Kansas City Command,146,Milwaukee Mustangs,34,54,False,5249,4834
+2011,Week 14,2011-06-11,REG,14,112,Utah Blaze,152,Tulsa Talons,51,81,False,4940,4914
+2011,Week 14,2011-06-11,REG,14,145,Iowa Barnstormers,21,Arizona Rattlers,41,61,False,8664,4807
+2011,Week 15,2011-06-17,REG,15,152,Tulsa Talons,99,Philadelphia Soul,48,42,False,8140,4925
+2011,Week 15,2011-06-17,REG,15,13,Orlando Predators,12,Tampa Bay Storm,44,46,False,11151,4878
+2011,Week 15,2011-06-17,REG,15,66,New Orleans VooDoo,95,Georgia Force,47,59,False,4009,4826
+2011,Week 15,2011-06-18,REG,15,146,Milwaukee Mustangs,139,Jacksonville Sharks,47,62,False,10120,4871
+2011,Week 15,2011-06-18,REG,15,144,Dallas Vigilantes,145,Iowa Barnstormers,65,55,False,8059,4896
+2011,Week 15,2011-06-18,REG,15,214,Pittsburgh Power,112,Utah Blaze,40,81,False,9096,4865
+2011,Week 15,2011-06-18,REG,15,25,San Jose SaberCats,21,Arizona Rattlers,57,64,False,9397,4808
+2011,Week 15,2011-06-18,REG,15,64,Chicago Rush,149,Spokane Shock,60,63,False,9499,4856
+2011,Week 15,2011-06-19,REG,15,131,Cleveland Gladiators,213,Kansas City Command,41,50,False,3938,4908
+2011,Week 16,2011-06-24,REG,16,213,Kansas City Command,112,Utah Blaze,60,61,False,9270,4866
+2011,Week 16,2011-06-25,REG,16,12,Tampa Bay Storm,139,Jacksonville Sharks,41,66,False,10517,4872
+2011,Week 16,2011-06-25,REG,16,25,San Jose SaberCats,131,Cleveland Gladiators,21,82,False,5617,4931
+2011,Week 16,2011-06-25,REG,16,21,Arizona Rattlers,99,Philadelphia Soul,55,54,False,9710,4926
+2011,Week 16,2011-06-25,REG,16,146,Milwaukee Mustangs,214,Pittsburgh Power,38,39,False,8227,4790
+2011,Week 16,2011-06-25,REG,16,95,Georgia Force,13,Orlando Predators,64,34,False,11364,4890
+2011,Week 16,2011-06-25,REG,16,149,Spokane Shock,66,New Orleans VooDoo,75,54,False,9037,4781
+2011,Week 16,2011-06-25,REG,16,144,Dallas Vigilantes,152,Tulsa Talons,55,48,False,4676,4915
+2011,Week 16,2011-06-26,REG,16,145,Iowa Barnstormers,64,Chicago Rush,48,58,False,9063,4843
+2011,Week 17,2011-07-01,REG,17,66,New Orleans VooDoo,12,Tampa Bay Storm,64,33,False,12016,4879
+2011,Week 17,2011-07-01,REG,17,214,Pittsburgh Power,13,Orlando Predators,54,62,False,15726,4892
+2011,Week 17,2011-07-01,REG,17,152,Tulsa Talons,145,Iowa Barnstormers,53,55,False,8156,4897
+2011,Week 17,2011-07-01,REG,17,112,Utah Blaze,64,Chicago Rush,35,59,False,7342,4844
+2011,Week 17,2011-07-01,REG,17,139,Jacksonville Sharks,25,San Jose SaberCats,70,83,False,8216,4799
+2011,Week 17,2011-07-02,REG,17,131,Cleveland Gladiators,146,Milwaukee Mustangs,62,58,False,5633,4835
+2011,Week 17,2011-07-02,REG,17,99,Philadelphia Soul,144,Dallas Vigilantes,41,58,False,8957,4816
+2011,Week 17,2011-07-02,REG,17,149,Spokane Shock,21,Arizona Rattlers,46,68,False,9173,4809
+2011,Week 18,2011-07-08,REG,18,146,Milwaukee Mustangs,66,New Orleans VooDoo,76,55,False,9359,4782
+2011,Week 18,2011-07-08,REG,18,131,Cleveland Gladiators,99,Philadelphia Soul,21,49,False,9761,4927
+2011,Week 18,2011-07-09,REG,18,144,Dallas Vigilantes,139,Jacksonville Sharks,75,70,False,11153,4874
+2011,Week 18,2011-07-09,REG,18,64,Chicago Rush,95,Georgia Force,51,41,False,9723,4827
+2011,Week 18,2011-07-09,REG,18,12,Tampa Bay Storm,152,Tulsa Talons,33,70,False,4945,4916
+2011,Week 18,2011-07-09,REG,18,213,Kansas City Command,145,Iowa Barnstormers,40,48,False,8347,4898
+2011,Week 18,2011-07-09,REG,18,112,Utah Blaze,149,Spokane Shock,49,76,False,16233,4857
+2011,Week 18,2011-07-09,REG,18,13,Orlando Predators,25,San Jose SaberCats,40,60,False,10302,4800
+2011,Week 18,2011-07-10,REG,18,21,Arizona Rattlers,214,Pittsburgh Power,68,34,False,8600,4791
+2011,Week 19,2011-07-15,REG,19,145,Iowa Barnstormers,146,Milwaukee Mustangs,49,83,False,5077,4836
+2011,Week 19,2011-07-15,REG,19,214,Pittsburgh Power,131,Cleveland Gladiators,55,67,False,8139,4932
+2011,Week 19,2011-07-15,REG,19,139,Jacksonville Sharks,213,Kansas City Command,48,49,True,4639,4910
+2011,Week 19,2011-07-16,REG,19,95,Georgia Force,12,Tampa Bay Storm,58,40,False,9700,4880
+2011,Week 19,2011-07-16,REG,19,13,Orlando Predators,152,Tulsa Talons,85,49,False,6166,4917
+2011,Week 19,2011-07-16,REG,19,64,Chicago Rush,144,Dallas Vigilantes,53,44,False,11553,4817
+2011,Week 19,2011-07-16,REG,19,66,New Orleans VooDoo,112,Utah Blaze,58,62,False,10631,4867
+2011,Week 19,2011-07-16,REG,19,25,San Jose SaberCats,149,Spokane Shock,61,63,False,9680,4858
+2011,Week 20,2011-07-22,REG,20,214,Pittsburgh Power,99,Philadelphia Soul,61,48,False,16429,4929
+2011,Week 20,2011-07-22,REG,20,112,Utah Blaze,131,Cleveland Gladiators,76,69,False,6190,4933
+2011,Week 20,2011-07-22,REG,20,149,Spokane Shock,139,Jacksonville Sharks,56,75,False,10025,4850
+2011,Week 20,2011-07-23,REG,20,25,San Jose SaberCats,12,Tampa Bay Storm,44,57,False,10738,4881
+2011,Week 20,2011-07-23,REG,20,66,New Orleans VooDoo,13,Orlando Predators,44,62,False,14982,4893
+2011,Week 20,2011-07-23,REG,20,146,Milwaukee Mustangs,64,Chicago Rush,54,41,False,10269,4845
+2011,Week 20,2011-07-23,REG,20,152,Tulsa Talons,213,Kansas City Command,71,55,False,5575,4911
+2011,Week 20,2011-07-23,REG,20,95,Georgia Force,145,Iowa Barnstormers,63,59,False,10871,4900
+2011,Week 20,2011-07-23,REG,20,21,Arizona Rattlers,144,Dallas Vigilantes,55,49,False,12866,4818
+2011,Playoffs Week 1,2011-07-29,POST,1,13,Orlando Predators,139,Jacksonville Sharks,48,63,False,10189,4937
+2011,Playoffs Week 1,2011-07-29,POST,1,144,Dallas Vigilantes,64,Chicago Rush,51,54,False,4489,4940
+2011,Playoffs Week 1,2011-07-29,POST,1,149,Spokane Shock,21,Arizona Rattlers,33,62,False,7105,4939
+2011,Playoffs Week 1,2011-07-31,POST,1,95,Georgia Force,131,Cleveland Gladiators,50,41,False,4948,4938
+2011,Playoffs Week 2,2011-08-06,POST,2,64,Chicago Rush,21,Arizona Rattlers,48,54,False,6886,4942
+2011,Playoffs Week 2,2011-08-08,POST,2,95,Georgia Force,139,Jacksonville Sharks,55,64,False,10891,4941
+2011,ArenaBowl XXIV,2011-08-12,POST,3,139,Jacksonville Sharks,21,Arizona Rattlers,73,70,False,14320,4936

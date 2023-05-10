@@ -1,0 +1,72 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2016,Week 1,2016-04-01,REG,1,13,Orlando Predators,12,Tampa Bay Storm,76,25,False,9928,5492
+2016,Week 1,2016-04-01,REG,1,99,Philadelphia Soul,131,Cleveland Gladiators,69,41,False,12944,5491
+2016,Week 1,2016-04-01,REG,1,21,Arizona Rattlers,226,Portland Steel,80,28,False,6782,5493
+2016,Week 1,2016-04-02,REG,1,139,Jacksonville Sharks,219,Los Angeles KISS,39,64,False,6805,5494
+2016,Week 2,2016-04-09,REG,2,12,Tampa Bay Storm,131,Cleveland Gladiators,29,41,False,11892,5495
+2016,Week 2,2016-04-09,REG,2,226,Portland Steel,13,Orlando Predators,50,53,False,10732,5523
+2016,Week 2,2016-04-09,REG,2,21,Arizona Rattlers,219,Los Angeles KISS,69,28,False,6427,5516
+2016,Week 2,2016-04-11,REG,2,139,Jacksonville Sharks,99,Philadelphia Soul,59,41,False,8550,5531
+2016,Week 3,2016-04-16,REG,3,219,Los Angeles KISS,131,Cleveland Gladiators,47,42,False,12243,5496
+2016,Week 3,2016-04-16,REG,3,12,Tampa Bay Storm,21,Arizona Rattlers,27,60,False,14872,5539
+2016,Week 3,2016-04-17,REG,3,226,Portland Steel,99,Philadelphia Soul,32,70,False,8782,5532
+2016,Week 3,2016-04-18,REG,3,13,Orlando Predators,139,Jacksonville Sharks,63,56,False,7835,5547
+2016,Week 4,2016-04-23,REG,4,131,Cleveland Gladiators,99,Philadelphia Soul,50,67,False,7057,5533
+2016,Week 4,2016-04-23,REG,4,21,Arizona Rattlers,139,Jacksonville Sharks,75,68,True,8354,5548
+2016,Week 4,2016-04-23,REG,4,219,Los Angeles KISS,13,Orlando Predators,40,43,False,10127,5524
+2016,Week 5,2016-04-29,REG,5,13,Orlando Predators,131,Cleveland Gladiators,76,56,False,13429,5497
+2016,Week 5,2016-04-30,REG,5,226,Portland Steel,21,Arizona Rattlers,21,68,False,11510,5540
+2016,Week 5,2016-05-01,REG,5,139,Jacksonville Sharks,12,Tampa Bay Storm,33,27,False,8438,5502
+2016,Week 5,2016-05-02,REG,5,99,Philadelphia Soul,219,Los Angeles KISS,56,33,False,6193,5517
+2016,Week 6,2016-05-07,REG,6,139,Jacksonville Sharks,131,Cleveland Gladiators,40,41,False,8056,5498
+2016,Week 6,2016-05-07,REG,6,21,Arizona Rattlers,13,Orlando Predators,59,77,False,10512,5525
+2016,Week 6,2016-05-09,REG,6,12,Tampa Bay Storm,99,Philadelphia Soul,17,47,False,8172,5534
+2016,Week 6,2016-05-09,REG,6,226,Portland Steel,219,Los Angeles KISS,27,66,False,9235,5509
+2016,Week 7,2016-05-13,REG,7,12,Tampa Bay Storm,13,Orlando Predators,40,42,False,12971,5526
+2016,Week 7,2016-05-14,REG,7,21,Arizona Rattlers,99,Philadelphia Soul,58,65,False,8580,5535
+2016,Week 7,2016-05-16,REG,7,226,Portland Steel,131,Cleveland Gladiators,48,55,True,6733,5499
+2016,Week 8,2016-05-21,REG,8,226,Portland Steel,139,Jacksonville Sharks,34,65,False,10208,5549
+2016,Week 8,2016-05-21,REG,8,13,Orlando Predators,99,Philadelphia Soul,54,62,False,12127,5536
+2016,Week 8,2016-05-21,REG,8,219,Los Angeles KISS,21,Arizona Rattlers,34,47,False,14519,5541
+2016,Week 8,2016-05-23,REG,8,131,Cleveland Gladiators,12,Tampa Bay Storm,70,63,True,9722,5503
+2016,Week 9,2016-05-27,REG,9,139,Jacksonville Sharks,13,Orlando Predators,59,56,False,10651,5527
+2016,Week 9,2016-05-28,REG,9,99,Philadelphia Soul,131,Cleveland Gladiators,49,63,False,11278,5500
+2016,Week 9,2016-05-28,REG,9,226,Portland Steel,219,Los Angeles KISS,42,54,False,7150,5518
+2016,Week 9,2016-05-29,REG,9,21,Arizona Rattlers,12,Tampa Bay Storm,56,63,False,8298,5504
+2016,Week 10,2016-06-03,REG,10,21,Arizona Rattlers,131,Cleveland Gladiators,77,62,False,11797,5501
+2016,Week 10,2016-06-03,REG,10,12,Tampa Bay Storm,226,Portland Steel,35,68,False,5136,5510
+2016,Week 10,2016-06-04,REG,10,99,Philadelphia Soul,139,Jacksonville Sharks,56,42,False,10985,5550
+2016,Week 10,2016-06-05,REG,10,13,Orlando Predators,219,Los Angeles KISS,43,41,False,6287,5519
+2016,Week 11,2016-06-11,REG,11,219,Los Angeles KISS,99,Philadelphia Soul,37,73,False,5802,5537
+2016,Week 11,2016-06-11,REG,11,139,Jacksonville Sharks,12,Tampa Bay Storm,67,34,False,8418,5505
+2016,Week 11,2016-06-11,REG,11,131,Cleveland Gladiators,13,Orlando Predators,56,59,False,11117,5528
+2016,Week 11,2016-06-11,REG,11,226,Portland Steel,21,Arizona Rattlers,49,76,False,14401,5542
+2016,Week 12,2016-06-17,REG,12,99,Philadelphia Soul,21,Arizona Rattlers,63,80,False,11067,5543
+2016,Week 12,2016-06-18,REG,12,13,Orlando Predators,139,Jacksonville Sharks,44,34,False,9835,5551
+2016,Week 12,2016-06-18,REG,12,219,Los Angeles KISS,12,Tampa Bay Storm,54,27,False,9670,5506
+2016,Week 12,2016-06-18,REG,12,131,Cleveland Gladiators,226,Portland Steel,58,49,False,4516,5511
+2016,Week 13,2016-06-24,REG,13,12,Tampa Bay Storm,13,Orlando Predators,33,56,False,13527,5529
+2016,Week 13,2016-06-25,REG,13,131,Cleveland Gladiators,139,Jacksonville Sharks,48,47,False,10645,5552
+2016,Week 13,2016-06-26,REG,13,21,Arizona Rattlers,219,Los Angeles KISS,64,49,False,7090,5520
+2016,Week 13,2016-06-27,REG,13,99,Philadelphia Soul,226,Portland Steel,59,38,False,4468,5512
+2016,Week 15,2016-07-09,REG,15,131,Cleveland Gladiators,99,Philadelphia Soul,62,83,False,5593,5538
+2016,Week 15,2016-07-09,REG,15,139,Jacksonville Sharks,21,Arizona Rattlers,67,69,False,11874,5544
+2016,Week 15,2016-07-09,REG,15,13,Orlando Predators,226,Portland Steel,47,41,False,4458,5513
+2016,Week 15,2016-07-11,REG,15,12,Tampa Bay Storm,219,Los Angeles KISS,21,48,False,6249,5521
+2016,Week 16,2016-07-16,REG,16,99,Philadelphia Soul,12,Tampa Bay Storm,56,51,False,8406,5507
+2016,Week 16,2016-07-16,REG,16,139,Jacksonville Sharks,226,Portland Steel,53,55,False,4793,5515
+2016,Week 16,2016-07-16,REG,16,131,Cleveland Gladiators,219,Los Angeles KISS,61,63,False,8069,5522
+2016,Week 16,2016-07-18,REG,16,13,Orlando Predators,21,Arizona Rattlers,45,62,False,9628,5545
+2016,Week 17,2016-07-23,REG,17,226,Portland Steel,12,Tampa Bay Storm,40,41,False,8958,5508
+2016,Week 17,2016-07-23,REG,17,219,Los Angeles KISS,139,Jacksonville Sharks,32,46,False,11840,5553
+2016,Week 17,2016-07-24,REG,17,131,Cleveland Gladiators,21,Arizona Rattlers,20,68,False,12823,5546
+2016,Week 18,2016-07-30,REG,18,12,Tampa Bay Storm,139,Jacksonville Sharks,35,54,False,10324,5554
+2016,Week 18,2016-07-30,REG,18,99,Philadelphia Soul,13,Orlando Predators,67,59,False,13827,5530
+2016,Week 18,2016-08-01,REG,18,219,Los Angeles KISS,226,Portland Steel,46,48,False,5236,5514
+2016,Playoffs Week 1,2016-08-06,POST,1,139,Jacksonville Sharks,13,Orlando Predators,69,68,True,12171,5578
+2016,Playoffs Week 1,2016-08-06,POST,1,226,Portland Steel,21,Arizona Rattlers,40,84,False,13192,5577
+2016,Playoffs Week 1,2016-08-07,POST,1,12,Tampa Bay Storm,99,Philadelphia Soul,41,63,False,5540,5576
+2016,Playoffs Week 1,2016-08-07,POST,1,131,Cleveland Gladiators,219,Los Angeles KISS,56,52,False,4269,5579
+2016,Playoffs Week 2,2016-08-13,POST,2,131,Cleveland Gladiators,21,Arizona Rattlers,41,82,False,15103,5556
+2016,Playoffs Week 2,2016-08-14,POST,2,139,Jacksonville Sharks,99,Philadelphia Soul,50,55,False,4721,5557
+2016,ArenaBowl XXIX,2016-08-26,POST,3,99,Philadelphia Soul,21,Arizona Rattlers,56,42,False,13390,5555

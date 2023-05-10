@@ -1,0 +1,134 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2014,Week 1,2014-03-14,REG,1,66,New Orleans VooDoo,12,Tampa Bay Storm,57,62,False,10370,5241
+2014,Week 1,2014-03-15,REG,1,131,Cleveland Gladiators,214,Pittsburgh Power,63,53,False,7742,5268
+2014,Week 1,2014-03-15,REG,1,219,Los Angeles KISS,218,San Antonio Talons,41,38,False,8269,5259
+2014,Week 1,2014-03-15,REG,1,99,Philadelphia Soul,21,Arizona Rattlers,55,62,True,9493,5277
+2014,Week 1,2014-03-15,REG,1,145,Iowa Barnstormers,149,Spokane Shock,35,64,False,10224,5286
+2014,Week 1,2014-03-16,REG,1,139,Jacksonville Sharks,13,Orlando Predators,47,49,False,4893,5250
+2014,Week 1,2014-03-17,REG,1,25,San Jose SaberCats,220,Portland Thunder,64,34,False,8509,5295
+2014,Week 2,2014-03-21,REG,2,219,Los Angeles KISS,13,Orlando Predators,63,69,True,5312,5251
+2014,Week 2,2014-03-21,REG,2,12,Tampa Bay Storm,218,San Antonio Talons,48,45,False,5981,5260
+2014,Week 2,2014-03-23,REG,2,149,Spokane Shock,21,Arizona Rattlers,49,68,False,7128,5278
+2014,Week 2,2014-03-23,REG,2,99,Philadelphia Soul,25,San Jose SaberCats,33,70,False,10721,5304
+2014,Week 2,2014-03-24,REG,2,145,Iowa Barnstormers,220,Portland Thunder,40,36,False,6521,5296
+2014,Week 3,2014-03-29,REG,3,25,San Jose SaberCats,214,Pittsburgh Power,47,48,False,4309,5269
+2014,Week 3,2014-03-29,REG,3,13,Orlando Predators,12,Tampa Bay Storm,56,52,False,10896,5242
+2014,Week 3,2014-03-29,REG,3,218,San Antonio Talons,139,Jacksonville Sharks,22,63,False,10144,5313
+2014,Week 3,2014-03-29,REG,3,131,Cleveland Gladiators,66,New Orleans VooDoo,37,26,False,5695,5322
+2014,Week 4,2014-04-03,REG,4,13,Orlando Predators,66,New Orleans VooDoo,55,62,False,4740,5323
+2014,Week 4,2014-04-04,REG,4,99,Philadelphia Soul,12,Tampa Bay Storm,49,63,False,11102,5243
+2014,Week 4,2014-04-04,REG,4,145,Iowa Barnstormers,131,Cleveland Gladiators,47,54,False,10255,5331
+2014,Week 4,2014-04-04,REG,4,214,Pittsburgh Power,218,San Antonio Talons,70,17,False,4112,5261
+2014,Week 4,2014-04-04,REG,4,149,Spokane Shock,25,San Jose SaberCats,73,62,False,7215,5305
+2014,Week 4,2014-04-05,REG,4,139,Jacksonville Sharks,21,Arizona Rattlers,38,63,False,8586,5279
+2014,Week 4,2014-04-05,REG,4,220,Portland Thunder,219,Los Angeles KISS,34,44,False,12045,5340
+2014,Week 5,2014-04-10,REG,5,99,Philadelphia Soul,13,Orlando Predators,69,56,False,4756,5252
+2014,Week 5,2014-04-11,REG,5,66,New Orleans VooDoo,214,Pittsburgh Power,14,56,False,5224,5270
+2014,Week 5,2014-04-11,REG,5,12,Tampa Bay Storm,139,Jacksonville Sharks,41,60,False,8132,5314
+2014,Week 5,2014-04-12,REG,5,218,San Antonio Talons,145,Iowa Barnstormers,62,63,False,8763,5349
+2014,Week 5,2014-04-12,REG,5,220,Portland Thunder,149,Spokane Shock,27,55,False,8652,5287
+2014,Week 5,2014-04-12,REG,5,131,Cleveland Gladiators,219,Los Angeles KISS,40,30,False,10570,5341
+2014,Week 5,2014-04-12,REG,5,21,Arizona Rattlers,25,San Jose SaberCats,57,51,False,9123,5306
+2014,Week 6,2014-04-18,REG,6,218,San Antonio Talons,66,New Orleans VooDoo,68,33,False,6097,5324
+2014,Week 6,2014-04-18,REG,6,25,San Jose SaberCats,220,Portland Thunder,38,32,False,9075,5297
+2014,Week 6,2014-04-19,REG,6,139,Jacksonville Sharks,99,Philadelphia Soul,41,54,False,12311,5359
+2014,Week 6,2014-04-19,REG,6,12,Tampa Bay Storm,13,Orlando Predators,65,77,False,5434,5253
+2014,Week 6,2014-04-19,REG,6,219,Los Angeles KISS,145,Iowa Barnstormers,12,31,False,9152,5350
+2014,Week 6,2014-04-19,REG,6,214,Pittsburgh Power,21,Arizona Rattlers,69,73,False,8179,5280
+2014,Week 6,2014-04-19,REG,6,131,Cleveland Gladiators,149,Spokane Shock,52,50,False,8752,5288
+2014,Week 7,2014-04-26,REG,7,220,Portland Thunder,139,Jacksonville Sharks,69,62,False,8679,5315
+2014,Week 7,2014-04-26,REG,7,214,Pittsburgh Power,131,Cleveland Gladiators,28,55,False,11083,5332
+2014,Week 7,2014-04-26,REG,7,149,Spokane Shock,12,Tampa Bay Storm,53,41,False,9448,5244
+2014,Week 7,2014-04-26,REG,7,66,New Orleans VooDoo,13,Orlando Predators,48,63,False,5013,5254
+2014,Week 7,2014-04-26,REG,7,218,San Antonio Talons,21,Arizona Rattlers,59,69,False,8567,5281
+2014,Week 7,2014-04-26,REG,7,25,San Jose SaberCats,219,Los Angeles KISS,48,32,False,10569,5342
+2014,Week 7,2014-04-27,REG,7,145,Iowa Barnstormers,99,Philadelphia Soul,55,60,False,10062,5360
+2014,Week 8,2014-05-03,REG,8,99,Philadelphia Soul,214,Pittsburgh Power,57,65,False,5321,5271
+2014,Week 8,2014-05-03,REG,8,21,Arizona Rattlers,139,Jacksonville Sharks,70,61,False,9732,5316
+2014,Week 8,2014-05-03,REG,8,220,Portland Thunder,12,Tampa Bay Storm,61,42,False,10584,5245
+2014,Week 8,2014-05-03,REG,8,145,Iowa Barnstormers,218,San Antonio Talons,62,52,False,7283,5262
+2014,Week 8,2014-05-03,REG,8,13,Orlando Predators,25,San Jose SaberCats,35,70,False,8132,5307
+2014,Week 8,2014-05-04,REG,8,149,Spokane Shock,219,Los Angeles KISS,70,21,False,10552,5343
+2014,Week 9,2014-05-09,REG,9,214,Pittsburgh Power,149,Spokane Shock,52,41,False,8742,5289
+2014,Week 9,2014-05-10,REG,9,66,New Orleans VooDoo,99,Philadelphia Soul,60,79,False,6080,5361
+2014,Week 9,2014-05-10,REG,9,219,Los Angeles KISS,131,Cleveland Gladiators,42,45,False,10472,5333
+2014,Week 9,2014-05-10,REG,9,139,Jacksonville Sharks,145,Iowa Barnstormers,68,48,False,7276,5351
+2014,Week 9,2014-05-11,REG,9,21,Arizona Rattlers,220,Portland Thunder,61,32,False,8863,5298
+2014,Week 10,2014-05-17,REG,10,219,Los Angeles KISS,214,Pittsburgh Power,26,50,False,7762,5272
+2014,Week 10,2014-05-17,REG,10,12,Tampa Bay Storm,99,Philadelphia Soul,34,62,False,8058,5362
+2014,Week 10,2014-05-17,REG,10,13,Orlando Predators,139,Jacksonville Sharks,59,50,False,9459,5317
+2014,Week 10,2014-05-17,REG,10,66,New Orleans VooDoo,218,San Antonio Talons,62,44,False,6125,5263
+2014,Week 10,2014-05-17,REG,10,131,Cleveland Gladiators,145,Iowa Barnstormers,63,46,False,7156,5352
+2014,Week 10,2014-05-17,REG,10,220,Portland Thunder,25,San Jose SaberCats,27,64,False,8243,5308
+2014,Week 10,2014-05-18,REG,10,149,Spokane Shock,21,Arizona Rattlers,38,70,False,9437,5282
+2014,Week 11,2014-05-22,REG,11,218,San Antonio Talons,220,Portland Thunder,40,55,False,6396,5299
+2014,Week 11,2014-05-23,REG,11,99,Philadelphia Soul,131,Cleveland Gladiators,52,54,False,10659,5334
+2014,Week 11,2014-05-23,REG,11,25,San Jose SaberCats,149,Spokane Shock,52,34,False,8579,5290
+2014,Week 11,2014-05-24,REG,11,139,Jacksonville Sharks,12,Tampa Bay Storm,35,56,False,12501,5246
+2014,Week 11,2014-05-24,REG,11,214,Pittsburgh Power,13,Orlando Predators,62,61,False,5008,5255
+2014,Week 11,2014-05-24,REG,11,145,Iowa Barnstormers,66,New Orleans VooDoo,51,41,False,6193,5325
+2014,Week 11,2014-05-25,REG,11,21,Arizona Rattlers,219,Los Angeles KISS,70,25,False,11302,5344
+2014,Week 12,2014-05-30,REG,12,12,Tampa Bay Storm,66,New Orleans VooDoo,62,48,False,4853,5326
+2014,Week 12,2014-05-30,REG,12,220,Portland Thunder,149,Spokane Shock,48,58,False,8535,5291
+2014,Week 12,2014-05-31,REG,12,131,Cleveland Gladiators,214,Pittsburgh Power,34,48,False,5348,5273
+2014,Week 12,2014-05-31,REG,12,13,Orlando Predators,145,Iowa Barnstormers,48,58,False,7442,5353
+2014,Week 12,2014-05-31,REG,12,25,San Jose SaberCats,21,Arizona Rattlers,42,51,False,12094,5283
+2014,Week 12,2014-06-01,REG,12,218,San Antonio Talons,99,Philadelphia Soul,40,76,False,7811,5363
+2014,Week 13,2014-06-06,REG,13,21,Arizona Rattlers,220,Portland Thunder,70,59,False,8292,5300
+2014,Week 13,2014-06-07,REG,13,149,Spokane Shock,139,Jacksonville Sharks,28,34,False,9401,5318
+2014,Week 13,2014-06-07,REG,13,99,Philadelphia Soul,12,Tampa Bay Storm,49,56,False,11062,5247
+2014,Week 13,2014-06-07,REG,13,66,New Orleans VooDoo,214,Pittsburgh Power,26,65,False,5419,5274
+2014,Week 13,2014-06-07,REG,13,13,Orlando Predators,218,San Antonio Talons,58,39,False,6237,5264
+2014,Week 13,2014-06-07,REG,13,145,Iowa Barnstormers,131,Cleveland Gladiators,49,86,False,9857,5335
+2014,Week 13,2014-06-07,REG,13,219,Los Angeles KISS,25,San Jose SaberCats,35,63,False,8637,5309
+2014,Week 14,2014-06-12,REG,14,139,Jacksonville Sharks,13,Orlando Predators,48,58,False,4789,5256
+2014,Week 14,2014-06-14,REG,14,214,Pittsburgh Power,99,Philadelphia Soul,57,56,False,7804,5364
+2014,Week 14,2014-06-14,REG,14,66,New Orleans VooDoo,131,Cleveland Gladiators,46,62,False,9404,5336
+2014,Week 14,2014-06-14,REG,14,21,Arizona Rattlers,218,San Antonio Talons,70,34,False,5692,5265
+2014,Week 14,2014-06-14,REG,14,12,Tampa Bay Storm,145,Iowa Barnstormers,62,56,True,8862,5354
+2014,Week 14,2014-06-14,REG,14,220,Portland Thunder,219,Los Angeles KISS,61,69,False,10980,5345
+2014,Week 14,2014-06-14,REG,14,149,Spokane Shock,25,San Jose SaberCats,37,47,False,8263,5310
+2014,Week 15,2014-06-20,REG,15,145,Iowa Barnstormers,214,Pittsburgh Power,27,57,False,6657,5275
+2014,Week 15,2014-06-20,REG,15,218,San Antonio Talons,149,Spokane Shock,30,70,False,8489,5292
+2014,Week 15,2014-06-21,REG,15,131,Cleveland Gladiators,99,Philadelphia Soul,69,68,False,8033,5365
+2014,Week 15,2014-06-21,REG,15,13,Orlando Predators,12,Tampa Bay Storm,34,35,False,11890,5248
+2014,Week 15,2014-06-21,REG,15,139,Jacksonville Sharks,66,New Orleans VooDoo,54,13,False,5243,5327
+2014,Week 15,2014-06-21,REG,15,219,Los Angeles KISS,21,Arizona Rattlers,47,83,False,10750,5284
+2014,Week 16,2014-06-26,REG,16,66,New Orleans VooDoo,220,Portland Thunder,56,62,False,7969,5301
+2014,Week 16,2014-06-27,REG,16,12,Tampa Bay Storm,131,Cleveland Gladiators,41,48,False,10855,5337
+2014,Week 16,2014-06-27,REG,16,21,Arizona Rattlers,25,San Jose SaberCats,33,62,False,7373,5311
+2014,Week 16,2014-06-28,REG,16,214,Pittsburgh Power,139,Jacksonville Sharks,64,48,False,9304,5319
+2014,Week 16,2014-06-28,REG,16,99,Philadelphia Soul,145,Iowa Barnstormers,84,48,False,9551,5357
+2014,Week 16,2014-06-28,REG,16,149,Spokane Shock,219,Los Angeles KISS,64,46,False,10751,5346
+2014,Week 17,2014-07-05,REG,17,220,Portland Thunder,131,Cleveland Gladiators,40,61,False,9840,5338
+2014,Week 17,2014-07-06,REG,17,139,Jacksonville Sharks,218,San Antonio Talons,62,34,False,5212,5266
+2014,Week 17,2014-07-06,REG,17,25,San Jose SaberCats,219,Los Angeles KISS,75,34,False,10677,5347
+2014,Week 17,2014-07-07,REG,17,13,Orlando Predators,99,Philadelphia Soul,35,42,False,7069,5366
+2014,Week 17,2014-07-07,REG,17,214,Pittsburgh Power,66,New Orleans VooDoo,48,43,False,4966,5356
+2014,Week 18,2014-07-11,REG,18,12,Tampa Bay Storm,25,San Jose SaberCats,43,52,False,8645,5312
+2014,Week 18,2014-07-12,REG,18,131,Cleveland Gladiators,218,San Antonio Talons,50,47,True,8217,5267
+2014,Week 18,2014-07-12,REG,18,21,Arizona Rattlers,149,Spokane Shock,66,73,False,9362,5293
+2014,Week 18,2014-07-12,REG,18,219,Los Angeles KISS,220,Portland Thunder,31,44,False,8802,5302
+2014,Week 18,2014-07-14,REG,18,145,Iowa Barnstormers,13,Orlando Predators,33,66,False,5036,5257
+2014,Week 18,2014-07-14,REG,18,66,New Orleans VooDoo,139,Jacksonville Sharks,36,35,False,8960,5320
+2014,Week 19,2014-07-19,REG,19,139,Jacksonville Sharks,131,Cleveland Gladiators,20,62,False,13064,5339
+2014,Week 19,2014-07-19,REG,19,13,Orlando Predators,66,New Orleans VooDoo,70,64,True,5535,5329
+2014,Week 19,2014-07-19,REG,19,214,Pittsburgh Power,145,Iowa Barnstormers,59,56,False,7557,5358
+2014,Week 19,2014-07-19,REG,19,218,San Antonio Talons,219,Los Angeles KISS,72,65,False,11059,5348
+2014,Week 19,2014-07-20,REG,19,25,San Jose SaberCats,99,Philadelphia Soul,20,42,False,10471,5328
+2014,Week 19,2014-07-20,REG,19,220,Portland Thunder,21,Arizona Rattlers,55,65,False,13120,5285
+2014,Week 19,2014-07-21,REG,19,12,Tampa Bay Storm,149,Spokane Shock,52,55,False,9479,5294
+2014,Week 20,2014-07-26,REG,20,99,Philadelphia Soul,214,Pittsburgh Power,34,64,False,9549,5276
+2014,Week 20,2014-07-26,REG,20,21,Arizona Rattlers,13,Orlando Predators,50,56,False,8550,5258
+2014,Week 20,2014-07-26,REG,20,219,Los Angeles KISS,139,Jacksonville Sharks,36,53,False,11084,5321
+2014,Week 20,2014-07-26,REG,20,131,Cleveland Gladiators,12,Tampa Bay Storm,56,49,False,14770,5249
+2014,Week 20,2014-07-26,REG,20,218,San Antonio Talons,66,New Orleans VooDoo,38,35,True,6217,5330
+2014,Week 20,2014-07-26,REG,20,25,San Jose SaberCats,145,Iowa Barnstormers,72,43,False,8051,5355
+2014,Week 20,2014-07-26,REG,20,149,Spokane Shock,220,Portland Thunder,45,40,False,12848,5303
+2014,Playoffs Week 1,2014-08-02,POST,1,99,Philadelphia Soul,131,Cleveland Gladiators,37,39,False,12684,5371
+2014,Playoffs Week 1,2014-08-02,POST,1,149,Spokane Shock,25,San Jose SaberCats,28,55,False,11333,5374
+2014,Playoffs Week 1,2014-08-03,POST,1,214,Pittsburgh Power,13,Orlando Predators,48,56,False,4889,5373
+2014,Playoffs Week 1,2014-08-03,POST,1,220,Portland Thunder,21,Arizona Rattlers,48,52,False,6753,5372
+2014,Playoffs Week 2,2014-08-10,POST,2,13,Orlando Predators,131,Cleveland Gladiators,46,56,False,14543,5368
+2014,Playoffs Week 2,2014-08-10,POST,2,25,San Jose SaberCats,21,Arizona Rattlers,56,72,False,8581,5370
+2014,ArenaBowl XXVII,2014-08-23,POST,3,21,Arizona Rattlers,131,Cleveland Gladiators,72,32,False,18410,5367

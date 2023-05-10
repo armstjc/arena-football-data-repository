@@ -1,0 +1,160 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2004,Week 1,2004-02-05,REG,1,25,San Jose SaberCats,46,Detroit Fury,58,43,False,12314,2380
+2004,Week 1,2004-02-06,REG,1,102,Las Vegas Gladiators,98,Colorado Crush,42,43,False,18063,2388
+2004,Week 1,2004-02-07,REG,1,103,Columbus Destroyers,71,Indiana Firebirds,54,48,False,14007,2372
+2004,Week 1,2004-02-08,REG,1,13,Orlando Predators,12,Tampa Bay Storm,41,52,False,15404,2340
+2004,Week 1,2004-02-08,REG,1,45,Carolina Cobras,86,Dallas Desperados,67,41,False,10278,2356
+2004,Week 1,2004-02-08,REG,1,44,Los Angeles Avengers,21,Arizona Rattlers,51,32,False,14343,2396
+2004,Week 1,2004-02-08,REG,1,40,Grand Rapids Rampage,64,Chicago Rush,30,50,False,15082,2404
+2004,Week 1,2004-02-08,REG,1,72,New York Dragons,95,Georgia Force,54,28,False,11200,2412
+2004,Week 1,2004-02-08,REG,1,66,New Orleans VooDoo,99,Philadelphia Soul,42,34,False,17484,2420
+2004,Week 2,2004-02-13,REG,2,45,Carolina Cobras,103,Columbus Destroyers,54,53,False,17171,2428
+2004,Week 2,2004-02-13,REG,2,95,Georgia Force,12,Tampa Bay Storm,70,62,False,14104,2341
+2004,Week 2,2004-02-13,REG,2,104,Austin Wranglers,13,Orlando Predators,49,48,True,13218,2436
+2004,Week 2,2004-02-13,REG,2,46,Detroit Fury,21,Arizona Rattlers,48,31,False,12123,2397
+2004,Week 2,2004-02-14,REG,2,98,Colorado Crush,40,Grand Rapids Rampage,55,37,False,9288,2444
+2004,Week 2,2004-02-14,REG,2,44,Los Angeles Avengers,102,Las Vegas Gladiators,62,55,False,10113,2364
+2004,Week 2,2004-02-14,REG,2,64,Chicago Rush,72,New York Dragons,56,54,False,10720,2452
+2004,Week 2,2004-02-14,REG,2,71,Indiana Firebirds,66,New Orleans VooDoo,40,41,False,14236,2460
+2004,Week 2,2004-02-15,REG,2,99,Philadelphia Soul,86,Dallas Desperados,47,51,False,11275,2357
+2004,Week 3,2004-02-21,REG,3,103,Columbus Destroyers,99,Philadelphia Soul,34,56,False,15697,2421
+2004,Week 3,2004-02-21,REG,3,21,Arizona Rattlers,45,Carolina Cobras,45,38,False,9217,2468
+2004,Week 3,2004-02-22,REG,3,25,San Jose SaberCats,44,Los Angeles Avengers,61,55,False,14132,2348
+2004,Week 3,2004-02-22,REG,3,98,Colorado Crush,64,Chicago Rush,35,65,False,15406,2405
+2004,Week 3,2004-02-22,REG,3,66,New Orleans VooDoo,95,Georgia Force,55,52,False,9750,2413
+2004,Week 3,2004-02-22,REG,3,102,Las Vegas Gladiators,40,Grand Rapids Rampage,51,14,False,7299,2445
+2004,Week 3,2004-02-22,REG,3,86,Dallas Desperados,72,New York Dragons,56,44,False,10821,2453
+2004,Week 3,2004-02-22,REG,3,12,Tampa Bay Storm,104,Austin Wranglers,48,56,False,12407,2476
+2004,Week 3,2004-02-23,REG,3,71,Indiana Firebirds,46,Detroit Fury,25,34,False,8219,2381
+2004,Week 4,2004-02-27,REG,4,104,Austin Wranglers,98,Colorado Crush,35,37,False,15459,2389
+2004,Week 4,2004-02-28,REG,4,13,Orlando Predators,45,Carolina Cobras,59,43,False,7343,2469
+2004,Week 4,2004-02-28,REG,4,40,Grand Rapids Rampage,25,San Jose SaberCats,31,62,False,15193,2484
+2004,Week 4,2004-02-29,REG,4,99,Philadelphia Soul,12,Tampa Bay Storm,37,40,False,16844,2342
+2004,Week 4,2004-02-29,REG,4,66,New Orleans VooDoo,102,Las Vegas Gladiators,30,50,False,10255,2365
+2004,Week 4,2004-02-29,REG,4,64,Chicago Rush,71,Indiana Firebirds,49,46,False,12198,2373
+2004,Week 4,2004-02-29,REG,4,72,New York Dragons,21,Arizona Rattlers,41,53,False,13313,2398
+2004,Week 4,2004-02-29,REG,4,86,Dallas Desperados,103,Columbus Destroyers,51,35,False,17078,2429
+2004,Week 4,2004-03-01,REG,4,95,Georgia Force,44,Los Angeles Avengers,53,52,True,10236,2349
+2004,Week 5,2004-03-04,REG,5,46,Detroit Fury,98,Colorado Crush,61,62,False,15942,2390
+2004,Week 5,2004-03-05,REG,5,103,Columbus Destroyers,21,Arizona Rattlers,42,65,False,12654,2399
+2004,Week 5,2004-03-06,REG,5,71,Indiana Firebirds,13,Orlando Predators,38,50,False,12893,2437
+2004,Week 5,2004-03-06,REG,5,40,Grand Rapids Rampage,86,Dallas Desperados,50,66,False,11527,2358
+2004,Week 5,2004-03-07,REG,5,102,Las Vegas Gladiators,95,Georgia Force,40,55,False,8517,2414
+2004,Week 5,2004-03-07,REG,5,64,Chicago Rush,99,Philadelphia Soul,47,53,False,17597,2422
+2004,Week 5,2004-03-07,REG,5,25,San Jose SaberCats,72,New York Dragons,50,64,False,10192,2454
+2004,Week 5,2004-03-07,REG,5,12,Tampa Bay Storm,66,New Orleans VooDoo,43,55,False,14837,2461
+2004,Week 5,2004-03-07,REG,5,45,Carolina Cobras,104,Austin Wranglers,55,56,False,10655,2477
+2004,Week 6,2004-03-12,REG,6,95,Georgia Force,13,Orlando Predators,52,44,False,13263,2438
+2004,Week 6,2004-03-12,REG,6,46,Detroit Fury,66,New Orleans VooDoo,31,45,False,15303,2462
+2004,Week 6,2004-03-13,REG,6,99,Philadelphia Soul,103,Columbus Destroyers,43,41,False,17171,2430
+2004,Week 6,2004-03-13,REG,6,86,Dallas Desperados,45,Carolina Cobras,77,52,False,6142,2470
+2004,Week 6,2004-03-14,REG,6,72,New York Dragons,12,Tampa Bay Storm,40,35,False,13904,2343
+2004,Week 6,2004-03-14,REG,6,44,Los Angeles Avengers,40,Grand Rapids Rampage,48,33,False,7326,2446
+2004,Week 6,2004-03-14,REG,6,71,Indiana Firebirds,104,Austin Wranglers,64,41,False,10315,2478
+2004,Week 6,2004-03-14,REG,6,21,Arizona Rattlers,102,Las Vegas Gladiators,64,65,True,10274,2366
+2004,Week 6,2004-03-14,REG,6,98,Colorado Crush,25,San Jose SaberCats,35,55,False,12063,2485
+2004,Week 7,2004-03-18,REG,7,104,Austin Wranglers,46,Detroit Fury,70,58,False,8625,2382
+2004,Week 7,2004-03-18,REG,7,66,New Orleans VooDoo,21,Arizona Rattlers,49,45,False,11441,2400
+2004,Week 7,2004-03-20,REG,7,95,Georgia Force,71,Indiana Firebirds,36,73,False,10237,2374
+2004,Week 7,2004-03-20,REG,7,103,Columbus Destroyers,72,New York Dragons,41,62,False,12289,2455
+2004,Week 7,2004-03-20,REG,7,102,Las Vegas Gladiators,25,San Jose SaberCats,62,79,False,12163,2486
+2004,Week 7,2004-03-21,REG,7,13,Orlando Predators,64,Chicago Rush,15,58,False,14552,2406
+2004,Week 7,2004-03-21,REG,7,98,Colorado Crush,99,Philadelphia Soul,40,33,False,17597,2423
+2004,Week 7,2004-03-21,REG,7,12,Tampa Bay Storm,45,Carolina Cobras,43,54,False,5212,2471
+2004,Week 7,2004-03-21,REG,7,44,Los Angeles Avengers,86,Dallas Desperados,60,44,False,9312,2359
+2004,Week 8,2004-03-26,REG,8,40,Grand Rapids Rampage,71,Indiana Firebirds,42,45,False,10569,2375
+2004,Week 8,2004-03-26,REG,8,44,Los Angeles Avengers,25,San Jose SaberCats,52,55,False,13172,2487
+2004,Week 8,2004-03-27,REG,8,12,Tampa Bay Storm,95,Georgia Force,53,24,False,10322,2415
+2004,Week 8,2004-03-27,REG,8,102,Las Vegas Gladiators,13,Orlando Predators,43,60,False,13149,2439
+2004,Week 8,2004-03-27,REG,8,45,Carolina Cobras,66,New Orleans VooDoo,31,48,False,16245,2463
+2004,Week 8,2004-03-27,REG,8,21,Arizona Rattlers,98,Colorado Crush,46,54,False,14514,2391
+2004,Week 8,2004-03-28,REG,8,46,Detroit Fury,64,Chicago Rush,72,71,False,14837,2407
+2004,Week 8,2004-03-28,REG,8,99,Philadelphia Soul,104,Austin Wranglers,60,65,False,11132,2479
+2004,Week 9,2004-04-01,REG,9,95,Georgia Force,46,Detroit Fury,40,42,False,6106,2383
+2004,Week 9,2004-04-03,REG,9,71,Indiana Firebirds,98,Colorado Crush,45,42,True,12238,2392
+2004,Week 9,2004-04-03,REG,9,104,Austin Wranglers,44,Los Angeles Avengers,70,81,False,13996,2350
+2004,Week 9,2004-04-04,REG,9,25,San Jose SaberCats,12,Tampa Bay Storm,62,55,False,12204,2344
+2004,Week 9,2004-04-04,REG,9,86,Dallas Desperados,99,Philadelphia Soul,31,47,False,17597,2424
+2004,Week 9,2004-04-04,REG,9,13,Orlando Predators,103,Columbus Destroyers,46,55,False,16020,2431
+2004,Week 9,2004-04-04,REG,9,72,New York Dragons,45,Carolina Cobras,57,41,False,7391,2472
+2004,Week 9,2004-04-04,REG,9,21,Arizona Rattlers,40,Grand Rapids Rampage,51,41,False,6222,2447
+2004,Week 9,2004-04-04,REG,9,64,Chicago Rush,102,Las Vegas Gladiators,57,55,False,10310,2367
+2004,Week 10,2004-04-09,REG,10,66,New Orleans VooDoo,13,Orlando Predators,24,57,False,13203,2440
+2004,Week 10,2004-04-10,REG,10,72,New York Dragons,103,Columbus Destroyers,55,65,False,17171,2432
+2004,Week 10,2004-04-10,REG,10,40,Grand Rapids Rampage,46,Detroit Fury,49,45,False,10106,2384
+2004,Week 10,2004-04-10,REG,10,25,San Jose SaberCats,86,Dallas Desperados,54,58,False,10417,2360
+2004,Week 10,2004-04-10,REG,10,102,Las Vegas Gladiators,21,Arizona Rattlers,63,80,False,12641,2401
+2004,Week 10,2004-04-10,REG,10,98,Colorado Crush,44,Los Angeles Avengers,57,55,False,11816,2351
+2004,Week 10,2004-04-11,REG,10,45,Carolina Cobras,71,Indiana Firebirds,31,65,False,9545,2376
+2004,Week 10,2004-04-11,REG,10,12,Tampa Bay Storm,64,Chicago Rush,36,51,False,11412,2408
+2004,Week 10,2004-04-11,REG,10,95,Georgia Force,104,Austin Wranglers,26,42,False,8868,2480
+2004,Week 11,2004-04-16,REG,11,46,Detroit Fury,44,Los Angeles Avengers,55,62,False,11125,2352
+2004,Week 11,2004-04-16,REG,11,64,Chicago Rush,25,San Jose SaberCats,43,51,False,12147,2488
+2004,Week 11,2004-04-17,REG,11,71,Indiana Firebirds,40,Grand Rapids Rampage,67,49,False,9832,2448
+2004,Week 11,2004-04-17,REG,11,99,Philadelphia Soul,45,Carolina Cobras,59,63,False,5142,2473
+2004,Week 11,2004-04-18,REG,11,104,Austin Wranglers,12,Tampa Bay Storm,52,58,True,12304,2345
+2004,Week 11,2004-04-18,REG,11,86,Dallas Desperados,21,Arizona Rattlers,48,71,False,13069,2402
+2004,Week 11,2004-04-18,REG,11,13,Orlando Predators,95,Georgia Force,30,7,False,7879,2416
+2004,Week 11,2004-04-18,REG,11,98,Colorado Crush,72,New York Dragons,49,52,False,10264,2456
+2004,Week 11,2004-04-18,REG,11,103,Columbus Destroyers,66,New Orleans VooDoo,46,64,False,15004,2464
+2004,Week 12,2004-04-23,REG,12,40,Grand Rapids Rampage,98,Colorado Crush,30,69,False,15930,2393
+2004,Week 12,2004-04-24,REG,12,72,New York Dragons,99,Philadelphia Soul,58,60,False,17597,2425
+2004,Week 12,2004-04-25,REG,12,25,San Jose SaberCats,95,Georgia Force,63,34,False,8145,2417
+2004,Week 12,2004-04-25,REG,12,86,Dallas Desperados,13,Orlando Predators,49,64,False,12105,2441
+2004,Week 12,2004-04-25,REG,12,46,Detroit Fury,102,Las Vegas Gladiators,34,60,False,9988,2368
+2004,Week 12,2004-04-25,REG,12,21,Arizona Rattlers,71,Indiana Firebirds,46,43,False,9587,2377
+2004,Week 12,2004-04-25,REG,12,44,Los Angeles Avengers,64,Chicago Rush,71,35,False,13927,2409
+2004,Week 12,2004-04-25,REG,12,12,Tampa Bay Storm,103,Columbus Destroyers,46,36,False,15108,2433
+2004,Week 12,2004-04-25,REG,12,66,New Orleans VooDoo,104,Austin Wranglers,63,59,False,11355,2481
+2004,Week 13,2004-05-01,REG,13,104,Austin Wranglers,40,Grand Rapids Rampage,40,27,False,5878,2449
+2004,Week 13,2004-05-01,REG,13,103,Columbus Destroyers,45,Carolina Cobras,60,52,False,6265,2474
+2004,Week 13,2004-05-01,REG,13,72,New York Dragons,86,Dallas Desperados,44,20,False,9234,2361
+2004,Week 13,2004-05-01,REG,13,99,Philadelphia Soul,98,Colorado Crush,40,58,False,16055,2394
+2004,Week 13,2004-05-01,REG,13,21,Arizona Rattlers,44,Los Angeles Avengers,42,38,False,13322,2353
+2004,Week 13,2004-05-01,REG,13,66,New Orleans VooDoo,25,San Jose SaberCats,34,68,False,13475,2489
+2004,Week 13,2004-05-02,REG,13,71,Indiana Firebirds,102,Las Vegas Gladiators,38,60,False,9891,2369
+2004,Week 13,2004-05-02,REG,13,64,Chicago Rush,46,Detroit Fury,57,40,False,9804,2385
+2004,Week 13,2004-05-02,REG,13,12,Tampa Bay Storm,13,Orlando Predators,63,58,False,13714,2442
+2004,Week 14,2004-05-07,REG,14,46,Detroit Fury,71,Indiana Firebirds,59,68,True,9987,2378
+2004,Week 14,2004-05-08,REG,14,45,Carolina Cobras,72,New York Dragons,39,61,False,10185,2457
+2004,Week 14,2004-05-08,REG,14,102,Las Vegas Gladiators,99,Philadelphia Soul,63,35,False,15141,2426
+2004,Week 14,2004-05-08,REG,14,64,Chicago Rush,40,Grand Rapids Rampage,63,35,False,7188,2450
+2004,Week 14,2004-05-09,REG,14,44,Los Angeles Avengers,12,Tampa Bay Storm,55,63,False,12778,2346
+2004,Week 14,2004-05-09,REG,14,25,San Jose SaberCats,21,Arizona Rattlers,41,58,False,14421,2403
+2004,Week 14,2004-05-09,REG,14,95,Georgia Force,103,Columbus Destroyers,72,51,False,13860,2434
+2004,Week 14,2004-05-09,REG,14,13,Orlando Predators,66,New Orleans VooDoo,45,40,False,13333,2465
+2004,Week 14,2004-05-09,REG,14,86,Dallas Desperados,104,Austin Wranglers,36,48,False,10557,2482
+2004,Week 15,2004-05-14,REG,15,40,Grand Rapids Rampage,103,Columbus Destroyers,28,59,False,16711,2435
+2004,Week 15,2004-05-15,REG,15,21,Arizona Rattlers,46,Detroit Fury,57,33,False,5782,2386
+2004,Week 15,2004-05-15,REG,15,45,Carolina Cobras,99,Philadelphia Soul,46,43,False,16105,2427
+2004,Week 15,2004-05-15,REG,15,95,Georgia Force,66,New Orleans VooDoo,40,44,False,15935,2466
+2004,Week 15,2004-05-16,REG,15,98,Colorado Crush,71,Indiana Firebirds,56,59,False,10858,2379
+2004,Week 15,2004-05-16,REG,15,86,Dallas Desperados,64,Chicago Rush,41,45,False,13071,2410
+2004,Week 15,2004-05-16,REG,15,44,Los Angeles Avengers,72,New York Dragons,58,53,False,9547,2458
+2004,Week 15,2004-05-16,REG,15,13,Orlando Predators,104,Austin Wranglers,43,26,False,13831,2483
+2004,Week 15,2004-05-16,REG,15,25,San Jose SaberCats,102,Las Vegas Gladiators,35,44,False,9910,2370
+2004,Week 16,2004-05-22,REG,16,40,Grand Rapids Rampage,45,Carolina Cobras,31,36,False,7923,2475
+2004,Week 16,2004-05-22,REG,16,103,Columbus Destroyers,86,Dallas Desperados,68,56,False,10493,2362
+2004,Week 16,2004-05-22,REG,16,102,Las Vegas Gladiators,44,Los Angeles Avengers,51,54,False,14588,2354
+2004,Week 16,2004-05-22,REG,16,99,Philadelphia Soul,25,San Jose SaberCats,36,48,False,13423,2490
+2004,Week 16,2004-05-23,REG,16,66,New Orleans VooDoo,12,Tampa Bay Storm,51,59,False,17244,2347
+2004,Week 16,2004-05-23,REG,16,98,Colorado Crush,46,Detroit Fury,45,42,False,5614,2387
+2004,Week 16,2004-05-23,REG,16,71,Indiana Firebirds,64,Chicago Rush,37,53,False,14399,2411
+2004,Week 16,2004-05-23,REG,16,104,Austin Wranglers,95,Georgia Force,34,51,False,9080,2418
+2004,Week 16,2004-05-23,REG,16,72,New York Dragons,13,Orlando Predators,41,65,False,13144,2443
+2004,Week 17,2004-05-29,REG,17,45,Carolina Cobras,95,Georgia Force,33,70,False,8387,2419
+2004,Week 17,2004-05-29,REG,17,46,Detroit Fury,40,Grand Rapids Rampage,64,54,False,6720,2451
+2004,Week 17,2004-05-30,REG,17,13,Orlando Predators,44,Los Angeles Avengers,52,50,False,11508,2355
+2004,Week 17,2004-05-30,REG,17,12,Tampa Bay Storm,86,Dallas Desperados,59,57,False,7836,2363
+2004,Week 17,2004-05-30,REG,17,64,Chicago Rush,98,Colorado Crush,47,56,False,13670,2395
+2004,Week 17,2004-05-30,REG,17,99,Philadelphia Soul,72,New York Dragons,54,69,False,10228,2459
+2004,Week 17,2004-05-30,REG,17,104,Austin Wranglers,66,New Orleans VooDoo,21,38,False,17030,2467
+2004,Week 17,2004-05-30,REG,17,21,Arizona Rattlers,25,San Jose SaberCats,50,43,False,13472,2491
+2004,Week 17,2004-05-30,REG,17,103,Columbus Destroyers,102,Las Vegas Gladiators,51,64,False,10302,2371
+2004,Playoffs Week 1,2004-06-05,POST,1,12,Tampa Bay Storm,25,San Jose SaberCats,52,56,False,11130,2696
+2004,Playoffs Week 1,2004-06-06,POST,1,13,Orlando Predators,64,Chicago Rush,49,59,False,13171,2695
+2004,Playoffs Week 1,2004-06-06,POST,1,98,Colorado Crush,66,New Orleans VooDoo,47,44,False,14369,2697
+2004,Playoffs Week 1,2004-06-06,POST,1,44,Los Angeles Avengers,21,Arizona Rattlers,42,59,False,11035,2698
+2004,Playoffs Week 2,2004-06-12,POST,2,64,Chicago Rush,25,San Jose SaberCats,35,49,False,12163,2701
+2004,Playoffs Week 2,2004-06-13,POST,2,98,Colorado Crush,21,Arizona Rattlers,41,45,False,13151,2702
+2004,ArenaBowl XVIII,2004-06-27,POST,3,25,San Jose SaberCats,21,Arizona Rattlers,69,62,False,17391,2327

@@ -1,0 +1,113 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1996,Week 1,1996-04-25,REG,1,23,Iowa Barnstormers,22,Milwaukee Mustangs,37,51,False,15147,154
+1996,Week 1,1996-04-26,REG,1,24,Anaheim Piranhas,25,San Jose SaberCats,40,18,False,14969,155
+1996,Week 1,1996-04-26,REG,1,12,Tampa Bay Storm,30,St Louis Stampede,57,38,False,6335,430
+1996,Week 1,1996-04-26,REG,1,27,Connecticut Coyotes,32,Florida Bobcats,27,55,False,4306,431
+1996,Week 1,1996-04-27,REG,1,13,Orlando Predators,21,Arizona Rattlers,52,55,False,14939,432
+1996,Week 1,1996-04-27,REG,1,18,Charlotte Rage,31,Memphis Pharaohs,54,30,False,6451,433
+1996,Week 1,1996-04-27,REG,1,34,Minnesota Fighting Pike,33,Texas Terror,36,24,False,11501,434
+1996,Week 2,1996-05-03,REG,2,31,Memphis Pharaohs,27,Connecticut Coyotes,34,68,False,9049,435
+1996,Week 2,1996-05-03,REG,2,33,Texas Terror,13,Orlando Predators,36,52,False,14678,436
+1996,Week 2,1996-05-03,REG,2,22,Milwaukee Mustangs,30,St Louis Stampede,42,41,False,9429,439
+1996,Week 2,1996-05-04,REG,2,25,San Jose SaberCats,21,Arizona Rattlers,59,61,False,15279,437
+1996,Week 2,1996-05-04,REG,2,23,Iowa Barnstormers,34,Minnesota Fighting Pike,59,43,False,14840,438
+1996,Week 2,1996-05-04,REG,2,18,Charlotte Rage,10,Albany Firebirds,32,63,False,13029,440
+1996,Week 2,1996-05-05,REG,2,32,Florida Bobcats,24,Anaheim Piranhas,38,50,False,11882,441
+1996,Week 3,1996-05-10,REG,3,30,St Louis Stampede,34,Minnesota Fighting Pike,59,22,False,8726,442
+1996,Week 3,1996-05-10,REG,3,10,Albany Firebirds,25,San Jose SaberCats,40,69,False,15561,443
+1996,Week 3,1996-05-10,REG,3,32,Florida Bobcats,13,Orlando Predators,20,38,False,16116,444
+1996,Week 3,1996-05-11,REG,3,21,Arizona Rattlers,24,Anaheim Piranhas,44,48,False,12109,445
+1996,Week 3,1996-05-11,REG,3,22,Milwaukee Mustangs,31,Memphis Pharaohs,49,17,False,5133,447
+1996,Week 3,1996-05-11,REG,3,27,Connecticut Coyotes,18,Charlotte Rage,31,49,False,7866,448
+1996,Week 3,1996-05-11,REG,3,33,Texas Terror,12,Tampa Bay Storm,27,62,False,14178,446
+1996,Week 4,1996-05-17,REG,4,24,Anaheim Piranhas,33,Texas Terror,49,20,False,10135,449
+1996,Week 4,1996-05-17,REG,4,31,Memphis Pharaohs,30,St Louis Stampede,41,60,False,6093,450
+1996,Week 4,1996-05-18,REG,4,21,Arizona Rattlers,18,Charlotte Rage,54,48,True,5688,451
+1996,Week 4,1996-05-18,REG,4,27,Connecticut Coyotes,23,Iowa Barnstormers,37,39,False,10961,452
+1996,Week 4,1996-05-18,REG,4,34,Minnesota Fighting Pike,10,Albany Firebirds,30,85,False,11712,453
+1996,Week 4,1996-05-18,REG,4,13,Orlando Predators,12,Tampa Bay Storm,42,63,False,16444,454
+1996,Week 4,1996-05-18,REG,4,25,San Jose SaberCats,32,Florida Bobcats,43,26,False,4479,455
+1996,Week 5,1996-05-24,REG,5,12,Tampa Bay Storm,34,Minnesota Fighting Pike,41,16,False,7781,456
+1996,Week 5,1996-05-24,REG,5,33,Texas Terror,22,Milwaukee Mustangs,22,62,False,16471,457
+1996,Week 5,1996-05-24,REG,5,13,Orlando Predators,25,San Jose SaberCats,25,42,False,15470,458
+1996,Week 5,1996-05-24,REG,5,10,Albany Firebirds,27,Connecticut Coyotes,58,26,False,7539,459
+1996,Week 5,1996-05-25,REG,5,31,Memphis Pharaohs,24,Anaheim Piranhas,21,31,False,12177,460
+1996,Week 5,1996-05-25,REG,5,32,Florida Bobcats,21,Arizona Rattlers,37,53,False,15505,461
+1996,Week 5,1996-05-25,REG,5,18,Charlotte Rage,23,Iowa Barnstormers,13,33,False,10850,462
+1996,Week 6,1996-05-31,REG,6,24,Anaheim Piranhas,34,Minnesota Fighting Pike,49,23,False,8117,463
+1996,Week 6,1996-06-01,REG,6,13,Orlando Predators,27,Connecticut Coyotes,45,38,False,7342,464
+1996,Week 6,1996-06-01,REG,6,30,St Louis Stampede,10,Albany Firebirds,66,56,False,12015,465
+1996,Week 6,1996-06-01,REG,6,32,Florida Bobcats,18,Charlotte Rage,51,40,False,6688,466
+1996,Week 6,1996-06-01,REG,6,23,Iowa Barnstormers,31,Memphis Pharaohs,27,25,False,4835,467
+1996,Week 6,1996-06-01,REG,6,25,San Jose SaberCats,12,Tampa Bay Storm,22,36,False,14663,468
+1996,Week 6,1996-06-01,REG,6,22,Milwaukee Mustangs,21,Arizona Rattlers,44,51,False,15505,469
+1996,Week 7,1996-06-07,REG,7,23,Iowa Barnstormers,30,St Louis Stampede,48,51,False,5132,470
+1996,Week 7,1996-06-07,REG,7,21,Arizona Rattlers,34,Minnesota Fighting Pike,59,27,False,8207,471
+1996,Week 7,1996-06-07,REG,7,18,Charlotte Rage,13,Orlando Predators,47,56,False,15127,472
+1996,Week 7,1996-06-08,REG,7,31,Memphis Pharaohs,10,Albany Firebirds,21,67,False,11764,473
+1996,Week 7,1996-06-08,REG,7,32,Florida Bobcats,12,Tampa Bay Storm,47,55,False,14117,474
+1996,Week 7,1996-06-08,REG,7,25,San Jose SaberCats,33,Texas Terror,42,24,False,9132,475
+1996,Week 7,1996-06-09,REG,7,22,Milwaukee Mustangs,24,Anaheim Piranhas,27,41,False,15682,476
+1996,Week 8,1996-06-14,REG,8,27,Connecticut Coyotes,22,Milwaukee Mustangs,30,59,False,15710,477
+1996,Week 8,1996-06-14,REG,8,30,St Louis Stampede,25,San Jose SaberCats,58,34,False,15130,478
+1996,Week 8,1996-06-15,REG,8,12,Tampa Bay Storm,24,Anaheim Piranhas,34,28,False,14102,479
+1996,Week 8,1996-06-15,REG,8,21,Arizona Rattlers,31,Memphis Pharaohs,45,37,False,3463,480
+1996,Week 8,1996-06-15,REG,8,33,Texas Terror,18,Charlotte Rage,15,31,False,6359,481
+1996,Week 8,1996-06-15,REG,8,34,Minnesota Fighting Pike,32,Florida Bobcats,28,63,False,4450,482
+1996,Week 8,1996-06-15,REG,8,10,Albany Firebirds,23,Iowa Barnstormers,46,55,False,11411,483
+1996,Week 9,1996-06-21,REG,9,23,Iowa Barnstormers,13,Orlando Predators,59,50,False,15613,484
+1996,Week 9,1996-06-21,REG,9,30,St Louis Stampede,22,Milwaukee Mustangs,35,42,False,15477,485
+1996,Week 9,1996-06-21,REG,9,10,Albany Firebirds,18,Charlotte Rage,88,36,False,6898,486
+1996,Week 9,1996-06-22,REG,9,24,Anaheim Piranhas,21,Arizona Rattlers,45,48,False,15505,487
+1996,Week 9,1996-06-22,REG,9,33,Texas Terror,32,Florida Bobcats,26,50,False,3970,488
+1996,Week 9,1996-06-22,REG,9,12,Tampa Bay Storm,31,Memphis Pharaohs,43,12,False,3363,489
+1996,Week 9,1996-06-22,REG,9,25,San Jose SaberCats,27,Connecticut Coyotes,29,39,False,8246,490
+1996,Week 10,1996-06-28,REG,10,31,Memphis Pharaohs,25,San Jose SaberCats,35,38,False,15135,491
+1996,Week 10,1996-06-28,REG,10,22,Milwaukee Mustangs,34,Minnesota Fighting Pike,61,49,False,7207,492
+1996,Week 10,1996-06-28,REG,10,30,St Louis Stampede,21,Arizona Rattlers,57,64,False,15505,493
+1996,Week 10,1996-06-29,REG,10,27,Connecticut Coyotes,10,Albany Firebirds,45,59,False,11117,494
+1996,Week 10,1996-06-29,REG,10,13,Orlando Predators,33,Texas Terror,45,37,False,8064,495
+1996,Week 10,1996-06-29,REG,10,18,Charlotte Rage,12,Tampa Bay Storm,66,53,False,15492,496
+1996,Week 10,1996-06-29,REG,10,24,Anaheim Piranhas,23,Iowa Barnstormers,50,56,False,11411,497
+1996,Week 11,1996-07-03,REG,11,21,Arizona Rattlers,33,Texas Terror,74,48,False,6851,498
+1996,Week 11,1996-07-04,REG,11,25,San Jose SaberCats,24,Anaheim Piranhas,36,39,False,10790,499
+1996,Week 11,1996-07-05,REG,11,18,Charlotte Rage,30,St Louis Stampede,41,44,False,5255,500
+1996,Week 11,1996-07-05,REG,11,34,Minnesota Fighting Pike,27,Connecticut Coyotes,44,40,False,9249,501
+1996,Week 11,1996-07-06,REG,11,22,Milwaukee Mustangs,23,Iowa Barnstormers,64,66,False,11411,502
+1996,Week 11,1996-07-06,REG,11,12,Tampa Bay Storm,32,Florida Bobcats,39,36,False,3663,503
+1996,Week 11,1996-07-06,REG,11,13,Orlando Predators,10,Albany Firebirds,41,53,False,11079,504
+1996,Week 12,1996-07-12,REG,12,31,Memphis Pharaohs,22,Milwaukee Mustangs,37,56,False,14777,505
+1996,Week 12,1996-07-12,REG,12,34,Minnesota Fighting Pike,13,Orlando Predators,12,56,False,15107,506
+1996,Week 12,1996-07-12,REG,12,10,Albany Firebirds,12,Tampa Bay Storm,52,65,True,13202,507
+1996,Week 12,1996-07-13,REG,12,24,Anaheim Piranhas,18,Charlotte Rage,44,40,False,6978,508
+1996,Week 12,1996-07-13,REG,12,27,Connecticut Coyotes,21,Arizona Rattlers,45,51,False,15505,509
+1996,Week 12,1996-07-13,REG,12,32,Florida Bobcats,33,Texas Terror,49,34,False,7607,510
+1996,Week 12,1996-07-13,REG,12,30,St Louis Stampede,23,Iowa Barnstormers,58,65,False,11411,511
+1996,Week 13,1996-07-19,REG,13,33,Texas Terror,34,Minnesota Fighting Pike,54,51,False,7380,512
+1996,Week 13,1996-07-19,REG,13,25,San Jose SaberCats,22,Milwaukee Mustangs,43,48,False,14977,513
+1996,Week 13,1996-07-19,REG,13,12,Tampa Bay Storm,13,Orlando Predators,39,40,False,16236,514
+1996,Week 13,1996-07-19,REG,13,18,Charlotte Rage,27,Connecticut Coyotes,51,31,False,7893,518
+1996,Week 13,1996-07-20,REG,13,10,Albany Firebirds,32,Florida Bobcats,66,63,False,3601,515
+1996,Week 13,1996-07-20,REG,13,23,Iowa Barnstormers,24,Anaheim Piranhas,50,44,False,15835,516
+1996,Week 13,1996-07-20,REG,13,30,St Louis Stampede,31,Memphis Pharaohs,43,37,False,8230,517
+1996,Week 14,1996-07-26,REG,14,27,Connecticut Coyotes,30,St Louis Stampede,42,61,False,8233,519
+1996,Week 14,1996-07-26,REG,14,34,Minnesota Fighting Pike,25,San Jose SaberCats,40,31,False,14901,520
+1996,Week 14,1996-07-27,REG,14,33,Texas Terror,10,Albany Firebirds,24,86,False,12345,521
+1996,Week 14,1996-07-27,REG,14,21,Arizona Rattlers,12,Tampa Bay Storm,48,69,False,16211,522
+1996,Week 14,1996-07-27,REG,14,22,Milwaukee Mustangs,18,Charlotte Rage,50,43,False,7481,523
+1996,Week 14,1996-07-27,REG,14,31,Memphis Pharaohs,23,Iowa Barnstormers,28,57,False,11411,524
+1996,Week 14,1996-07-27,REG,14,13,Orlando Predators,32,Florida Bobcats,59,27,False,4018,525
+1996,Week 15,1996-08-02,REG,15,10,Albany Firebirds,22,Milwaukee Mustangs,54,49,False,16411,526
+1996,Week 15,1996-08-02,REG,15,24,Anaheim Piranhas,13,Orlando Predators,44,50,True,16096,527
+1996,Week 15,1996-08-02,REG,15,21,Arizona Rattlers,25,San Jose SaberCats,29,30,False,15109,528
+1996,Week 15,1996-08-02,REG,15,23,Iowa Barnstormers,27,Connecticut Coyotes,61,41,False,5615,529
+1996,Week 15,1996-08-02,REG,15,12,Tampa Bay Storm,33,Texas Terror,42,30,False,9750,530
+1996,Week 15,1996-08-03,REG,15,32,Florida Bobcats,30,St Louis Stampede,36,35,False,8752,531
+1996,Week 15,1996-08-03,REG,15,34,Minnesota Fighting Pike,31,Memphis Pharaohs,50,25,False,4520,532
+1996,Playoffs Week 1,1996-08-09,POST,1,24,Anaheim Piranhas,12,Tampa Bay Storm,16,30,False,13021,
+1996,Playoffs Week 1,1996-08-10,POST,1,22,Milwaukee Mustangs,10,Albany Firebirds,58,70,False,11613,
+1996,Playoffs Week 1,1996-08-10,POST,1,30,St Louis Stampede,23,Iowa Barnstormers,49,52,False,11411,
+1996,Playoffs Week 1,1996-08-10,POST,1,13,Orlando Predators,21,Arizona Rattlers,48,65,False,15129,
+1996,Playoffs Week 2,1996-08-17,POST,2,21,Arizona Rattlers,12,Tampa Bay Storm,54,55,False,13572,
+1996,Playoffs Week 2,1996-08-17,POST,2,10,Albany Firebirds,23,Iowa Barnstormers,55,62,False,11411,
+1996,ArenaBowl X,1996-08-26,POST,3,12,Tampa Bay Storm,23,Iowa Barnstormers,42,38,False,11411,539

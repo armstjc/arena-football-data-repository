@@ -1,0 +1,69 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1993,Week 1,1993-05-14,REG,1,10,Albany Firebirds,13,Orlando Predators,30,40,False,13680,205
+1993,Week 1,1993-05-14,REG,1,18,Charlotte Rage,26,Miami Hooters,34,32,False,10964,206
+1993,Week 1,1993-05-14,REG,1,16,Cleveland Thunderbolts,12,Tampa Bay Storm,14,50,False,18485,207
+1993,Week 1,1993-05-15,REG,1,17,Cincinnati Rockers,11,Dallas Texans,33,40,False,9287,208
+1993,Week 1,1993-05-15,REG,1,6,Detroit Drive,21,Arizona Rattlers,49,29,False,15505,209
+1993,Week 2,1993-05-21,REG,2,18,Charlotte Rage,21,Arizona Rattlers,49,46,False,15505,210
+1993,Week 2,1993-05-21,REG,2,12,Tampa Bay Storm,13,Orlando Predators,34,46,False,13680,211
+1993,Week 2,1993-05-22,REG,2,16,Cleveland Thunderbolts,11,Dallas Texans,46,43,False,9262,212
+1993,Week 2,1993-05-22,REG,2,6,Detroit Drive,17,Cincinnati Rockers,40,35,False,7520,213
+1993,Week 2,1993-05-22,REG,2,26,Miami Hooters,10,Albany Firebirds,23,52,False,12898,214
+1993,Week 3,1993-05-28,REG,3,10,Albany Firebirds,18,Charlotte Rage,41,65,False,6514,215
+1993,Week 3,1993-05-28,REG,3,21,Arizona Rattlers,16,Cleveland Thunderbolts,30,20,False,6747,216
+1993,Week 3,1993-05-28,REG,3,11,Dallas Texans,6,Detroit Drive,38,42,False,17042,217
+1993,Week 3,1993-05-28,REG,3,12,Tampa Bay Storm,26,Miami Hooters,29,22,False,6817,218
+1993,Week 3,1993-05-29,REG,3,13,Orlando Predators,17,Cincinnati Rockers,37,16,False,6089,219
+1993,Week 4,1993-06-04,REG,4,17,Cincinnati Rockers,6,Detroit Drive,19,38,False,13105,220
+1993,Week 4,1993-06-05,REG,4,21,Arizona Rattlers,10,Albany Firebirds,54,50,False,11827,221
+1993,Week 4,1993-06-05,REG,4,18,Charlotte Rage,12,Tampa Bay Storm,19,52,False,20532,222
+1993,Week 4,1993-06-05,REG,4,11,Dallas Texans,16,Cleveland Thunderbolts,51,47,False,6422,223
+1993,Week 4,1993-06-05,REG,4,13,Orlando Predators,26,Miami Hooters,37,45,False,9693,224
+1993,Week 5,1993-06-11,REG,5,26,Miami Hooters,13,Orlando Predators,14,56,False,13680,229
+1993,Week 5,1993-06-11,REG,5,6,Detroit Drive,18,Charlotte Rage,42,20,False,6312,230
+1993,Week 5,1993-06-12,REG,5,16,Cleveland Thunderbolts,17,Cincinnati Rockers,45,19,False,8493,3
+1993,Week 5,1993-06-12,REG,5,12,Tampa Bay Storm,21,Arizona Rattlers,63,33,False,15505,227
+1993,Week 5,1993-06-12,REG,5,10,Albany Firebirds,11,Dallas Texans,44,38,False,8886,228
+1993,Week 6,1993-06-18,REG,6,21,Arizona Rattlers,11,Dallas Texans,43,40,False,8314,231
+1993,Week 6,1993-06-18,REG,6,26,Miami Hooters,6,Detroit Drive,20,27,False,13659,232
+1993,Week 6,1993-06-19,REG,6,18,Charlotte Rage,10,Albany Firebirds,34,61,False,10985,233
+1993,Week 6,1993-06-19,REG,6,17,Cincinnati Rockers,16,Cleveland Thunderbolts,42,34,False,7324,234
+1993,Week 6,1993-06-19,REG,6,13,Orlando Predators,12,Tampa Bay Storm,46,45,False,28745,235
+1993,Week 7,1993-06-25,REG,7,16,Cleveland Thunderbolts,6,Detroit Drive,32,37,False,12835,236
+1993,Week 7,1993-06-25,REG,7,11,Dallas Texans,26,Miami Hooters,30,28,True,8314,237
+1993,Week 7,1993-06-25,REG,7,13,Orlando Predators,18,Charlotte Rage,43,20,False,6229,238
+1993,Week 7,1993-06-26,REG,7,21,Arizona Rattlers,17,Cincinnati Rockers,27,26,False,7039,239
+1993,Week 7,1993-06-26,REG,7,12,Tampa Bay Storm,10,Albany Firebirds,36,33,False,11679,240
+1993,Week 8,1993-07-02,REG,8,10,Albany Firebirds,26,Miami Hooters,27,43,False,8217,241
+1993,Week 8,1993-07-02,REG,8,18,Charlotte Rage,16,Cleveland Thunderbolts,34,24,False,7198,242
+1993,Week 8,1993-07-02,REG,8,17,Cincinnati Rockers,12,Tampa Bay Storm,51,61,False,16236,243
+1993,Week 8,1993-07-02,REG,8,11,Dallas Texans,21,Arizona Rattlers,45,73,False,15505,244
+1993,Week 8,1993-07-02,REG,8,6,Detroit Drive,13,Orlando Predators,28,45,False,13680,245
+1993,Week 9,1993-07-09,REG,9,10,Albany Firebirds,6,Detroit Drive,19,65,False,13823,246
+1993,Week 9,1993-07-09,REG,9,13,Orlando Predators,11,Dallas Texans,49,17,False,8365,247
+1993,Week 9,1993-07-09,REG,9,12,Tampa Bay Storm,18,Charlotte Rage,38,40,False,6321,248
+1993,Week 9,1993-07-10,REG,9,16,Cleveland Thunderbolts,21,Arizona Rattlers,14,34,False,15505,249
+1993,Week 9,1993-07-10,REG,9,26,Miami Hooters,17,Cincinnati Rockers,59,51,False,5147,250
+1993,Week 10,1993-07-16,REG,10,21,Arizona Rattlers,13,Orlando Predators,34,48,False,13680,251
+1993,Week 10,1993-07-16,REG,10,11,Dallas Texans,18,Charlotte Rage,29,54,False,8405,252
+1993,Week 10,1993-07-16,REG,10,6,Detroit Drive,16,Cleveland Thunderbolts,54,43,False,6835,253
+1993,Week 10,1993-07-17,REG,10,17,Cincinnati Rockers,10,Albany Firebirds,9,50,False,11239,254
+1993,Week 10,1993-07-17,REG,10,26,Miami Hooters,12,Tampa Bay Storm,46,65,False,19378,255
+1993,Week 11,1993-07-23,REG,11,18,Charlotte Rage,13,Orlando Predators,23,44,False,13680,256
+1993,Week 11,1993-07-23,REG,11,17,Cincinnati Rockers,21,Arizona Rattlers,43,51,False,15505,257
+1993,Week 11,1993-07-23,REG,11,6,Detroit Drive,11,Dallas Texans,42,40,False,6464,258
+1993,Week 11,1993-07-24,REG,11,10,Albany Firebirds,12,Tampa Bay Storm,26,48,False,19438,259
+1993,Week 11,1993-07-24,REG,11,16,Cleveland Thunderbolts,26,Miami Hooters,25,40,False,10100,260
+1993,Week 12,1993-07-30,REG,12,21,Arizona Rattlers,6,Detroit Drive,32,42,False,18101,261
+1993,Week 12,1993-07-30,REG,12,26,Miami Hooters,18,Charlotte Rage,57,48,False,10520,262
+1993,Week 12,1993-07-30,REG,12,12,Tampa Bay Storm,16,Cleveland Thunderbolts,50,13,False,7123,263
+1993,Week 12,1993-07-31,REG,12,11,Dallas Texans,17,Cincinnati Rockers,43,50,False,9105,264
+1993,Week 12,1993-07-31,REG,12,13,Orlando Predators,10,Albany Firebirds,35,49,False,12704,265
+1993,Playoffs Week 1,1993-08-06,POST,1,10,Albany Firebirds,12,Tampa Bay Storm,34,48,False,21111,266
+1993,Playoffs Week 1,1993-08-06,POST,1,26,Miami Hooters,13,Orlando Predators,13,41,False,13680,
+1993,Playoffs Week 1,1993-08-07,POST,1,11,Dallas Texans,6,Detroit Drive,6,51,False,13262,
+1993,Playoffs Week 1,1993-08-08,POST,1,18,Charlotte Rage,21,Arizona Rattlers,49,56,False,15505,
+1993,Playoffs Week 2,1993-08-14,POST,2,21,Arizona Rattlers,6,Detroit Drive,34,38,False,16031,
+1993,Playoffs Week 2,1993-08-14,POST,2,12,Tampa Bay Storm,13,Orlando Predators,55,52,False,13680,271
+1993,ArenaBowl VII,1993-08-21,POST,3,12,Tampa Bay Storm,6,Detroit Drive,51,31,False,12989,272
+1993,All Star Games,1993-08-28,ASG,1,223,American Conference All Stars,224,National Conference All Stars,40,64,False,7189,5240

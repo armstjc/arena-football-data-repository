@@ -1,0 +1,116 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2015,Week 1,2015-03-27,REG,1,131,Cleveland Gladiators,12,Tampa Bay Storm,60,44,False,9727,5377
+2015,Week 1,2015-03-27,REG,1,219,Los Angeles KISS,220,Portland Thunder,37,42,False,7194,5386
+2015,Week 1,2015-03-28,REG,1,139,Jacksonville Sharks,66,New Orleans VooDoo,50,51,False,3833,5395
+2015,Week 1,2015-03-28,REG,1,149,Spokane Shock,21,Arizona Rattlers,43,60,False,9455,5404
+2015,Week 1,2015-03-29,REG,1,99,Philadelphia Soul,13,Orlando Predators,70,63,False,12765,5413
+2015,Week 1,2015-03-30,REG,1,25,San Jose SaberCats,225,Las Vegas Outlaws,59,41,False,9607,5422
+2015,Week 2,2015-04-03,REG,2,13,Orlando Predators,139,Jacksonville Sharks,55,54,False,8741,5431
+2015,Week 2,2015-04-03,REG,2,12,Tampa Bay Storm,220,Portland Thunder,54,48,False,5098,5387
+2015,Week 2,2015-04-04,REG,2,131,Cleveland Gladiators,66,New Orleans VooDoo,70,42,False,3818,5396
+2015,Week 2,2015-04-04,REG,2,99,Philadelphia Soul,149,Spokane Shock,54,43,False,8635,5440
+2015,Week 2,2015-04-04,REG,2,21,Arizona Rattlers,225,Las Vegas Outlaws,53,70,False,7464,5423
+2015,Week 2,2015-04-04,REG,2,219,Los Angeles KISS,25,San Jose SaberCats,28,54,False,10175,5449
+2015,Week 3,2015-04-09,REG,3,149,Spokane Shock,220,Portland Thunder,43,47,False,5746,5388
+2015,Week 3,2015-04-10,REG,3,25,San Jose SaberCats,12,Tampa Bay Storm,36,27,False,8588,5378
+2015,Week 3,2015-04-11,REG,3,21,Arizona Rattlers,131,Cleveland Gladiators,49,41,False,12776,5458
+2015,Week 3,2015-04-11,REG,3,13,Orlando Predators,66,New Orleans VooDoo,47,42,False,3206,5397
+2015,Week 3,2015-04-11,REG,3,225,Las Vegas Outlaws,219,Los Angeles KISS,61,48,False,8565,5467
+2015,Week 3,2015-04-12,REG,3,139,Jacksonville Sharks,99,Philadelphia Soul,52,63,False,9043,5475
+2015,Week 4,2015-04-17,REG,4,66,New Orleans VooDoo,12,Tampa Bay Storm,13,42,False,9122,5379
+2015,Week 4,2015-04-17,REG,4,25,San Jose SaberCats,139,Jacksonville Sharks,68,48,False,7596,5432
+2015,Week 4,2015-04-18,REG,4,219,Los Angeles KISS,13,Orlando Predators,48,61,False,11218,5414
+2015,Week 4,2015-04-18,REG,4,131,Cleveland Gladiators,99,Philadelphia Soul,48,63,False,10008,5476
+2015,Week 4,2015-04-18,REG,4,220,Portland Thunder,21,Arizona Rattlers,47,65,False,8815,5405
+2015,Week 5,2015-04-24,REG,5,12,Tampa Bay Storm,131,Cleveland Gladiators,54,62,False,11120,5459
+2015,Week 5,2015-04-24,REG,5,225,Las Vegas Outlaws,139,Jacksonville Sharks,28,60,False,9682,5433
+2015,Week 5,2015-04-25,REG,5,13,Orlando Predators,149,Spokane Shock,55,56,True,8906,5441
+2015,Week 5,2015-04-25,REG,5,21,Arizona Rattlers,219,Los Angeles KISS,68,30,False,7900,5468
+2015,Week 5,2015-04-25,REG,5,220,Portland Thunder,25,San Jose SaberCats,45,64,False,7125,5450
+2015,Week 5,2015-04-26,REG,5,99,Philadelphia Soul,66,New Orleans VooDoo,55,42,False,3906,5398
+2015,Week 6,2015-05-02,REG,6,220,Portland Thunder,99,Philadelphia Soul,35,52,False,7011,5477
+2015,Week 6,2015-05-02,REG,6,131,Cleveland Gladiators,13,Orlando Predators,56,55,True,9212,5415
+2015,Week 6,2015-05-02,REG,6,139,Jacksonville Sharks,12,Tampa Bay Storm,28,63,False,11124,5380
+2015,Week 6,2015-05-02,REG,6,149,Spokane Shock,66,New Orleans VooDoo,63,66,False,3785,5399
+2015,Week 6,2015-05-02,REG,6,25,San Jose SaberCats,21,Arizona Rattlers,56,34,False,8249,5406
+2015,Week 6,2015-05-04,REG,6,219,Los Angeles KISS,225,Las Vegas Outlaws,16,49,False,7574,5424
+2015,Week 7,2015-05-08,REG,7,13,Orlando Predators,99,Philadelphia Soul,48,62,False,8633,5478
+2015,Week 7,2015-05-08,REG,7,219,Los Angeles KISS,149,Spokane Shock,46,68,False,7960,5442
+2015,Week 7,2015-05-09,REG,7,139,Jacksonville Sharks,131,Cleveland Gladiators,46,43,False,9872,5460
+2015,Week 7,2015-05-09,REG,7,21,Arizona Rattlers,66,New Orleans VooDoo,47,39,False,4015,5400
+2015,Week 7,2015-05-09,REG,7,225,Las Vegas Outlaws,25,San Jose SaberCats,28,61,False,8600,5451
+2015,Week 8,2015-05-15,REG,8,66,New Orleans VooDoo,131,Cleveland Gladiators,42,64,False,12127,5461
+2015,Week 8,2015-05-16,REG,8,12,Tampa Bay Storm,13,Orlando Predators,62,63,True,10973,5416
+2015,Week 8,2015-05-16,REG,8,99,Philadelphia Soul,139,Jacksonville Sharks,47,55,False,9465,5434
+2015,Week 8,2015-05-16,REG,8,25,San Jose SaberCats,149,Spokane Shock,83,28,False,7519,5443
+2015,Week 8,2015-05-16,REG,8,225,Las Vegas Outlaws,21,Arizona Rattlers,41,60,False,10130,5407
+2015,Week 8,2015-05-16,REG,8,219,Los Angeles KISS,220,Portland Thunder,47,63,False,10023,5389
+2015,Week 9,2015-05-23,REG,9,149,Spokane Shock,225,Las Vegas Outlaws,63,56,False,4907,5425
+2015,Week 9,2015-05-23,REG,9,220,Portland Thunder,13,Orlando Predators,43,69,False,10583,5417
+2015,Week 9,2015-05-23,REG,9,99,Philadelphia Soul,12,Tampa Bay Storm,71,27,False,13921,5381
+2015,Week 9,2015-05-23,REG,9,139,Jacksonville Sharks,66,New Orleans VooDoo,70,41,False,4021,5402
+2015,Week 9,2015-05-23,REG,9,131,Cleveland Gladiators,25,San Jose SaberCats,58,70,False,7474,5452
+2015,Week 10,2015-05-29,REG,10,13,Orlando Predators,131,Cleveland Gladiators,63,42,False,10670,5462
+2015,Week 10,2015-05-30,REG,10,25,San Jose SaberCats,220,Portland Thunder,61,42,False,8815,5390
+2015,Week 10,2015-05-30,REG,10,225,Las Vegas Outlaws,99,Philadelphia Soul,43,51,False,6514,5479
+2015,Week 10,2015-05-30,REG,10,66,New Orleans VooDoo,12,Tampa Bay Storm,34,35,False,13581,5382
+2015,Week 10,2015-05-30,REG,10,21,Arizona Rattlers,149,Spokane Shock,59,47,False,7884,5444
+2015,Week 10,2015-05-31,REG,10,139,Jacksonville Sharks,219,Los Angeles KISS,41,35,False,8235,5469
+2015,Week 11,2015-06-05,REG,11,149,Spokane Shock,25,San Jose SaberCats,26,55,False,7662,5453
+2015,Week 11,2015-06-06,REG,11,66,New Orleans VooDoo,99,Philadelphia Soul,41,62,False,8197,5480
+2015,Week 11,2015-06-06,REG,11,13,Orlando Predators,139,Jacksonville Sharks,51,66,False,10127,5435
+2015,Week 11,2015-06-06,REG,11,12,Tampa Bay Storm,21,Arizona Rattlers,46,69,False,12304,5408
+2015,Week 11,2015-06-07,REG,11,131,Cleveland Gladiators,225,Las Vegas Outlaws,63,44,False,3255,5426
+2015,Week 11,2015-06-07,REG,11,220,Portland Thunder,219,Los Angeles KISS,40,52,False,7345,5470
+2015,Week 12,2015-06-12,REG,12,139,Jacksonville Sharks,12,Tampa Bay Storm,56,63,False,12602,5383
+2015,Week 12,2015-06-12,REG,12,131,Cleveland Gladiators,66,New Orleans VooDoo,51,34,False,4131,5401
+2015,Week 12,2015-06-12,REG,12,21,Arizona Rattlers,220,Portland Thunder,69,42,False,9435,5391
+2015,Week 12,2015-06-12,REG,12,225,Las Vegas Outlaws,149,Spokane Shock,62,56,False,7497,5448
+2015,Week 12,2015-06-13,REG,12,99,Philadelphia Soul,13,Orlando Predators,42,45,False,10473,5418
+2015,Week 12,2015-06-13,REG,12,219,Los Angeles KISS,25,San Jose SaberCats,48,42,True,9132,5454
+2015,Week 13,2015-06-19,REG,13,12,Tampa Bay Storm,131,Cleveland Gladiators,52,48,False,10123,5463
+2015,Week 13,2015-06-20,REG,13,13,Orlando Predators,21,Arizona Rattlers,35,55,False,11673,5409
+2015,Week 13,2015-06-20,REG,13,99,Philadelphia Soul,219,Los Angeles KISS,56,48,False,6122,5471
+2015,Week 13,2015-06-21,REG,13,25,San Jose SaberCats,225,Las Vegas Outlaws,63,31,False,2166,5427
+2015,Week 13,2015-06-21,REG,13,149,Spokane Shock,220,Portland Thunder,69,54,False,7123,5392
+2015,Week 14,2015-06-26,REG,14,12,Tampa Bay Storm,99,Philadelphia Soul,42,64,False,8214,5481
+2015,Week 14,2015-06-26,REG,14,25,San Jose SaberCats,149,Spokane Shock,62,27,False,7618,5445
+2015,Week 14,2015-06-27,REG,14,66,New Orleans VooDoo,13,Orlando Predators,43,56,False,10536,5419
+2015,Week 14,2015-06-27,REG,14,131,Cleveland Gladiators,139,Jacksonville Sharks,41,74,False,10123,5436
+2015,Week 14,2015-06-27,REG,14,21,Arizona Rattlers,219,Los Angeles KISS,49,43,False,7832,5472
+2015,Week 14,2015-06-28,REG,14,220,Portland Thunder,225,Las Vegas Outlaws,46,48,False,3497,5428
+2015,Week 16,2015-07-10,REG,16,66,New Orleans VooDoo,25,San Jose SaberCats,35,56,False,9321,5455
+2015,Week 16,2015-07-11,REG,16,131,Cleveland Gladiators,99,Philadelphia Soul,56,72,False,8784,5482
+2015,Week 16,2015-07-11,REG,16,13,Orlando Predators,12,Tampa Bay Storm,69,62,False,15835,5384
+2015,Week 16,2015-07-11,REG,16,225,Las Vegas Outlaws,21,Arizona Rattlers,43,57,False,11891,5410
+2015,Week 16,2015-07-11,REG,16,139,Jacksonville Sharks,220,Portland Thunder,48,72,False,7123,5393
+2015,Week 16,2015-07-12,REG,16,149,Spokane Shock,219,Los Angeles KISS,28,34,False,7730,5483
+2015,Week 17,2015-07-17,REG,17,21,Arizona Rattlers,149,Spokane Shock,45,52,False,7938,5446
+2015,Week 17,2015-07-18,REG,17,13,Orlando Predators,131,Cleveland Gladiators,65,58,False,13186,5464
+2015,Week 17,2015-07-18,REG,17,99,Philadelphia Soul,139,Jacksonville Sharks,67,74,False,9745,5437
+2015,Week 17,2015-07-18,REG,17,12,Tampa Bay Storm,66,New Orleans VooDoo,53,65,False,5887,5403
+2015,Week 17,2015-07-18,REG,17,225,Las Vegas Outlaws,219,Los Angeles KISS,27,37,False,7635,5473
+2015,Week 17,2015-07-18,REG,17,220,Portland Thunder,25,San Jose SaberCats,49,55,True,9211,5456
+2015,Week 18,2015-07-25,REG,18,12,Tampa Bay Storm,139,Jacksonville Sharks,16,63,False,13092,5438
+2015,Week 18,2015-07-25,REG,18,220,Portland Thunder,149,Spokane Shock,40,42,False,8357,5447
+2015,Week 18,2015-07-25,REG,18,66,New Orleans VooDoo,225,Las Vegas Outlaws,1,1,False,,
+2015,Week 18,2015-07-26,REG,18,219,Los Angeles KISS,21,Arizona Rattlers,55,68,False,11106,5411
+2015,Week 19,2015-07-31,REG,19,21,Arizona Rattlers,25,San Jose SaberCats,29,56,False,10633,5457
+2015,Week 19,2015-08-01,REG,19,139,Jacksonville Sharks,13,Orlando Predators,50,64,False,12184,5420
+2015,Week 19,2015-08-01,REG,19,149,Spokane Shock,131,Cleveland Gladiators,42,59,False,11674,5465
+2015,Week 19,2015-08-01,REG,19,219,Los Angeles KISS,12,Tampa Bay Storm,34,38,False,16308,5385
+2015,Week 19,2015-08-01,REG,19,225,Las Vegas Outlaws,220,Portland Thunder,33,64,False,14055,5394
+2015,Week 19,2015-08-02,REG,19,66,New Orleans VooDoo,99,Philadelphia Soul,28,61,False,10018,5484
+2015,Week 20,2015-08-08,REG,20,12,Tampa Bay Storm,13,Orlando Predators,40,59,False,15188,5421
+2015,Week 20,2015-08-08,REG,20,66,New Orleans VooDoo,139,Jacksonville Sharks,33,36,False,11486,5439
+2015,Week 20,2015-08-08,REG,20,99,Philadelphia Soul,131,Cleveland Gladiators,48,33,False,12474,5466
+2015,Week 20,2015-08-08,REG,20,220,Portland Thunder,21,Arizona Rattlers,39,67,False,12687,5412
+2015,Week 20,2015-08-08,REG,20,25,San Jose SaberCats,219,Los Angeles KISS,60,38,False,9854,5474
+2015,Week 20,2015-08-08,REG,20,149,Spokane Shock,225,Las Vegas Outlaws,51,34,False,4114,5430
+2015,Playoffs Week 1,2015-08-14,POST,1,220,Portland Thunder,25,San Jose SaberCats,28,55,False,10060,5490
+2015,Playoffs Week 1,2015-08-15,POST,1,131,Cleveland Gladiators,99,Philadelphia Soul,35,47,False,8424,5487
+2015,Playoffs Week 1,2015-08-15,POST,1,139,Jacksonville Sharks,13,Orlando Predators,55,33,False,9186,5485
+2015,Playoffs Week 1,2015-08-15,POST,1,149,Spokane Shock,21,Arizona Rattlers,41,72,False,10322,5489
+2015,Playoffs Week 2,2015-08-22,POST,2,21,Arizona Rattlers,25,San Jose SaberCats,67,70,False,6456,5486
+2015,Playoffs Week 2,2015-08-23,POST,2,139,Jacksonville Sharks,99,Philadelphia Soul,61,56,False,9378,5488
+2015,ArenaBowl XXVIII,2015-08-29,POST,3,139,Jacksonville Sharks,25,San Jose SaberCats,47,68,False,9115,5376

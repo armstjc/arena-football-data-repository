@@ -1,0 +1,164 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2007,Week 1,2007-03-01,REG,1,103,Columbus Destroyers,111,Nashville Kats,58,56,False,8843,3624
+2007,Week 1,2007-03-02,REG,1,13,Orlando Predators,12,Tampa Bay Storm,52,27,False,15619,3632
+2007,Week 1,2007-03-03,REG,1,95,Georgia Force,21,Arizona Rattlers,69,65,False,10345,3640
+2007,Week 1,2007-03-03,REG,1,66,New Orleans VooDoo,112,Utah Blaze,61,63,False,14222,3648
+2007,Week 1,2007-03-04,REG,1,64,Chicago Rush,115,Kansas City Brigade,41,54,False,13635,3657
+2007,Week 1,2007-03-04,REG,1,86,Dallas Desperados,72,New York Dragons,60,7,False,13783,3665
+2007,Week 1,2007-03-04,REG,1,40,Grand Rapids Rampage,98,Colorado Crush,44,42,False,14950,3673
+2007,Week 1,2007-03-04,REG,1,102,Las Vegas Gladiators,104,Austin Wranglers,36,57,False,10422,3681
+2007,Week 1,2007-03-04,REG,1,25,San Jose SaberCats,44,Los Angeles Avengers,66,58,False,12586,3689
+2007,Week 2,2007-03-08,REG,2,102,Las Vegas Gladiators,40,Grand Rapids Rampage,79,69,False,6232,3697
+2007,Week 2,2007-03-09,REG,2,99,Philadelphia Soul,111,Nashville Kats,63,30,False,7885,3625
+2007,Week 2,2007-03-09,REG,2,103,Columbus Destroyers,66,New Orleans VooDoo,45,52,False,17001,3705
+2007,Week 2,2007-03-09,REG,2,25,San Jose SaberCats,64,Chicago Rush,45,48,False,16201,3713
+2007,Week 2,2007-03-10,REG,2,12,Tampa Bay Storm,86,Dallas Desperados,40,59,False,13805,3721
+2007,Week 2,2007-03-10,REG,2,112,Utah Blaze,21,Arizona Rattlers,75,71,False,9594,3641
+2007,Week 2,2007-03-10,REG,2,115,Kansas City Brigade,98,Colorado Crush,40,44,False,15126,3674
+2007,Week 2,2007-03-11,REG,2,104,Austin Wranglers,95,Georgia Force,51,60,False,11413,3729
+2007,Week 2,2007-03-12,REG,2,44,Los Angeles Avengers,13,Orlando Predators,44,37,True,12787,3737
+2007,Week 3,2007-03-15,REG,3,99,Philadelphia Soul,40,Grand Rapids Rampage,69,40,False,4917,3698
+2007,Week 3,2007-03-16,REG,3,104,Austin Wranglers,13,Orlando Predators,30,45,False,12794,3738
+2007,Week 3,2007-03-16,REG,3,86,Dallas Desperados,115,Kansas City Brigade,66,54,False,10007,3658
+2007,Week 3,2007-03-16,REG,3,21,Arizona Rattlers,98,Colorado Crush,54,56,False,12376,3675
+2007,Week 3,2007-03-17,REG,3,95,Georgia Force,12,Tampa Bay Storm,61,47,False,13664,3633
+2007,Week 3,2007-03-18,REG,3,72,New York Dragons,64,Chicago Rush,40,61,False,16128,3714
+2007,Week 3,2007-03-18,REG,3,112,Utah Blaze,111,Nashville Kats,55,69,False,7108,3626
+2007,Week 3,2007-03-18,REG,3,66,New Orleans VooDoo,102,Las Vegas Gladiators,59,31,False,6593,3745
+2007,Week 4,2007-03-22,REG,4,98,Colorado Crush,99,Philadelphia Soul,47,71,False,14721,3753
+2007,Week 4,2007-03-23,REG,4,72,New York Dragons,12,Tampa Bay Storm,59,52,False,13134,3634
+2007,Week 4,2007-03-23,REG,4,40,Grand Rapids Rampage,112,Utah Blaze,42,83,False,12684,3649
+2007,Week 4,2007-03-23,REG,4,102,Las Vegas Gladiators,21,Arizona Rattlers,41,68,False,9630,3642
+2007,Week 4,2007-03-24,REG,4,25,San Jose SaberCats,95,Georgia Force,62,64,False,11828,3730
+2007,Week 4,2007-03-24,REG,4,64,Chicago Rush,103,Columbus Destroyers,55,47,False,16390,3761
+2007,Week 4,2007-03-24,REG,4,44,Los Angeles Avengers,66,New Orleans VooDoo,48,36,False,16668,3706
+2007,Week 4,2007-03-24,REG,4,111,Nashville Kats,104,Austin Wranglers,70,63,False,11869,3682
+2007,Week 4,2007-03-26,REG,4,86,Dallas Desperados,13,Orlando Predators,70,49,False,12525,3739
+2007,Week 5,2007-03-30,REG,5,95,Georgia Force,103,Columbus Destroyers,61,62,False,12103,3762
+2007,Week 5,2007-03-30,REG,5,21,Arizona Rattlers,115,Kansas City Brigade,61,62,True,8512,3659
+2007,Week 5,2007-03-31,REG,5,13,Orlando Predators,66,New Orleans VooDoo,45,48,False,16213,3707
+2007,Week 5,2007-03-31,REG,5,104,Austin Wranglers,86,Dallas Desperados,64,68,False,14112,3722
+2007,Week 5,2007-03-31,REG,5,12,Tampa Bay Storm,25,San Jose SaberCats,49,69,False,13916,3769
+2007,Week 5,2007-04-01,REG,5,99,Philadelphia Soul,72,New York Dragons,65,60,False,8729,3666
+2007,Week 5,2007-04-01,REG,5,44,Los Angeles Avengers,64,Chicago Rush,31,66,False,15846,3715
+2007,Week 5,2007-04-01,REG,5,111,Nashville Kats,98,Colorado Crush,48,55,False,13623,3676
+2007,Week 5,2007-04-01,REG,5,112,Utah Blaze,102,Las Vegas Gladiators,57,47,False,5416,3746
+2007,Week 6,2007-04-05,REG,6,103,Columbus Destroyers,86,Dallas Desperados,51,53,False,11203,3723
+2007,Week 6,2007-04-06,REG,6,112,Utah Blaze,104,Austin Wranglers,64,65,False,9223,3683
+2007,Week 6,2007-04-06,REG,6,21,Arizona Rattlers,44,Los Angeles Avengers,45,64,False,12972,3690
+2007,Week 6,2007-04-06,REG,6,98,Colorado Crush,25,San Jose SaberCats,44,72,False,12291,3770
+2007,Week 6,2007-04-07,REG,6,72,New York Dragons,40,Grand Rapids Rampage,53,66,False,6852,3699
+2007,Week 6,2007-04-07,REG,6,66,New Orleans VooDoo,12,Tampa Bay Storm,43,66,False,16644,3635
+2007,Week 6,2007-04-07,REG,6,64,Chicago Rush,111,Nashville Kats,66,54,False,7332,3627
+2007,Week 6,2007-04-08,REG,6,115,Kansas City Brigade,102,Las Vegas Gladiators,65,31,False,4838,3747
+2007,Week 6,2007-04-09,REG,6,95,Georgia Force,99,Philadelphia Soul,57,49,False,14583,3754
+2007,Week 7,2007-04-13,REG,7,25,San Jose SaberCats,66,New Orleans VooDoo,54,67,False,16721,3708
+2007,Week 7,2007-04-13,REG,7,44,Los Angeles Avengers,112,Utah Blaze,63,76,False,13497,3650
+2007,Week 7,2007-04-14,REG,7,104,Austin Wranglers,103,Columbus Destroyers,49,72,False,15121,3763
+2007,Week 7,2007-04-14,REG,7,12,Tampa Bay Storm,13,Orlando Predators,37,61,False,15303,3740
+2007,Week 7,2007-04-14,REG,7,40,Grand Rapids Rampage,115,Kansas City Brigade,41,52,False,11288,3660
+2007,Week 7,2007-04-14,REG,7,111,Nashville Kats,21,Arizona Rattlers,62,36,False,10055,3643
+2007,Week 7,2007-04-15,REG,7,98,Colorado Crush,72,New York Dragons,49,48,False,8241,3667
+2007,Week 7,2007-04-15,REG,7,102,Las Vegas Gladiators,95,Georgia Force,68,69,False,11123,3731
+2007,Week 7,2007-04-16,REG,7,99,Philadelphia Soul,86,Dallas Desperados,41,51,False,10814,3724
+2007,Week 8,2007-04-20,REG,8,72,New York Dragons,13,Orlando Predators,47,52,False,13755,3741
+2007,Week 8,2007-04-20,REG,8,21,Arizona Rattlers,112,Utah Blaze,83,69,False,15313,3651
+2007,Week 8,2007-04-20,REG,8,102,Las Vegas Gladiators,98,Colorado Crush,53,63,False,16723,3677
+2007,Week 8,2007-04-21,REG,8,64,Chicago Rush,40,Grand Rapids Rampage,75,54,False,10622,3700
+2007,Week 8,2007-04-21,REG,8,86,Dallas Desperados,95,Georgia Force,63,78,False,12915,3732
+2007,Week 8,2007-04-21,REG,8,115,Kansas City Brigade,111,Nashville Kats,40,49,False,8143,3628
+2007,Week 8,2007-04-21,REG,8,66,New Orleans VooDoo,104,Austin Wranglers,38,45,True,13405,3684
+2007,Week 8,2007-04-21,REG,8,44,Los Angeles Avengers,25,San Jose SaberCats,49,73,False,12984,3771
+2007,Week 8,2007-04-23,REG,8,99,Philadelphia Soul,103,Columbus Destroyers,21,44,False,14664,3764
+2007,Week 9,2007-04-27,REG,9,98,Colorado Crush,115,Kansas City Brigade,45,42,False,11246,3661
+2007,Week 9,2007-04-27,REG,9,95,Georgia Force,66,New Orleans VooDoo,72,57,False,16423,3709
+2007,Week 9,2007-04-27,REG,9,111,Nashville Kats,86,Dallas Desperados,62,69,False,11486,3725
+2007,Week 9,2007-04-28,REG,9,21,Arizona Rattlers,72,New York Dragons,45,67,False,9658,3668
+2007,Week 9,2007-04-28,REG,9,40,Grand Rapids Rampage,44,Los Angeles Avengers,71,75,False,15088,3691
+2007,Week 9,2007-04-28,REG,9,112,Utah Blaze,25,San Jose SaberCats,48,69,False,12967,3772
+2007,Week 9,2007-04-29,REG,9,103,Columbus Destroyers,12,Tampa Bay Storm,32,34,False,15303,3636
+2007,Week 9,2007-04-29,REG,9,13,Orlando Predators,102,Las Vegas Gladiators,69,34,False,5684,3748
+2007,Week 9,2007-04-30,REG,9,99,Philadelphia Soul,64,Chicago Rush,43,54,False,14529,3716
+2007,Week 10,2007-05-04,REG,10,72,New York Dragons,103,Columbus Destroyers,42,51,False,14009,3765
+2007,Week 10,2007-05-04,REG,10,13,Orlando Predators,95,Georgia Force,34,55,False,11123,3733
+2007,Week 10,2007-05-04,REG,10,86,Dallas Desperados,112,Utah Blaze,66,59,False,13734,3652
+2007,Week 10,2007-05-05,REG,10,111,Nashville Kats,40,Grand Rapids Rampage,55,71,False,7679,3701
+2007,Week 10,2007-05-05,REG,10,115,Kansas City Brigade,99,Philadelphia Soul,53,41,False,17493,3755
+2007,Week 10,2007-05-05,REG,10,25,San Jose SaberCats,21,Arizona Rattlers,56,49,False,10017,3644
+2007,Week 10,2007-05-06,REG,10,12,Tampa Bay Storm,104,Austin Wranglers,66,45,False,13110,3685
+2007,Week 10,2007-05-06,REG,10,44,Los Angeles Avengers,102,Las Vegas Gladiators,59,37,False,5698,3749
+2007,Week 10,2007-05-07,REG,10,98,Colorado Crush,64,Chicago Rush,48,59,False,14528,3717
+2007,Week 11,2007-05-11,REG,11,40,Grand Rapids Rampage,103,Columbus Destroyers,56,59,False,12014,3766
+2007,Week 11,2007-05-11,REG,11,66,New Orleans VooDoo,13,Orlando Predators,33,42,False,13505,3742
+2007,Week 11,2007-05-11,REG,11,98,Colorado Crush,111,Nashville Kats,57,35,False,7029,3629
+2007,Week 11,2007-05-12,REG,11,112,Utah Blaze,115,Kansas City Brigade,41,60,False,13655,3662
+2007,Week 11,2007-05-12,REG,11,104,Austin Wranglers,21,Arizona Rattlers,41,53,False,9321,3645
+2007,Week 11,2007-05-12,REG,11,12,Tampa Bay Storm,44,Los Angeles Avengers,40,37,False,12439,3692
+2007,Week 11,2007-05-12,REG,11,102,Las Vegas Gladiators,25,San Jose SaberCats,34,61,False,13654,3773
+2007,Week 11,2007-05-14,REG,11,72,New York Dragons,99,Philadelphia Soul,69,49,False,14104,3756
+2007,Week 11,2007-05-14,REG,11,64,Chicago Rush,86,Dallas Desperados,48,52,False,12518,3726
+2007,Week 12,2007-05-18,REG,12,21,Arizona Rattlers,12,Tampa Bay Storm,50,59,False,16044,3637
+2007,Week 12,2007-05-18,REG,12,102,Las Vegas Gladiators,112,Utah Blaze,54,53,False,14305,3653
+2007,Week 12,2007-05-18,REG,12,103,Columbus Destroyers,98,Colorado Crush,40,58,False,15326,3678
+2007,Week 12,2007-05-19,REG,12,111,Nashville Kats,64,Chicago Rush,44,27,False,16142,3718
+2007,Week 12,2007-05-19,REG,12,95,Georgia Force,44,Los Angeles Avengers,51,57,False,13922,3693
+2007,Week 12,2007-05-19,REG,12,40,Grand Rapids Rampage,25,San Jose SaberCats,44,69,False,12784,3774
+2007,Week 12,2007-05-20,REG,12,115,Kansas City Brigade,72,New York Dragons,56,62,False,8798,3669
+2007,Week 12,2007-05-20,REG,12,13,Orlando Predators,104,Austin Wranglers,46,45,False,13428,3686
+2007,Week 12,2007-05-21,REG,12,66,New Orleans VooDoo,99,Philadelphia Soul,34,78,False,15054,3757
+2007,Week 13,2007-05-25,REG,13,112,Utah Blaze,13,Orlando Predators,65,62,False,13355,3743
+2007,Week 13,2007-05-25,REG,13,25,San Jose SaberCats,111,Nashville Kats,48,34,False,8034,3630
+2007,Week 13,2007-05-26,REG,13,44,Los Angeles Avengers,115,Kansas City Brigade,56,62,False,13213,3663
+2007,Week 13,2007-05-26,REG,13,98,Colorado Crush,40,Grand Rapids Rampage,56,58,False,4901,3702
+2007,Week 13,2007-05-26,REG,13,12,Tampa Bay Storm,95,Georgia Force,38,52,False,10749,3734
+2007,Week 13,2007-05-26,REG,13,86,Dallas Desperados,103,Columbus Destroyers,56,47,False,14251,3767
+2007,Week 13,2007-05-26,REG,13,64,Chicago Rush,21,Arizona Rattlers,53,47,False,9663,3646
+2007,Week 13,2007-05-27,REG,13,99,Philadelphia Soul,104,Austin Wranglers,76,66,False,12969,3687
+2007,Week 13,2007-05-28,REG,13,72,New York Dragons,66,New Orleans VooDoo,69,63,False,16839,3710
+2007,Week 14,2007-06-01,REG,14,86,Dallas Desperados,99,Philadelphia Soul,59,56,False,15853,3758
+2007,Week 14,2007-06-01,REG,14,13,Orlando Predators,25,San Jose SaberCats,52,59,False,12893,3775
+2007,Week 14,2007-06-02,REG,14,104,Austin Wranglers,72,New York Dragons,82,54,False,8391,3670
+2007,Week 14,2007-06-02,REG,14,115,Kansas City Brigade,40,Grand Rapids Rampage,66,53,False,5074,3703
+2007,Week 14,2007-06-02,REG,14,103,Columbus Destroyers,95,Georgia Force,33,54,False,10681,3735
+2007,Week 14,2007-06-02,REG,14,12,Tampa Bay Storm,66,New Orleans VooDoo,61,55,False,16821,3711
+2007,Week 14,2007-06-02,REG,14,64,Chicago Rush,44,Los Angeles Avengers,47,50,False,13142,3694
+2007,Week 14,2007-06-03,REG,14,21,Arizona Rattlers,102,Las Vegas Gladiators,41,20,False,4736,3750
+2007,Week 14,2007-06-04,REG,14,98,Colorado Crush,112,Utah Blaze,14,51,False,15223,3654
+2007,Week 15,2007-06-08,REG,15,115,Kansas City Brigade,103,Columbus Destroyers,47,34,False,13803,3768
+2007,Week 15,2007-06-09,REG,15,13,Orlando Predators,72,New York Dragons,75,54,False,8635,3671
+2007,Week 15,2007-06-09,REG,15,99,Philadelphia Soul,12,Tampa Bay Storm,59,69,False,17654,3638
+2007,Week 15,2007-06-09,REG,15,40,Grand Rapids Rampage,64,Chicago Rush,32,55,False,15113,3719
+2007,Week 15,2007-06-09,REG,15,95,Georgia Force,104,Austin Wranglers,81,64,False,14408,3688
+2007,Week 15,2007-06-09,REG,15,66,New Orleans VooDoo,86,Dallas Desperados,79,80,False,14411,3727
+2007,Week 15,2007-06-09,REG,15,25,San Jose SaberCats,112,Utah Blaze,70,49,False,15336,3655
+2007,Week 15,2007-06-10,REG,15,111,Nashville Kats,102,Las Vegas Gladiators,63,48,False,5072,3751
+2007,Week 15,2007-06-11,REG,15,44,Los Angeles Avengers,21,Arizona Rattlers,55,52,False,11994,3647
+2007,Week 16,2007-06-15,REG,16,95,Georgia Force,13,Orlando Predators,55,44,False,14990,3744
+2007,Week 16,2007-06-16,REG,16,12,Tampa Bay Storm,40,Grand Rapids Rampage,69,40,False,6115,3704
+2007,Week 16,2007-06-16,REG,16,103,Columbus Destroyers,99,Philadelphia Soul,53,56,False,17284,3759
+2007,Week 16,2007-06-16,REG,16,111,Nashville Kats,115,Kansas City Brigade,63,66,False,13596,3664
+2007,Week 16,2007-06-16,REG,16,72,New York Dragons,86,Dallas Desperados,13,67,False,15689,3728
+2007,Week 16,2007-06-16,REG,16,21,Arizona Rattlers,25,San Jose SaberCats,26,66,False,14736,3776
+2007,Week 16,2007-06-17,REG,16,102,Las Vegas Gladiators,44,Los Angeles Avengers,42,60,False,12482,3695
+2007,Week 16,2007-06-17,REG,16,104,Austin Wranglers,66,New Orleans VooDoo,61,66,False,16476,3712
+2007,Week 16,2007-06-18,REG,16,64,Chicago Rush,98,Colorado Crush,66,57,False,14175,3679
+2007,Week 17,2007-06-21,REG,17,13,Orlando Predators,99,Philadelphia Soul,49,63,False,17643,3760
+2007,Week 17,2007-06-23,REG,17,103,Columbus Destroyers,72,New York Dragons,74,43,False,9281,3672
+2007,Week 17,2007-06-23,REG,17,104,Austin Wranglers,12,Tampa Bay Storm,51,55,False,18244,3639
+2007,Week 17,2007-06-23,REG,17,40,Grand Rapids Rampage,111,Nashville Kats,54,57,False,9320,3631
+2007,Week 17,2007-06-23,REG,17,115,Kansas City Brigade,64,Chicago Rush,21,48,False,16391,3720
+2007,Week 17,2007-06-23,REG,17,112,Utah Blaze,44,Los Angeles Avengers,47,37,False,13323,3696
+2007,Week 17,2007-06-24,REG,17,66,New Orleans VooDoo,95,Georgia Force,42,68,False,11123,3736
+2007,Week 17,2007-06-25,REG,17,25,San Jose SaberCats,102,Las Vegas Gladiators,73,46,False,5027,3752
+2007,Week 17,2007-06-25,REG,17,86,Dallas Desperados,98,Colorado Crush,77,58,False,18093,3680
+2007,Playoffs Week 1,2007-06-29,POST,1,13,Orlando Predators,99,Philadelphia Soul,26,41,False,8013,3777
+2007,Playoffs Week 1,2007-06-30,POST,1,103,Columbus Destroyers,12,Tampa Bay Storm,56,55,False,10221,3778
+2007,Playoffs Week 1,2007-06-30,POST,1,98,Colorado Crush,115,Kansas City Brigade,49,42,False,9539,3779
+2007,Playoffs Week 1,2007-07-02,POST,1,112,Utah Blaze,44,Los Angeles Avengers,42,64,False,13066,3780
+2007,Playoffs Week 2,2007-07-07,POST,2,98,Colorado Crush,25,San Jose SaberCats,67,76,False,12719,3781
+2007,Playoffs Week 2,2007-07-07,POST,2,103,Columbus Destroyers,86,Dallas Desperados,66,59,False,15572,3782
+2007,Playoffs Week 2,2007-07-08,POST,2,99,Philadelphia Soul,95,Georgia Force,39,65,False,11225,3783
+2007,Playoffs Week 2,2007-07-09,POST,2,44,Los Angeles Avengers,64,Chicago Rush,20,52,False,12869,3784
+2007,Playoffs Week 3,2007-07-14,POST,3,103,Columbus Destroyers,95,Georgia Force,66,56,False,12714,3786
+2007,Playoffs Week 3,2007-07-14,POST,3,64,Chicago Rush,25,San Jose SaberCats,49,61,False,12842,3785
+2007,ArenaBowl XXI,2007-07-29,POST,4,103,Columbus Destroyers,25,San Jose SaberCats,33,55,False,17056,3656

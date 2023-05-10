@@ -1,0 +1,140 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2003,Week 1,2003-01-31,REG,1,45,Carolina Cobras,12,Tampa Bay Storm,20,60,False,8354,2044
+2003,Week 1,2003-02-01,REG,1,40,Grand Rapids Rampage,42,Buffalo Destroyers,54,36,False,8342,1986
+2003,Week 1,2003-02-02,REG,1,95,Georgia Force,98,Colorado Crush,44,40,False,17483,1970
+2003,Week 1,2003-02-02,REG,1,13,Orlando Predators,64,Chicago Rush,47,35,False,16143,2001
+2003,Week 1,2003-02-02,REG,1,71,Indiana Firebirds,46,Detroit Fury,66,57,False,10417,2031
+2003,Week 1,2003-02-02,REG,1,25,San Jose SaberCats,21,Arizona Rattlers,49,28,False,15372,2051
+2003,Week 1,2003-02-02,REG,1,72,New York Dragons,86,Dallas Desperados,56,60,False,13579,2059
+2003,Week 1,2003-02-02,REG,1,102,Las Vegas Gladiators,44,Los Angeles Avengers,48,60,False,14827,2067
+2003,Week 2,2003-02-07,REG,2,40,Grand Rapids Rampage,98,Colorado Crush,57,55,False,17433,2025
+2003,Week 2,2003-02-09,REG,2,71,Indiana Firebirds,72,New York Dragons,65,54,False,11216,2073
+2003,Week 2,2003-02-09,REG,2,95,Georgia Force,46,Detroit Fury,31,38,False,13087,1971
+2003,Week 2,2003-02-09,REG,2,45,Carolina Cobras,42,Buffalo Destroyers,16,44,False,8067,1987
+2003,Week 2,2003-02-09,REG,2,12,Tampa Bay Storm,13,Orlando Predators,51,54,False,13541,2002
+2003,Week 2,2003-02-09,REG,2,102,Las Vegas Gladiators,21,Arizona Rattlers,42,46,False,11826,2052
+2003,Week 2,2003-02-09,REG,2,64,Chicago Rush,86,Dallas Desperados,38,46,False,13552,2060
+2003,Week 2,2003-02-09,REG,2,25,San Jose SaberCats,44,Los Angeles Avengers,72,73,False,14992,2068
+2003,Week 3,2003-02-14,REG,3,21,Arizona Rattlers,42,Buffalo Destroyers,45,49,False,5086,1988
+2003,Week 3,2003-02-14,REG,3,46,Detroit Fury,45,Carolina Cobras,49,44,False,8922,2086
+2003,Week 3,2003-02-16,REG,3,25,San Jose SaberCats,95,Georgia Force,49,51,False,11200,1972
+2003,Week 3,2003-02-16,REG,3,86,Dallas Desperados,13,Orlando Predators,47,50,False,11982,2003
+2003,Week 3,2003-02-16,REG,3,72,New York Dragons,40,Grand Rapids Rampage,63,66,False,10594,2009
+2003,Week 3,2003-02-16,REG,3,64,Chicago Rush,71,Indiana Firebirds,23,28,False,12032,2017
+2003,Week 3,2003-02-16,REG,3,44,Los Angeles Avengers,98,Colorado Crush,59,53,True,17417,2026
+2003,Week 3,2003-02-17,REG,3,12,Tampa Bay Storm,102,Las Vegas Gladiators,55,61,True,12521,2080
+2003,Week 4,2003-02-21,REG,4,13,Orlando Predators,45,Carolina Cobras,70,42,False,9019,2087
+2003,Week 4,2003-02-22,REG,4,102,Las Vegas Gladiators,72,New York Dragons,46,45,False,10211,2074
+2003,Week 4,2003-02-22,REG,4,42,Buffalo Destroyers,95,Georgia Force,63,43,False,9651,1973
+2003,Week 4,2003-02-22,REG,4,98,Colorado Crush,25,San Jose SaberCats,40,80,False,15604,2093
+2003,Week 4,2003-02-23,REG,4,12,Tampa Bay Storm,40,Grand Rapids Rampage,58,56,False,8031,2010
+2003,Week 4,2003-02-23,REG,4,21,Arizona Rattlers,71,Indiana Firebirds,62,54,False,13123,2018
+2003,Week 4,2003-02-23,REG,4,86,Dallas Desperados,46,Detroit Fury,49,53,False,10606,2032
+2003,Week 4,2003-02-23,REG,4,44,Los Angeles Avengers,64,Chicago Rush,53,54,False,16132,2037
+2003,Week 5,2003-02-28,REG,5,45,Carolina Cobras,40,Grand Rapids Rampage,34,68,False,10594,2011
+2003,Week 5,2003-03-01,REG,5,64,Chicago Rush,42,Buffalo Destroyers,40,13,False,9543,1989
+2003,Week 5,2003-03-02,REG,5,95,Georgia Force,44,Los Angeles Avengers,46,35,False,12728,1974
+2003,Week 5,2003-03-02,REG,5,98,Colorado Crush,71,Indiana Firebirds,38,35,False,11096,2019
+2003,Week 5,2003-03-02,REG,5,46,Detroit Fury,12,Tampa Bay Storm,60,62,False,15434,2045
+2003,Week 5,2003-03-02,REG,5,86,Dallas Desperados,21,Arizona Rattlers,65,64,True,12972,2053
+2003,Week 5,2003-03-02,REG,5,13,Orlando Predators,72,New York Dragons,72,56,False,11216,2075
+2003,Week 5,2003-03-02,REG,5,25,San Jose SaberCats,102,Las Vegas Gladiators,72,37,False,8627,2081
+2003,Week 6,2003-03-07,REG,6,98,Colorado Crush,86,Dallas Desperados,55,73,False,14951,2061
+2003,Week 6,2003-03-07,REG,6,46,Detroit Fury,21,Arizona Rattlers,41,51,False,12295,2054
+2003,Week 6,2003-03-08,REG,6,42,Buffalo Destroyers,12,Tampa Bay Storm,27,52,False,15848,1990
+2003,Week 6,2003-03-09,REG,6,40,Grand Rapids Rampage,95,Georgia Force,54,70,False,9116,1975
+2003,Week 6,2003-03-09,REG,6,44,Los Angeles Avengers,72,New York Dragons,65,61,False,11216,2076
+2003,Week 6,2003-03-09,REG,6,102,Las Vegas Gladiators,45,Carolina Cobras,51,41,False,6112,2088
+2003,Week 6,2003-03-09,REG,6,25,San Jose SaberCats,64,Chicago Rush,71,49,False,13625,2038
+2003,Week 6,2003-03-10,REG,6,71,Indiana Firebirds,13,Orlando Predators,38,46,False,11802,2004
+2003,Week 7,2003-03-14,REG,7,42,Buffalo Destroyers,25,San Jose SaberCats,41,58,False,13047,1991
+2003,Week 7,2003-03-15,REG,7,45,Carolina Cobras,95,Georgia Force,37,45,False,9699,1976
+2003,Week 7,2003-03-16,REG,7,44,Los Angeles Avengers,71,Indiana Firebirds,42,20,False,10028,2020
+2003,Week 7,2003-03-16,REG,7,72,New York Dragons,46,Detroit Fury,65,57,True,9888,2033
+2003,Week 7,2003-03-16,REG,7,13,Orlando Predators,12,Tampa Bay Storm,32,52,False,15054,2046
+2003,Week 7,2003-03-16,REG,7,40,Grand Rapids Rampage,86,Dallas Desperados,45,42,False,14340,2062
+2003,Week 7,2003-03-16,REG,7,98,Colorado Crush,21,Arizona Rattlers,45,72,False,12843,2055
+2003,Week 7,2003-03-16,REG,7,64,Chicago Rush,102,Las Vegas Gladiators,68,48,False,8324,2082
+2003,Week 8,2003-03-21,REG,8,86,Dallas Desperados,45,Carolina Cobras,47,43,False,6401,2089
+2003,Week 8,2003-03-23,REG,8,95,Georgia Force,13,Orlando Predators,38,36,False,11088,1977
+2003,Week 8,2003-03-23,REG,8,102,Las Vegas Gladiators,42,Buffalo Destroyers,50,32,False,8936,1992
+2003,Week 8,2003-03-23,REG,8,12,Tampa Bay Storm,71,Indiana Firebirds,41,20,False,9457,2021
+2003,Week 8,2003-03-23,REG,8,72,New York Dragons,64,Chicago Rush,54,51,False,13805,2039
+2003,Week 8,2003-03-23,REG,8,40,Grand Rapids Rampage,44,Los Angeles Avengers,51,61,False,13849,2069
+2003,Week 8,2003-03-23,REG,8,46,Detroit Fury,98,Colorado Crush,69,56,False,17417,2027
+2003,Week 8,2003-03-23,REG,8,21,Arizona Rattlers,25,San Jose SaberCats,58,59,False,13046,2094
+2003,Week 9,2003-03-28,REG,9,21,Arizona Rattlers,12,Tampa Bay Storm,39,68,False,12204,2047
+2003,Week 9,2003-03-28,REG,9,45,Carolina Cobras,25,San Jose SaberCats,40,62,False,13141,2095
+2003,Week 9,2003-03-29,REG,9,64,Chicago Rush,40,Grand Rapids Rampage,34,48,False,10594,2012
+2003,Week 9,2003-03-29,REG,9,71,Indiana Firebirds,86,Dallas Desperados,62,55,False,13605,2063
+2003,Week 9,2003-03-29,REG,9,95,Georgia Force,102,Las Vegas Gladiators,41,46,False,9618,1978
+2003,Week 9,2003-03-30,REG,9,46,Detroit Fury,42,Buffalo Destroyers,34,14,False,7197,1993
+2003,Week 9,2003-03-30,REG,9,44,Los Angeles Avengers,13,Orlando Predators,64,63,False,11322,2006
+2003,Week 9,2003-03-30,REG,9,98,Colorado Crush,72,New York Dragons,52,61,False,10568,2077
+2003,Week 10,2003-04-04,REG,10,64,Chicago Rush,46,Detroit Fury,62,45,False,4812,2034
+2003,Week 10,2003-04-04,REG,10,45,Carolina Cobras,44,Los Angeles Avengers,48,63,False,12117,2070
+2003,Week 10,2003-04-05,REG,10,40,Grand Rapids Rampage,71,Indiana Firebirds,56,49,False,13023,2022
+2003,Week 10,2003-04-05,REG,10,98,Colorado Crush,102,Las Vegas Gladiators,34,68,False,9080,2083
+2003,Week 10,2003-04-06,REG,10,95,Georgia Force,12,Tampa Bay Storm,39,58,False,12374,1979
+2003,Week 10,2003-04-06,REG,10,42,Buffalo Destroyers,72,New York Dragons,46,39,False,9064,1994
+2003,Week 10,2003-04-06,REG,10,25,San Jose SaberCats,86,Dallas Desperados,64,67,False,13177,2064
+2003,Week 10,2003-04-06,REG,10,13,Orlando Predators,21,Arizona Rattlers,36,62,False,13112,2056
+2003,Week 11,2003-04-11,REG,11,42,Buffalo Destroyers,13,Orlando Predators,23,66,False,15016,1995
+2003,Week 11,2003-04-11,REG,11,12,Tampa Bay Storm,45,Carolina Cobras,45,38,True,6121,2090
+2003,Week 11,2003-04-11,REG,11,46,Detroit Fury,25,San Jose SaberCats,45,42,False,11563,2096
+2003,Week 11,2003-04-12,REG,11,72,New York Dragons,95,Georgia Force,34,27,False,8871,1980
+2003,Week 11,2003-04-13,REG,11,102,Las Vegas Gladiators,40,Grand Rapids Rampage,21,69,False,7909,2013
+2003,Week 11,2003-04-13,REG,11,86,Dallas Desperados,71,Indiana Firebirds,57,61,False,10956,2023
+2003,Week 11,2003-04-13,REG,11,64,Chicago Rush,98,Colorado Crush,76,58,False,17417,2028
+2003,Week 11,2003-04-13,REG,11,21,Arizona Rattlers,44,Los Angeles Avengers,82,76,True,12352,2071
+2003,Week 12,2003-04-18,REG,12,95,Georgia Force,45,Carolina Cobras,59,19,False,6138,1981
+2003,Week 12,2003-04-18,REG,12,42,Buffalo Destroyers,44,Los Angeles Avengers,14,65,False,11410,1996
+2003,Week 12,2003-04-19,REG,12,46,Detroit Fury,72,New York Dragons,40,69,False,10442,2078
+2003,Week 12,2003-04-19,REG,12,21,Arizona Rattlers,40,Grand Rapids Rampage,82,81,True,10594,2014
+2003,Week 12,2003-04-19,REG,12,71,Indiana Firebirds,25,San Jose SaberCats,71,73,False,13043,2097
+2003,Week 12,2003-04-20,REG,12,102,Las Vegas Gladiators,13,Orlando Predators,31,56,False,10159,2007
+2003,Week 12,2003-04-20,REG,12,86,Dallas Desperados,64,Chicago Rush,60,54,True,12103,2040
+2003,Week 12,2003-04-20,REG,12,98,Colorado Crush,12,Tampa Bay Storm,49,45,False,9404,2049
+2003,Week 13,2003-04-26,REG,13,71,Indiana Firebirds,42,Buffalo Destroyers,35,36,False,7691,1997
+2003,Week 13,2003-04-26,REG,13,13,Orlando Predators,95,Georgia Force,38,27,False,8052,1982
+2003,Week 13,2003-04-26,REG,13,45,Carolina Cobras,21,Arizona Rattlers,22,62,False,12611,2057
+2003,Week 13,2003-04-27,REG,13,25,San Jose SaberCats,98,Colorado Crush,65,49,False,17417,2029
+2003,Week 13,2003-04-27,REG,13,40,Grand Rapids Rampage,64,Chicago Rush,46,54,False,13050,2041
+2003,Week 13,2003-04-27,REG,13,44,Los Angeles Avengers,86,Dallas Desperados,57,60,False,10019,2065
+2003,Week 13,2003-04-27,REG,13,12,Tampa Bay Storm,72,New York Dragons,59,45,False,9767,2079
+2003,Week 13,2003-04-27,REG,13,46,Detroit Fury,102,Las Vegas Gladiators,45,58,False,10157,2084
+2003,Week 14,2003-05-01,REG,14,42,Buffalo Destroyers,46,Detroit Fury,48,50,False,4713,1998
+2003,Week 14,2003-05-03,REG,14,72,New York Dragons,102,Las Vegas Gladiators,43,42,False,10301,2085
+2003,Week 14,2003-05-03,REG,14,40,Grand Rapids Rampage,25,San Jose SaberCats,55,56,False,13406,2098
+2003,Week 14,2003-05-04,REG,14,95,Georgia Force,71,Indiana Firebirds,77,56,False,13271,1983
+2003,Week 14,2003-05-04,REG,14,13,Orlando Predators,98,Colorado Crush,48,42,True,17417,2024
+2003,Week 14,2003-05-04,REG,14,44,Los Angeles Avengers,21,Arizona Rattlers,63,49,False,13194,2058
+2003,Week 14,2003-05-04,REG,14,12,Tampa Bay Storm,86,Dallas Desperados,67,64,False,10368,2066
+2003,Week 14,2003-05-04,REG,14,64,Chicago Rush,45,Carolina Cobras,57,36,False,5751,2091
+2003,Week 15,2003-05-09,REG,15,45,Carolina Cobras,13,Orlando Predators,24,41,False,12752,2008
+2003,Week 15,2003-05-10,REG,15,86,Dallas Desperados,95,Georgia Force,56,55,False,8355,1984
+2003,Week 15,2003-05-10,REG,15,98,Colorado Crush,44,Los Angeles Avengers,34,45,False,13481,2072
+2003,Week 15,2003-05-11,REG,15,72,New York Dragons,42,Buffalo Destroyers,49,30,False,6116,1999
+2003,Week 15,2003-05-11,REG,15,71,Indiana Firebirds,40,Grand Rapids Rampage,71,68,False,8488,2015
+2003,Week 15,2003-05-11,REG,15,102,Las Vegas Gladiators,46,Detroit Fury,52,76,False,4914,2035
+2003,Week 15,2003-05-11,REG,15,21,Arizona Rattlers,64,Chicago Rush,56,44,False,12948,2042
+2003,Week 15,2003-05-11,REG,15,25,San Jose SaberCats,12,Tampa Bay Storm,47,34,False,11024,2050
+2003,Week 16,2003-05-16,REG,16,13,Orlando Predators,46,Detroit Fury,50,38,False,9478,2036
+2003,Week 16,2003-05-16,REG,16,72,New York Dragons,45,Carolina Cobras,63,47,False,6279,2092
+2003,Week 16,2003-05-17,REG,16,44,Los Angeles Avengers,25,San Jose SaberCats,43,47,False,15407,2099
+2003,Week 16,2003-05-18,REG,16,12,Tampa Bay Storm,95,Georgia Force,42,38,False,8066,1985
+2003,Week 16,2003-05-18,REG,16,86,Dallas Desperados,40,Grand Rapids Rampage,62,51,False,10594,2016
+2003,Week 16,2003-05-18,REG,16,21,Arizona Rattlers,98,Colorado Crush,59,48,False,17417,2030
+2003,Week 16,2003-05-18,REG,16,71,Indiana Firebirds,64,Chicago Rush,43,46,True,13375,2043
+2003,Week 16,2003-05-18,REG,16,42,Buffalo Destroyers,102,Las Vegas Gladiators,38,55,False,9701,2000
+2003,Playoffs Week 1,2003-05-24,POST,1,95,Georgia Force,86,Dallas Desperados,49,45,False,8112,2317
+2003,Playoffs Week 1,2003-05-25,POST,1,102,Las Vegas Gladiators,21,Arizona Rattlers,26,69,False,11862,2316
+2003,Playoffs Week 1,2003-05-25,POST,1,46,Detroit Fury,40,Grand Rapids Rampage,55,54,False,5562,2318
+2003,Playoffs Week 1,2003-05-25,POST,1,64,Chicago Rush,72,New York Dragons,45,48,False,9787,2319
+2003,Playoffs Week 2,2003-05-31,POST,2,46,Detroit Fury,12,Tampa Bay Storm,48,52,False,12322,2320
+2003,Playoffs Week 2,2003-05-31,POST,2,95,Georgia Force,25,San Jose SaberCats,48,69,False,10072,2321
+2003,Playoffs Week 2,2003-06-01,POST,2,21,Arizona Rattlers,44,Los Angeles Avengers,70,63,False,11215,2322
+2003,Playoffs Week 2,2003-06-01,POST,2,72,New York Dragons,13,Orlando Predators,62,69,False,11683,2323
+2003,Playoffs Week 3,2003-06-07,POST,3,13,Orlando Predators,12,Tampa Bay Storm,50,60,False,14028,2324
+2003,Playoffs Week 3,2003-06-08,POST,3,21,Arizona Rattlers,25,San Jose SaberCats,66,49,False,13263,2325
+2003,ArenaBowl XVII,2003-06-22,POST,4,21,Arizona Rattlers,12,Tampa Bay Storm,29,43,False,20496,2326

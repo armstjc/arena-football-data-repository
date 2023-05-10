@@ -1,0 +1,74 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1994,Week 1,1994-05-20,REG,1,13,Orlando Predators,21,Arizona Rattlers,38,28,False,14568,273
+1994,Week 1,1994-05-21,REG,1,18,Charlotte Rage,12,Tampa Bay Storm,44,39,False,16150,274
+1994,Week 1,1994-05-21,REG,1,16,Cleveland Thunderbolts,10,Albany Firebirds,46,70,False,12277,275
+1994,Week 1,1994-05-21,REG,1,26,Miami Hooters,29,Las Vegas Sting,35,22,False,10109,276
+1994,Week 1,1994-05-23,REG,1,22,Milwaukee Mustangs,28,Fort Worth Cavalry,28,65,False,2852,277
+1994,Week 2,1994-05-26,REG,2,39,Massachusetts Marauders,29,Las Vegas Sting,31,30,False,5038,278
+1994,Week 2,1994-05-27,REG,2,18,Charlotte Rage,26,Miami Hooters,23,45,False,7600,279
+1994,Week 2,1994-05-27,REG,2,13,Orlando Predators,22,Milwaukee Mustangs,58,24,False,14087,280
+1994,Week 2,1994-05-28,REG,2,16,Cleveland Thunderbolts,21,Arizona Rattlers,40,64,False,14892,281
+1994,Week 2,1994-05-28,REG,2,12,Tampa Bay Storm,10,Albany Firebirds,45,71,False,11882,282
+1994,Week 2,1994-05-30,REG,2,39,Massachusetts Marauders,28,Fort Worth Cavalry,38,28,False,3360,283
+1994,Week 3,1994-06-03,REG,3,10,Albany Firebirds,26,Miami Hooters,42,23,False,7100,284
+1994,Week 3,1994-06-03,REG,3,29,Las Vegas Sting,13,Orlando Predators,9,38,False,13995,285
+1994,Week 3,1994-06-04,REG,3,21,Arizona Rattlers,16,Cleveland Thunderbolts,41,33,False,5122,286
+1994,Week 3,1994-06-04,REG,3,28,Fort Worth Cavalry,12,Tampa Bay Storm,45,58,False,14995,287
+1994,Week 3,1994-06-04,REG,3,22,Milwaukee Mustangs,18,Charlotte Rage,10,51,False,11800,288
+1994,Week 4,1994-06-10,REG,4,28,Fort Worth Cavalry,18,Charlotte Rage,54,30,False,9631,289
+1994,Week 4,1994-06-10,REG,4,29,Las Vegas Sting,22,Milwaukee Mustangs,32,24,False,12155,290
+1994,Week 4,1994-06-10,REG,4,26,Miami Hooters,13,Orlando Predators,21,53,False,13995,291
+1994,Week 4,1994-06-11,REG,4,39,Massachusetts Marauders,21,Arizona Rattlers,35,37,False,14477,292
+1994,Week 4,1994-06-11,REG,4,12,Tampa Bay Storm,16,Cleveland Thunderbolts,40,33,False,4127,293
+1994,Week 5,1994-06-17,REG,5,13,Orlando Predators,39,Massachusetts Marauders,48,44,False,7261,294
+1994,Week 5,1994-06-18,REG,5,18,Charlotte Rage,21,Arizona Rattlers,52,59,False,15311,295
+1994,Week 5,1994-06-18,REG,5,16,Cleveland Thunderbolts,29,Las Vegas Sting,22,26,False,3962,296
+1994,Week 5,1994-06-20,REG,5,10,Albany Firebirds,28,Fort Worth Cavalry,45,41,False,3541,297
+1994,Week 5,1994-06-20,REG,5,22,Milwaukee Mustangs,26,Miami Hooters,27,35,False,7414,298
+1994,Week 6,1994-06-24,REG,6,28,Fort Worth Cavalry,22,Milwaukee Mustangs,50,44,False,13703,299
+1994,Week 6,1994-06-24,REG,6,39,Massachusetts Marauders,18,Charlotte Rage,55,37,False,9167,300
+1994,Week 6,1994-06-25,REG,6,29,Las Vegas Sting,16,Cleveland Thunderbolts,20,46,False,8322,301
+1994,Week 6,1994-06-25,REG,6,26,Miami Hooters,12,Tampa Bay Storm,32,47,False,19031,302
+1994,Week 6,1994-06-25,REG,6,13,Orlando Predators,10,Albany Firebirds,63,48,False,13652,303
+1994,Week 7,1994-06-30,REG,7,39,Massachusetts Marauders,16,Cleveland Thunderbolts,57,48,False,5523,304
+1994,Week 7,1994-07-01,REG,7,10,Albany Firebirds,22,Milwaukee Mustangs,50,27,False,15055,305
+1994,Week 7,1994-07-01,REG,7,12,Tampa Bay Storm,13,Orlando Predators,40,61,False,14015,306
+1994,Week 7,1994-07-02,REG,7,21,Arizona Rattlers,29,Las Vegas Sting,50,7,False,5018,307
+1994,Week 7,1994-07-04,REG,7,18,Charlotte Rage,28,Fort Worth Cavalry,20,42,False,9631,308
+1994,Week 8,1994-07-08,REG,8,16,Cleveland Thunderbolts,18,Charlotte Rage,23,43,False,8898,309
+1994,Week 8,1994-07-08,REG,8,29,Las Vegas Sting,39,Massachusetts Marauders,45,63,False,5907,310
+1994,Week 8,1994-07-09,REG,8,28,Fort Worth Cavalry,10,Albany Firebirds,64,65,True,11201,311
+1994,Week 8,1994-07-09,REG,8,22,Milwaukee Mustangs,12,Tampa Bay Storm,35,69,False,20266,313
+1994,Week 8,1994-07-09,REG,8,26,Miami Hooters,21,Arizona Rattlers,26,41,False,15505,312
+1994,Week 9,1994-07-15,REG,9,21,Arizona Rattlers,26,Miami Hooters,52,66,False,8312,314
+1994,Week 9,1994-07-15,REG,9,18,Charlotte Rage,13,Orlando Predators,14,68,False,14015,315
+1994,Week 9,1994-07-16,REG,9,10,Albany Firebirds,16,Cleveland Thunderbolts,62,40,False,5244,316
+1994,Week 9,1994-07-16,REG,9,22,Milwaukee Mustangs,39,Massachusetts Marauders,51,58,False,7223,317
+1994,Week 9,1994-07-18,REG,9,12,Tampa Bay Storm,28,Fort Worth Cavalry,53,43,False,3103,318
+1994,Week 10,1994-07-22,REG,10,16,Cleveland Thunderbolts,22,Milwaukee Mustangs,42,41,False,15169,319
+1994,Week 10,1994-07-23,REG,10,21,Arizona Rattlers,10,Albany Firebirds,33,39,False,13153,320
+1994,Week 10,1994-07-23,REG,10,39,Massachusetts Marauders,12,Tampa Bay Storm,50,51,False,18007,322
+1994,Week 10,1994-07-23,REG,10,28,Fort Worth Cavalry,29,Las Vegas Sting,37,47,False,5414,321
+1994,Week 10,1994-07-23,REG,10,13,Orlando Predators,26,Miami Hooters,42,20,False,12478,323
+1994,Week 11,1994-07-29,REG,11,16,Cleveland Thunderbolts,13,Orlando Predators,32,41,False,14067,324
+1994,Week 11,1994-07-29,REG,11,29,Las Vegas Sting,28,Fort Worth Cavalry,35,32,False,7021,325
+1994,Week 11,1994-07-29,REG,11,26,Miami Hooters,18,Charlotte Rage,25,44,False,10897,326
+1994,Week 11,1994-07-30,REG,11,10,Albany Firebirds,39,Massachusetts Marauders,43,62,False,8335,327
+1994,Week 11,1994-07-30,REG,11,12,Tampa Bay Storm,21,Arizona Rattlers,21,48,False,15505,328
+1994,Week 12,1994-08-05,REG,12,28,Fort Worth Cavalry,26,Miami Hooters,58,27,False,8872,330
+1994,Week 12,1994-08-05,REG,12,18,Charlotte Rage,39,Massachusetts Marauders,56,49,False,8646,329
+1994,Week 12,1994-08-06,REG,12,21,Arizona Rattlers,13,Orlando Predators,21,46,False,14015,331
+1994,Week 12,1994-08-06,REG,12,22,Milwaukee Mustangs,10,Albany Firebirds,35,55,False,11941,332
+1994,Week 12,1994-08-06,REG,12,12,Tampa Bay Storm,29,Las Vegas Sting,58,63,False,8941,333
+1994,Week 13,1994-08-12,REG,13,29,Las Vegas Sting,21,Arizona Rattlers,46,51,False,15102,335
+1994,Week 13,1994-08-12,REG,13,10,Albany Firebirds,18,Charlotte Rage,52,28,False,9460,334
+1994,Week 13,1994-08-12,REG,13,39,Massachusetts Marauders,22,Milwaukee Mustangs,44,30,False,15220,336
+1994,Week 13,1994-08-13,REG,13,26,Miami Hooters,16,Cleveland Thunderbolts,43,40,False,5822,337
+1994,Week 13,1994-08-13,REG,13,13,Orlando Predators,12,Tampa Bay Storm,39,40,False,20819,338
+1994,Playoffs Week 1,1994-08-19,POST,1,28,Fort Worth Cavalry,13,Orlando Predators,14,34,False,14047,
+1994,Playoffs Week 1,1994-08-20,POST,1,18,Charlotte Rage,21,Arizona Rattlers,24,52,False,12178,
+1994,Playoffs Week 1,1994-08-20,POST,1,29,Las Vegas Sting,10,Albany Firebirds,30,49,False,11713,
+1994,Playoffs Week 1,1994-08-20,POST,1,12,Tampa Bay Storm,39,Massachusetts Marauders,51,58,False,6858,
+1994,Playoffs Week 2,1994-08-26,POST,2,39,Massachusetts Marauders,13,Orlando Predators,42,51,False,14047,
+1994,Playoffs Week 2,1994-08-27,POST,2,21,Arizona Rattlers,10,Albany Firebirds,40,33,False,11762,
+1994,ArenaBowl VIII,1994-09-02,POST,3,21,Arizona Rattlers,13,Orlando Predators,36,31,False,14368,225

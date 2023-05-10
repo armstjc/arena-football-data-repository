@@ -1,0 +1,43 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1988,,1988-04-16,,0,5,Pittsburgh Gladiators,8,New York Knights,21,14,False,,
+1988,,1988-04-16,,0,7,Los Angeles Cobras,9,New England Steamrollers,51,58,False,,
+1988,,1988-04-16,,0,6,Detroit Drive,2,Chicago Bruisers,53,22,False,,
+1988,Week 1,1988-04-28,REG,1,5,Pittsburgh Gladiators,6,Detroit Drive,57,51,False,16752,14
+1988,Week 1,1988-04-29,REG,1,2,Chicago Bruisers,9,New England Steamrollers,60,35,False,8374,15
+1988,Week 1,1988-04-30,REG,1,8,New York Knights,7,Los Angeles Cobras,60,52,False,10157,16
+1988,Week 2,1988-05-06,REG,2,7,Los Angeles Cobras,2,Chicago Bruisers,35,46,False,8123,17
+1988,Week 2,1988-05-07,REG,2,9,New England Steamrollers,5,Pittsburgh Gladiators,26,82,False,8212,18
+1988,Week 2,1988-05-09,REG,2,6,Detroit Drive,8,New York Knights,54,48,False,13667,19
+1988,Week 3,1988-05-13,REG,3,6,Detroit Drive,9,New England Steamrollers,29,24,False,5842,20
+1988,Week 3,1988-05-14,REG,3,8,New York Knights,2,Chicago Bruisers,7,30,False,5427,22
+1988,Week 3,1988-05-14,REG,3,7,Los Angeles Cobras,5,Pittsburgh Gladiators,43,61,False,10137,21
+1988,Week 4,1988-05-19,REG,4,2,Chicago Bruisers,6,Detroit Drive,35,29,False,15782,23
+1988,Week 4,1988-05-21,REG,4,8,New York Knights,9,New England Steamrollers,13,24,False,6812,24
+1988,Week 4,1988-05-21,REG,4,5,Pittsburgh Gladiators,7,Los Angeles Cobras,32,66,False,6236,25
+1988,Week 5,1988-05-26,REG,5,9,New England Steamrollers,7,Los Angeles Cobras,20,27,False,5278,26
+1988,Week 5,1988-05-27,REG,5,6,Detroit Drive,2,Chicago Bruisers,31,36,False,7825,27
+1988,Week 5,1988-05-27,REG,5,8,New York Knights,5,Pittsburgh Gladiators,36,46,False,7577,28
+1988,Week 6,1988-06-02,REG,6,5,Pittsburgh Gladiators,6,Detroit Drive,25,30,False,11046,29
+1988,Week 6,1988-06-03,REG,6,2,Chicago Bruisers,9,New England Steamrollers,30,21,False,5112,30
+1988,Week 6,1988-06-06,REG,6,7,Los Angeles Cobras,8,New York Knights,36,22,False,6558,31
+1988,Week 7,1988-06-10,REG,7,7,Los Angeles Cobras,6,Detroit Drive,26,39,False,12831,32
+1988,Week 7,1988-06-11,REG,7,5,Pittsburgh Gladiators,9,New England Steamrollers,45,39,False,2171,33
+1988,Week 7,1988-06-13,REG,7,2,Chicago Bruisers,8,New York Knights,64,34,False,6037,34
+1988,Week 8,1988-06-16,REG,8,6,Detroit Drive,7,Los Angeles Cobras,38,14,False,6861,35
+1988,Week 8,1988-06-18,REG,8,9,New England Steamrollers,8,New York Knights,33,28,False,6516,36
+1988,Week 8,1988-06-20,REG,8,5,Pittsburgh Gladiators,2,Chicago Bruisers,25,46,False,8811,37
+1988,Week 9,1988-06-23,REG,9,6,Detroit Drive,8,New York Knights,49,9,False,6303,38
+1988,Week 9,1988-06-24,REG,9,2,Chicago Bruisers,5,Pittsburgh Gladiators,54,47,False,8234,39
+1988,Week 9,1988-06-25,REG,9,7,Los Angeles Cobras,9,New England Steamrollers,49,34,False,5933,40
+1988,Week 10,1988-07-01,REG,10,9,New England Steamrollers,2,Chicago Bruisers,25,68,False,7972,42
+1988,Week 10,1988-07-01,REG,10,6,Detroit Drive,5,Pittsburgh Gladiators,28,9,False,6115,41
+1988,Week 10,1988-07-02,REG,10,8,New York Knights,7,Los Angeles Cobras,40,30,False,6248,43
+1988,Week 11,1988-07-09,REG,11,7,Los Angeles Cobras,2,Chicago Bruisers,48,20,False,9868,44
+1988,Week 11,1988-07-09,REG,11,9,New England Steamrollers,6,Detroit Drive,10,46,False,14731,45
+1988,Week 11,1988-07-11,REG,11,5,Pittsburgh Gladiators,8,New York Knights,44,28,False,7484,46
+1988,Week 12,1988-07-14,REG,12,2,Chicago Bruisers,7,Los Angeles Cobras,37,37,True,10263,47
+1988,Week 12,1988-07-15,REG,12,8,New York Knights,6,Detroit Drive,17,48,False,13431,48
+1988,Week 12,1988-07-16,REG,12,9,New England Steamrollers,5,Pittsburgh Gladiators,44,34,False,7730,49
+1988,Playoffs Week 1,1988-07-22,POST,1,5,Pittsburgh Gladiators,6,Detroit Drive,25,34,False,15135,50
+1988,Playoffs Week 1,1988-07-23,POST,1,7,Los Angeles Cobras,2,Chicago Bruisers,16,29,False,8119,51
+1988,ArenaBowl II,1988-07-30,POST,2,6,Detroit Drive,2,Chicago Bruisers,24,13,False,15018,52

@@ -1,0 +1,144 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2005,Week 1,2005-01-28,REG,1,111,Nashville Kats,103,Columbus Destroyers,47,38,False,17171,2732
+2005,Week 1,2005-01-28,REG,1,21,Arizona Rattlers,40,Grand Rapids Rampage,58,38,False,10284,2733
+2005,Week 1,2005-01-30,REG,1,99,Philadelphia Soul,104,Austin Wranglers,66,35,False,9883,2735
+2005,Week 1,2005-01-30,REG,1,98,Colorado Crush,13,Orlando Predators,36,39,False,12370,2736
+2005,Week 1,2005-01-30,REG,1,64,Chicago Rush,86,Dallas Desperados,65,66,True,11229,2716
+2005,Week 1,2005-01-30,REG,1,25,San Jose SaberCats,12,Tampa Bay Storm,33,63,False,13005,2724
+2005,Week 1,2005-01-30,REG,1,66,New Orleans VooDoo,95,Georgia Force,44,46,False,11328,2734
+2005,Week 1,2005-01-30,REG,1,44,Los Angeles Avengers,102,Las Vegas Gladiators,37,46,False,10042,2737
+2005,Week 2,2005-02-03,REG,2,13,Orlando Predators,21,Arizona Rattlers,51,40,False,10364,2738
+2005,Week 2,2005-02-04,REG,2,66,New Orleans VooDoo,111,Nashville Kats,59,34,False,16517,2805
+2005,Week 2,2005-02-04,REG,2,95,Georgia Force,44,Los Angeles Avengers,41,46,False,12488,2797
+2005,Week 2,2005-02-05,REG,2,40,Grand Rapids Rampage,98,Colorado Crush,56,72,False,15403,2761
+2005,Week 2,2005-02-05,REG,2,102,Las Vegas Gladiators,25,San Jose SaberCats,31,66,False,16221,2844
+2005,Week 2,2005-02-06,REG,2,104,Austin Wranglers,12,Tampa Bay Storm,45,62,False,10104,2725
+2005,Week 2,2005-02-06,REG,2,99,Philadelphia Soul,64,Chicago Rush,41,51,False,16036,2753
+2005,Week 2,2005-02-06,REG,2,86,Dallas Desperados,72,New York Dragons,45,55,False,14925,2821
+2005,Week 3,2005-02-11,REG,3,12,Tampa Bay Storm,13,Orlando Predators,46,61,False,14478,2829
+2005,Week 3,2005-02-11,REG,3,44,Los Angeles Avengers,104,Austin Wranglers,64,51,False,9441,2746
+2005,Week 3,2005-02-11,REG,3,72,New York Dragons,102,Las Vegas Gladiators,37,41,False,8226,2790
+2005,Week 3,2005-02-12,REG,3,21,Arizona Rattlers,95,Georgia Force,47,61,False,13297,2776
+2005,Week 3,2005-02-13,REG,3,103,Columbus Destroyers,86,Dallas Desperados,31,35,False,12126,2717
+2005,Week 3,2005-02-13,REG,3,64,Chicago Rush,98,Colorado Crush,51,48,False,16620,2762
+2005,Week 3,2005-02-13,REG,3,25,San Jose SaberCats,66,New Orleans VooDoo,61,62,False,12226,2813
+2005,Week 3,2005-02-13,REG,3,111,Nashville Kats,99,Philadelphia Soul,48,59,False,16632,2836
+2005,Week 4,2005-02-17,REG,4,13,Orlando Predators,86,Dallas Desperados,28,42,False,9816,2718
+2005,Week 4,2005-02-19,REG,4,64,Chicago Rush,103,Columbus Destroyers,39,52,False,17171,2769
+2005,Week 4,2005-02-19,REG,4,111,Nashville Kats,72,New York Dragons,49,62,False,10778,2822
+2005,Week 4,2005-02-19,REG,4,104,Austin Wranglers,40,Grand Rapids Rampage,73,61,False,6446,2783
+2005,Week 4,2005-02-19,REG,4,98,Colorado Crush,21,Arizona Rattlers,74,69,False,11840,2739
+2005,Week 4,2005-02-20,REG,4,99,Philadelphia Soul,66,New Orleans VooDoo,47,61,False,15169,2814
+2005,Week 4,2005-02-20,REG,4,95,Georgia Force,102,Las Vegas Gladiators,38,13,False,9722,2791
+2005,Week 4,2005-02-20,REG,4,25,San Jose SaberCats,44,Los Angeles Avengers,69,71,False,13088,2798
+2005,Week 5,2005-02-25,REG,5,12,Tampa Bay Storm,66,New Orleans VooDoo,42,48,True,16503,2815
+2005,Week 5,2005-02-25,REG,5,95,Georgia Force,104,Austin Wranglers,66,63,False,12558,2747
+2005,Week 5,2005-02-25,REG,5,13,Orlando Predators,64,Chicago Rush,48,35,False,14126,2754
+2005,Week 5,2005-02-26,REG,5,102,Las Vegas Gladiators,111,Nashville Kats,40,32,False,16420,2806
+2005,Week 5,2005-02-27,REG,5,44,Los Angeles Avengers,98,Colorado Crush,40,58,False,14042,2763
+2005,Week 5,2005-02-27,REG,5,103,Columbus Destroyers,40,Grand Rapids Rampage,57,66,False,6662,2784
+2005,Week 5,2005-02-27,REG,5,21,Arizona Rattlers,72,New York Dragons,37,61,False,11239,2823
+2005,Week 5,2005-02-27,REG,5,86,Dallas Desperados,99,Philadelphia Soul,72,43,False,16811,2837
+2005,Week 6,2005-03-04,REG,6,104,Austin Wranglers,102,Las Vegas Gladiators,42,41,False,9872,2792
+2005,Week 6,2005-03-05,REG,6,66,New Orleans VooDoo,86,Dallas Desperados,53,51,False,14281,2719
+2005,Week 6,2005-03-06,REG,6,25,San Jose SaberCats,13,Orlando Predators,57,38,False,13015,2830
+2005,Week 6,2005-03-06,REG,6,72,New York Dragons,99,Philadelphia Soul,61,54,False,16492,2838
+2005,Week 6,2005-03-06,REG,6,40,Grand Rapids Rampage,12,Tampa Bay Storm,50,70,False,16384,2726
+2005,Week 6,2005-03-06,REG,6,103,Columbus Destroyers,95,Georgia Force,48,55,False,14104,2777
+2005,Week 6,2005-03-06,REG,6,111,Nashville Kats,64,Chicago Rush,38,45,False,15881,2755
+2005,Week 6,2005-03-06,REG,6,44,Los Angeles Avengers,21,Arizona Rattlers,33,29,False,11308,2740
+2005,Week 7,2005-03-11,REG,7,99,Philadelphia Soul,25,San Jose SaberCats,26,52,False,13125,2845
+2005,Week 7,2005-03-12,REG,7,102,Las Vegas Gladiators,103,Columbus Destroyers,63,34,False,17171,2770
+2005,Week 7,2005-03-12,REG,7,95,Georgia Force,72,New York Dragons,51,53,False,11451,2824
+2005,Week 7,2005-03-12,REG,7,98,Colorado Crush,111,Nashville Kats,42,35,False,11628,2807
+2005,Week 7,2005-03-13,REG,7,21,Arizona Rattlers,12,Tampa Bay Storm,56,59,False,16004,2727
+2005,Week 7,2005-03-13,REG,7,64,Chicago Rush,40,Grand Rapids Rampage,48,45,False,8110,2785
+2005,Week 7,2005-03-13,REG,7,13,Orlando Predators,66,New Orleans VooDoo,63,52,False,16192,2816
+2005,Week 7,2005-03-13,REG,7,86,Dallas Desperados,104,Austin Wranglers,52,28,False,13125,2748
+2005,Week 8,2005-03-18,REG,8,86,Dallas Desperados,44,Los Angeles Avengers,72,50,False,11702,2799
+2005,Week 8,2005-03-18,REG,8,40,Grand Rapids Rampage,25,San Jose SaberCats,48,72,False,13036,2846
+2005,Week 8,2005-03-19,REG,8,13,Orlando Predators,95,Georgia Force,47,49,False,14226,2778
+2005,Week 8,2005-03-19,REG,8,72,New York Dragons,104,Austin Wranglers,47,57,False,13049,2749
+2005,Week 8,2005-03-19,REG,8,102,Las Vegas Gladiators,21,Arizona Rattlers,66,63,False,11346,2741
+2005,Week 8,2005-03-20,REG,8,66,New Orleans VooDoo,64,Chicago Rush,46,40,True,13614,2756
+2005,Week 8,2005-03-20,REG,8,12,Tampa Bay Storm,99,Philadelphia Soul,63,69,False,16542,2839
+2005,Week 8,2005-03-20,REG,8,103,Columbus Destroyers,98,Colorado Crush,37,52,False,14361,2764
+2005,Week 9,2005-03-25,REG,9,104,Austin Wranglers,13,Orlando Predators,21,51,False,13050,2831
+2005,Week 9,2005-03-25,REG,9,98,Colorado Crush,86,Dallas Desperados,66,58,False,13131,2720
+2005,Week 9,2005-03-26,REG,9,72,New York Dragons,103,Columbus Destroyers,56,55,False,14195,2771
+2005,Week 9,2005-03-26,REG,9,40,Grand Rapids Rampage,99,Philadelphia Soul,41,64,False,14308,2840
+2005,Week 9,2005-03-26,REG,9,95,Georgia Force,66,New Orleans VooDoo,43,40,False,16132,2817
+2005,Week 9,2005-03-26,REG,9,21,Arizona Rattlers,111,Nashville Kats,48,35,True,10126,2808
+2005,Week 9,2005-03-26,REG,9,12,Tampa Bay Storm,44,Los Angeles Avengers,28,59,False,12819,2800
+2005,Week 9,2005-03-28,REG,9,25,San Jose SaberCats,102,Las Vegas Gladiators,81,75,False,9277,2793
+2005,Week 10,2005-04-01,REG,10,66,New Orleans VooDoo,104,Austin Wranglers,55,56,False,13054,2750
+2005,Week 10,2005-04-02,REG,10,64,Chicago Rush,72,New York Dragons,44,43,False,11719,2825
+2005,Week 10,2005-04-02,REG,10,95,Georgia Force,12,Tampa Bay Storm,38,48,False,15114,2728
+2005,Week 10,2005-04-03,REG,10,99,Philadelphia Soul,103,Columbus Destroyers,62,45,False,15316,2772
+2005,Week 10,2005-04-03,REG,10,44,Los Angeles Avengers,13,Orlando Predators,54,55,True,13075,2832
+2005,Week 10,2005-04-03,REG,10,111,Nashville Kats,40,Grand Rapids Rampage,40,27,False,6297,2786
+2005,Week 10,2005-04-03,REG,10,102,Las Vegas Gladiators,98,Colorado Crush,40,61,False,13589,2765
+2005,Week 10,2005-04-03,REG,10,21,Arizona Rattlers,25,San Jose SaberCats,27,48,False,13114,2847
+2005,Week 11,2005-04-08,REG,11,104,Austin Wranglers,95,Georgia Force,53,56,False,12088,2779
+2005,Week 11,2005-04-08,REG,11,111,Nashville Kats,86,Dallas Desperados,41,41,True,12231,2721
+2005,Week 11,2005-04-08,REG,11,103,Columbus Destroyers,21,Arizona Rattlers,53,70,False,11181,2742
+2005,Week 11,2005-04-08,REG,11,40,Grand Rapids Rampage,102,Las Vegas Gladiators,28,56,False,8816,2794
+2005,Week 11,2005-04-09,REG,11,13,Orlando Predators,12,Tampa Bay Storm,42,54,False,18794,2729
+2005,Week 11,2005-04-10,REG,11,25,San Jose SaberCats,64,Chicago Rush,39,55,False,14865,2757
+2005,Week 11,2005-04-10,REG,11,99,Philadelphia Soul,98,Colorado Crush,56,77,False,3933,2766
+2005,Week 11,2005-04-10,REG,11,72,New York Dragons,44,Los Angeles Avengers,35,66,False,11708,2801
+2005,Week 12,2005-04-15,REG,12,40,Grand Rapids Rampage,95,Georgia Force,41,62,False,12181,2780
+2005,Week 12,2005-04-15,REG,12,72,New York Dragons,13,Orlando Predators,60,72,False,12940,2833
+2005,Week 12,2005-04-15,REG,12,86,Dallas Desperados,25,San Jose SaberCats,71,83,False,12816,2848
+2005,Week 12,2005-04-16,REG,12,103,Columbus Destroyers,66,New Orleans VooDoo,28,64,False,16108,2818
+2005,Week 12,2005-04-17,REG,12,98,Colorado Crush,64,Chicago Rush,51,75,False,12953,2758
+2005,Week 12,2005-04-17,REG,12,44,Los Angeles Avengers,111,Nashville Kats,48,51,False,7821,2809
+2005,Week 12,2005-04-17,REG,12,102,Las Vegas Gladiators,99,Philadelphia Soul,56,49,False,16514,2841
+2005,Week 12,2005-04-17,REG,12,12,Tampa Bay Storm,104,Austin Wranglers,54,42,False,12581,2751
+2005,Week 13,2005-04-22,REG,13,86,Dallas Desperados,103,Columbus Destroyers,55,33,False,13757,2773
+2005,Week 13,2005-04-22,REG,13,95,Georgia Force,13,Orlando Predators,49,52,False,14100,2834
+2005,Week 13,2005-04-22,REG,13,25,San Jose SaberCats,98,Colorado Crush,89,41,False,14571,2767
+2005,Week 13,2005-04-22,REG,13,104,Austin Wranglers,21,Arizona Rattlers,26,52,False,10962,2743
+2005,Week 13,2005-04-23,REG,13,66,New Orleans VooDoo,40,Grand Rapids Rampage,49,47,False,8422,2787
+2005,Week 13,2005-04-23,REG,13,64,Chicago Rush,44,Los Angeles Avengers,49,52,False,11904,2802
+2005,Week 13,2005-04-24,REG,13,12,Tampa Bay Storm,111,Nashville Kats,21,37,False,8026,2810
+2005,Week 13,2005-04-24,REG,13,99,Philadelphia Soul,72,New York Dragons,37,51,False,11056,2826
+2005,Week 14,2005-04-29,REG,14,72,New York Dragons,86,Dallas Desperados,65,57,False,12411,2722
+2005,Week 14,2005-04-29,REG,14,111,Nashville Kats,25,San Jose SaberCats,57,55,False,13345,2849
+2005,Week 14,2005-04-30,REG,14,104,Austin Wranglers,103,Columbus Destroyers,58,55,False,14064,2774
+2005,Week 14,2005-04-30,REG,14,13,Orlando Predators,99,Philadelphia Soul,60,64,False,14577,2842
+2005,Week 14,2005-04-30,REG,14,66,New Orleans VooDoo,12,Tampa Bay Storm,36,47,False,16501,2730
+2005,Week 14,2005-04-30,REG,14,98,Colorado Crush,40,Grand Rapids Rampage,52,58,False,6108,2788
+2005,Week 14,2005-04-30,REG,14,21,Arizona Rattlers,44,Los Angeles Avengers,56,59,False,11741,2803
+2005,Week 14,2005-05-01,REG,14,102,Las Vegas Gladiators,64,Chicago Rush,62,63,False,12994,2759
+2005,Week 15,2005-05-06,REG,15,64,Chicago Rush,21,Arizona Rattlers,43,61,False,12349,2744
+2005,Week 15,2005-05-07,REG,15,103,Columbus Destroyers,72,New York Dragons,44,56,False,11727,2827
+2005,Week 15,2005-05-07,REG,15,13,Orlando Predators,104,Austin Wranglers,42,56,False,14782,2752
+2005,Week 15,2005-05-07,REG,15,40,Grand Rapids Rampage,111,Nashville Kats,33,54,False,10033,2811
+2005,Week 15,2005-05-07,REG,15,86,Dallas Desperados,102,Las Vegas Gladiators,38,58,False,10028,2795
+2005,Week 15,2005-05-07,REG,15,44,Los Angeles Avengers,25,San Jose SaberCats,54,42,False,14203,2850
+2005,Week 15,2005-05-08,REG,15,12,Tampa Bay Storm,95,Georgia Force,40,52,False,10477,2781
+2005,Week 15,2005-05-08,REG,15,98,Colorado Crush,66,New Orleans VooDoo,63,57,False,14205,2819
+2005,Week 16,2005-05-13,REG,16,111,Nashville Kats,98,Colorado Crush,49,52,False,15514,2768
+2005,Week 16,2005-05-14,REG,16,86,Dallas Desperados,95,Georgia Force,56,63,False,14011,2782
+2005,Week 16,2005-05-14,REG,16,104,Austin Wranglers,66,New Orleans VooDoo,68,69,False,16169,2820
+2005,Week 16,2005-05-14,REG,16,25,San Jose SaberCats,21,Arizona Rattlers,44,54,False,12265,2745
+2005,Week 16,2005-05-14,REG,16,102,Las Vegas Gladiators,44,Los Angeles Avengers,60,63,False,11873,2804
+2005,Week 16,2005-05-15,REG,16,72,New York Dragons,12,Tampa Bay Storm,58,61,False,18244,2731
+2005,Week 16,2005-05-15,REG,16,40,Grand Rapids Rampage,64,Chicago Rush,51,40,False,15198,2760
+2005,Week 16,2005-05-15,REG,16,103,Columbus Destroyers,99,Philadelphia Soul,55,52,False,17092,2843
+2005,Week 17,2005-05-21,REG,17,98,Colorado Crush,72,New York Dragons,28,62,False,12487,2828
+2005,Week 17,2005-05-21,REG,17,44,Los Angeles Avengers,40,Grand Rapids Rampage,65,71,False,7595,2789
+2005,Week 17,2005-05-21,REG,17,95,Georgia Force,25,San Jose SaberCats,48,54,False,13892,2851
+2005,Week 17,2005-05-22,REG,17,99,Philadelphia Soul,86,Dallas Desperados,63,77,False,12273,2723
+2005,Week 17,2005-05-22,REG,17,12,Tampa Bay Storm,103,Columbus Destroyers,78,53,False,12990,2775
+2005,Week 17,2005-05-22,REG,17,21,Arizona Rattlers,102,Las Vegas Gladiators,49,42,False,9823,2796
+2005,Week 17,2005-05-22,REG,17,64,Chicago Rush,111,Nashville Kats,45,21,False,8806,2812
+2005,Week 17,2005-05-22,REG,17,66,New Orleans VooDoo,13,Orlando Predators,40,51,False,13590,2835
+2005,Playoffs Week 1,2005-05-29,POST,1,25,San Jose SaberCats,98,Colorado Crush,48,56,False,13315,3012
+2005,Playoffs Week 1,2005-05-29,POST,1,64,Chicago Rush,44,Los Angeles Avengers,52,45,False,9310,3013
+2005,Playoffs Week 1,2005-05-29,POST,1,13,Orlando Predators,72,New York Dragons,47,42,False,10831,3014
+2005,Playoffs Week 1,2005-05-29,POST,1,12,Tampa Bay Storm,95,Georgia Force,46,62,False,10579,3015
+2005,Playoffs Week 2,2005-06-04,POST,2,13,Orlando Predators,95,Georgia Force,58,60,False,14210,3016
+2005,Playoffs Week 2,2005-06-05,POST,2,64,Chicago Rush,98,Colorado Crush,43,49,True,13719,3017
+2005,ArenaBowl XIX,2005-06-12,POST,3,95,Georgia Force,98,Colorado Crush,48,51,False,10822,2715

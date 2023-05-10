@@ -1,0 +1,68 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1992,Week 1,1992-05-29,REG,1,12,Tampa Bay Storm,13,Orlando Predators,39,32,False,11312,137
+1992,Week 1,1992-05-29,REG,1,19,Sacramento Attack,11,Dallas Texans,27,49,False,5034,136
+1992,Week 1,1992-05-30,REG,1,21,Arizona Rattlers,10,Albany Firebirds,35,62,False,12260,138
+1992,Week 1,1992-05-30,REG,1,15,New Orleans Night,18,Charlotte Rage,23,43,False,17240,140
+1992,Week 1,1992-05-30,REG,1,20,San Antonio Force,16,Cleveland Thunderbolts,34,36,False,12323,141
+1992,Week 1,1992-05-30,REG,1,6,Detroit Drive,17,Cincinnati Rockers,34,37,False,13317,139
+1992,Week 2,1992-06-04,REG,2,13,Orlando Predators,19,Sacramento Attack,58,47,False,6601,142
+1992,Week 2,1992-06-06,REG,2,21,Arizona Rattlers,20,San Antonio Force,29,43,False,11308,143
+1992,Week 2,1992-06-06,REG,2,18,Charlotte Rage,16,Cleveland Thunderbolts,28,44,False,8543,144
+1992,Week 2,1992-06-06,REG,2,11,Dallas Texans,17,Cincinnati Rockers,13,64,False,12763,145
+1992,Week 2,1992-06-06,REG,2,6,Detroit Drive,10,Albany Firebirds,33,23,False,11562,146
+1992,Week 2,1992-06-06,REG,2,15,New Orleans Night,12,Tampa Bay Storm,60,64,False,16123,147
+1992,Week 3,1992-06-12,REG,3,12,Tampa Bay Storm,18,Charlotte Rage,39,37,False,14093,149
+1992,Week 3,1992-06-12,REG,3,17,Cincinnati Rockers,6,Detroit Drive,36,70,False,13327,148
+1992,Week 3,1992-06-13,REG,3,10,Albany Firebirds,11,Dallas Texans,37,27,False,5934,150
+1992,Week 3,1992-06-13,REG,3,20,San Antonio Force,13,Orlando Predators,0,50,False,11781,152
+1992,Week 3,1992-06-13,REG,3,19,Sacramento Attack,21,Arizona Rattlers,36,51,False,15505,151
+1992,Week 3,1992-06-15,REG,3,16,Cleveland Thunderbolts,15,New Orleans Night,30,15,False,8365,153
+1992,Week 4,1992-06-19,REG,4,11,Dallas Texans,18,Charlotte Rage,32,30,False,10123,156
+1992,Week 4,1992-06-19,REG,4,13,Orlando Predators,6,Detroit Drive,50,49,False,13483,157
+1992,Week 4,1992-06-20,REG,4,10,Albany Firebirds,17,Cincinnati Rockers,45,44,False,13403,158
+1992,Week 4,1992-06-20,REG,4,16,Cleveland Thunderbolts,12,Tampa Bay Storm,24,35,False,20535,159
+1992,Week 4,1992-06-20,REG,4,15,New Orleans Night,21,Arizona Rattlers,15,23,False,15505,160
+1992,Week 4,1992-06-20,REG,4,19,Sacramento Attack,20,San Antonio Force,38,15,False,11688,161
+1992,Week 5,1992-06-26,REG,5,21,Arizona Rattlers,19,Sacramento Attack,16,35,False,6215,162
+1992,Week 5,1992-06-27,REG,5,18,Charlotte Rage,13,Orlando Predators,26,29,False,12436,163
+1992,Week 5,1992-06-27,REG,5,17,Cincinnati Rockers,20,San Antonio Force,40,7,False,11705,164
+1992,Week 5,1992-06-27,REG,5,16,Cleveland Thunderbolts,10,Albany Firebirds,32,47,False,11926,165
+1992,Week 5,1992-06-27,REG,5,6,Detroit Drive,15,New Orleans Night,66,41,False,8173,166
+1992,Week 5,1992-06-27,REG,5,12,Tampa Bay Storm,11,Dallas Texans,49,37,False,6238,167
+1992,Week 6,1992-07-02,REG,6,6,Detroit Drive,16,Cleveland Thunderbolts,47,36,False,10747,168
+1992,Week 6,1992-07-02,REG,6,13,Orlando Predators,12,Tampa Bay Storm,48,33,False,20091,169
+1992,Week 6,1992-07-03,REG,6,18,Charlotte Rage,17,Cincinnati Rockers,34,39,False,14269,170
+1992,Week 6,1992-07-03,REG,6,11,Dallas Texans,21,Arizona Rattlers,35,42,False,15505,171
+1992,Week 6,1992-07-03,REG,6,15,New Orleans Night,10,Albany Firebirds,29,67,False,13624,172
+1992,Week 6,1992-07-06,REG,6,20,San Antonio Force,19,Sacramento Attack,35,65,False,7493,173
+1992,Week 7,1992-07-10,REG,7,10,Albany Firebirds,6,Detroit Drive,34,58,False,15366,174
+1992,Week 7,1992-07-10,REG,7,19,Sacramento Attack,18,Charlotte Rage,3,51,False,11598,175
+1992,Week 7,1992-07-11,REG,7,17,Cincinnati Rockers,16,Cleveland Thunderbolts,31,23,False,9316,176
+1992,Week 7,1992-07-11,REG,7,13,Orlando Predators,15,New Orleans Night,45,20,False,14392,177
+1992,Week 7,1992-07-11,REG,7,20,San Antonio Force,11,Dallas Texans,35,47,False,6672,178
+1992,Week 7,1992-07-11,REG,7,12,Tampa Bay Storm,21,Arizona Rattlers,59,28,False,15505,179
+1992,Week 8,1992-07-17,REG,8,21,Arizona Rattlers,13,Orlando Predators,21,71,False,12523,180
+1992,Week 8,1992-07-17,REG,8,19,Sacramento Attack,6,Detroit Drive,10,31,False,14710,181
+1992,Week 8,1992-07-18,REG,8,10,Albany Firebirds,12,Tampa Bay Storm,42,62,False,22464,182
+1992,Week 8,1992-07-18,REG,8,18,Charlotte Rage,15,New Orleans Night,38,33,False,7447,183
+1992,Week 8,1992-07-18,REG,8,16,Cleveland Thunderbolts,17,Cincinnati Rockers,20,62,False,14662,184
+1992,Week 8,1992-07-18,REG,8,11,Dallas Texans,20,San Antonio Force,40,41,False,12419,185
+1992,Week 9,1992-07-23,REG,9,11,Dallas Texans,19,Sacramento Attack,41,38,False,8226,186
+1992,Week 9,1992-07-24,REG,9,16,Cleveland Thunderbolts,6,Detroit Drive,20,38,False,16547,187
+1992,Week 9,1992-07-24,REG,9,13,Orlando Predators,18,Charlotte Rage,39,38,False,13186,188
+1992,Week 9,1992-07-25,REG,9,20,San Antonio Force,21,Arizona Rattlers,31,54,False,15505,190
+1992,Week 9,1992-07-25,REG,9,12,Tampa Bay Storm,15,New Orleans Night,53,14,False,9021,191
+1992,Week 9,1992-07-25,REG,9,17,Cincinnati Rockers,10,Albany Firebirds,50,40,False,13535,189
+1992,Week 10,1992-07-30,REG,10,17,Cincinnati Rockers,19,Sacramento Attack,48,55,True,8226,192
+1992,Week 10,1992-07-31,REG,10,15,New Orleans Night,13,Orlando Predators,8,62,False,12936,193
+1992,Week 10,1992-08-01,REG,10,10,Albany Firebirds,16,Cleveland Thunderbolts,25,46,False,9593,194
+1992,Week 10,1992-08-01,REG,10,18,Charlotte Rage,12,Tampa Bay Storm,32,39,False,21249,196
+1992,Week 10,1992-08-01,REG,10,6,Detroit Drive,20,San Antonio Force,62,27,False,12957,197
+1992,Week 10,1992-08-01,REG,10,21,Arizona Rattlers,11,Dallas Texans,20,33,False,7481,195
+1992,Playoffs Week 1,1992-08-07,POST,1,16,Cleveland Thunderbolts,13,Orlando Predators,12,50,False,11153,198
+1992,Playoffs Week 1,1992-08-07,POST,1,19,Sacramento Attack,6,Detroit Drive,23,48,False,13128,199
+1992,Playoffs Week 1,1992-08-08,POST,1,17,Cincinnati Rockers,12,Tampa Bay Storm,36,41,False,20231,200
+1992,Playoffs Week 1,1992-08-08,POST,1,11,Dallas Texans,10,Albany Firebirds,48,45,False,8329,201
+1992,Playoffs Week 2,1992-08-14,POST,2,11,Dallas Texans,6,Detroit Drive,14,57,False,16137,202
+1992,Playoffs Week 2,1992-08-15,POST,2,12,Tampa Bay Storm,13,Orlando Predators,21,24,True,13680,203
+1992,ArenaBowl VI,1992-08-22,POST,3,6,Detroit Drive,13,Orlando Predators,56,38,False,13680,204

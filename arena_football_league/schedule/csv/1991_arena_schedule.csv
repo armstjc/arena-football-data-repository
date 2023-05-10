@@ -1,0 +1,44 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+1991,Week 1,1991-05-31,REG,1,6,Detroit Drive,4,Denver Dynamite,31,13,False,4950,93
+1991,Week 1,1991-06-01,REG,1,11,Dallas Texans,14,Columbus Thunderbolts,33,12,False,3800,94
+1991,Week 1,1991-06-01,REG,1,13,Orlando Predators,12,Tampa Bay Storm,51,38,False,10354,96
+1991,Week 1,1991-06-01,REG,1,15,New Orleans Night,10,Albany Firebirds,20,45,False,10189,95
+1991,Week 2,1991-06-07,REG,2,10,Albany Firebirds,4,Denver Dynamite,27,51,False,4365,97
+1991,Week 2,1991-06-07,REG,2,13,Orlando Predators,6,Detroit Drive,27,56,False,14270,98
+1991,Week 2,1991-06-08,REG,2,15,New Orleans Night,11,Dallas Texans,27,23,False,8468,99
+1991,Week 2,1991-06-08,REG,2,12,Tampa Bay Storm,14,Columbus Thunderbolts,53,12,False,3000,100
+1991,Week 3,1991-06-13,REG,3,14,Columbus Thunderbolts,13,Orlando Predators,32,38,False,9737,101
+1991,Week 3,1991-06-14,REG,3,4,Denver Dynamite,11,Dallas Texans,27,30,False,5932,102
+1991,Week 3,1991-06-15,REG,3,6,Detroit Drive,10,Albany Firebirds,43,42,False,11051,103
+1991,Week 3,1991-06-15,REG,3,12,Tampa Bay Storm,15,New Orleans Night,27,17,False,8834,104
+1991,Week 4,1991-06-21,REG,4,6,Detroit Drive,13,Orlando Predators,43,40,True,12337,105
+1991,Week 4,1991-06-22,REG,4,10,Albany Firebirds,14,Columbus Thunderbolts,34,17,False,3964,106
+1991,Week 4,1991-06-22,REG,4,11,Dallas Texans,12,Tampa Bay Storm,48,56,False,15017,107
+1991,Week 4,1991-06-22,REG,4,4,Denver Dynamite,15,New Orleans Night,54,44,False,7425,108
+1991,Week 5,1991-06-27,REG,5,15,New Orleans Night,6,Detroit Drive,22,45,False,15344,109
+1991,Week 5,1991-06-29,REG,5,10,Albany Firebirds,12,Tampa Bay Storm,53,57,False,13961,110
+1991,Week 5,1991-06-29,REG,5,14,Columbus Thunderbolts,11,Dallas Texans,26,38,False,8463,111
+1991,Week 5,1991-06-29,REG,5,13,Orlando Predators,4,Denver Dynamite,19,39,False,6135,112
+1991,Week 6,1991-07-05,REG,6,11,Dallas Texans,15,New Orleans Night,37,39,False,7527,113
+1991,Week 6,1991-07-06,REG,6,4,Denver Dynamite,14,Columbus Thunderbolts,52,44,False,3683,114
+1991,Week 6,1991-07-06,REG,6,13,Orlando Predators,10,Albany Firebirds,36,44,False,9772,115
+1991,Week 6,1991-07-08,REG,6,12,Tampa Bay Storm,6,Detroit Drive,38,29,False,13410,116
+1991,Week 7,1991-07-12,REG,7,10,Albany Firebirds,13,Orlando Predators,28,25,False,13104,117
+1991,Week 7,1991-07-13,REG,7,14,Columbus Thunderbolts,15,New Orleans Night,15,47,False,7749,118
+1991,Week 7,1991-07-13,REG,7,4,Denver Dynamite,12,Tampa Bay Storm,13,30,False,24445,119
+1991,Week 7,1991-07-13,REG,7,6,Detroit Drive,11,Dallas Texans,38,13,False,9875,120
+1991,Week 8,1991-07-19,REG,8,6,Detroit Drive,14,Columbus Thunderbolts,56,20,False,5293,121
+1991,Week 8,1991-07-19,REG,8,15,New Orleans Night,13,Orlando Predators,29,44,False,12103,122
+1991,Week 8,1991-07-19,REG,8,12,Tampa Bay Storm,4,Denver Dynamite,34,51,False,7113,123
+1991,Week 8,1991-07-20,REG,8,11,Dallas Texans,10,Albany Firebirds,26,48,False,11901,124
+1991,Week 9,1991-07-26,REG,9,14,Columbus Thunderbolts,4,Denver Dynamite,46,52,True,8472,125
+1991,Week 9,1991-07-26,REG,9,11,Dallas Texans,6,Detroit Drive,10,36,False,18168,126
+1991,Week 9,1991-07-27,REG,9,10,Albany Firebirds,15,New Orleans Night,49,50,False,9502,127
+1991,Week 9,1991-07-27,REG,9,12,Tampa Bay Storm,13,Orlando Predators,26,16,False,13680,128
+1991,Week 10,1991-08-02,REG,10,4,Denver Dynamite,6,Detroit Drive,37,60,False,16584,129
+1991,Week 10,1991-08-02,REG,10,15,New Orleans Night,12,Tampa Bay Storm,19,62,False,21693,130
+1991,Week 10,1991-08-03,REG,10,14,Columbus Thunderbolts,10,Albany Firebirds,17,57,False,12116,131
+1991,Week 10,1991-08-03,REG,10,13,Orlando Predators,11,Dallas Texans,25,28,True,6244,132
+1991,Playoffs Week 1,1991-08-09,POST,1,4,Denver Dynamite,12,Tampa Bay Storm,13,40,False,18485,134
+1991,Playoffs Week 1,1991-08-09,POST,1,10,Albany Firebirds,6,Detroit Drive,35,37,False,18112,133
+1991,ArenaBowl V,1991-08-17,POST,2,12,Tampa Bay Storm,6,Detroit Drive,48,42,False,20357,135

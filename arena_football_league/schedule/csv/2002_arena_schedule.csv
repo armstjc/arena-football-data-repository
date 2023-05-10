@@ -1,0 +1,140 @@
+season,current_week,date,game_type,week_num,away_team_id,away_team_name,home_team_id,home_team_name,away_team_score,home_team_score,is_overtime_game,attendance,game_id
+2002,Preseason Week 1,2002-03-29,PRE,1,45,Carolina Cobras,25,San Jose SaberCats,64,66,False,8344,
+2002,Preseason Week 1,2002-03-30,PRE,1,42,Buffalo Destroyers,46,Detroit Fury,27,32,False,,
+2002,Preseason Week 1,2002-04-03,PRE,1,86,Dallas Desperados,12,Tampa Bay Storm,52,56,False,,
+2002,Preseason Week 1,2002-04-04,PRE,1,95,Georgia Force,44,Los Angeles Avengers,51,44,True,2002,
+2002,Preseason Week 1,2002-04-05,PRE,1,87,New Jersey Gladiators,72,New York Dragons,72,48,False,8236,
+2002,Preseason Week 1,2002-04-06,PRE,1,13,Orlando Predators,71,Indiana Firebirds,67,65,False,6224,
+2002,Preseason Week 1,2002-04-06,PRE,1,64,Chicago Rush,45,Carolina Cobras,56,25,False,5000,
+2002,Preseason Week 1,2002-04-06,PRE,1,70,Toronto Phantoms,40,Grand Rapids Rampage,46,47,False,5887,
+2002,Preseason Week 1,2002-04-09,PRE,1,21,Arizona Rattlers,46,Detroit Fury,46,36,False,6818,
+2002,Preseason Week 2,2002-04-11,PRE,2,72,New York Dragons,70,Toronto Phantoms,42,51,False,7717,
+2002,Preseason Week 2,2002-04-11,PRE,2,40,Grand Rapids Rampage,42,Buffalo Destroyers,48,51,False,4898,
+2002,Preseason Week 2,2002-04-12,PRE,2,25,San Jose SaberCats,95,Georgia Force,68,35,False,9032,
+2002,Preseason Week 2,2002-04-12,PRE,2,12,Tampa Bay Storm,13,Orlando Predators,64,53,False,,
+2002,Preseason Week 2,2002-04-12,PRE,2,44,Los Angeles Avengers,64,Chicago Rush,38,64,False,8624,
+2002,Preseason Week 2,2002-04-13,PRE,2,71,Indiana Firebirds,87,New Jersey Gladiators,35,47,False,,
+2002,Preseason Week 2,2002-04-13,PRE,2,86,Dallas Desperados,21,Arizona Rattlers,36,44,False,10715,
+2002,Week 1,2002-04-19,REG,1,87,New Jersey Gladiators,42,Buffalo Destroyers,51,53,False,7093,1544
+2002,Week 1,2002-04-19,REG,1,64,Chicago Rush,71,Indiana Firebirds,47,42,False,9123,1545
+2002,Week 1,2002-04-19,REG,1,72,New York Dragons,44,Los Angeles Avengers,25,43,False,13142,1546
+2002,Week 1,2002-04-20,REG,1,86,Dallas Desperados,45,Carolina Cobras,57,44,False,8962,1547
+2002,Week 1,2002-04-20,REG,1,46,Detroit Fury,40,Grand Rapids Rampage,45,49,False,10454,1548
+2002,Week 1,2002-04-20,REG,1,70,Toronto Phantoms,12,Tampa Bay Storm,51,37,False,12373,1549
+2002,Week 1,2002-04-20,REG,1,13,Orlando Predators,95,Georgia Force,49,67,False,8257,1550
+2002,Week 1,2002-04-20,REG,1,21,Arizona Rattlers,25,San Jose SaberCats,51,52,False,13622,1551
+2002,Week 2,2002-04-25,REG,2,46,Detroit Fury,70,Toronto Phantoms,30,50,False,7107,1552
+2002,Week 2,2002-04-26,REG,2,45,Carolina Cobras,95,Georgia Force,55,54,False,8462,1553
+2002,Week 2,2002-04-26,REG,2,64,Chicago Rush,13,Orlando Predators,38,49,False,11244,1554
+2002,Week 2,2002-04-27,REG,2,25,San Jose SaberCats,12,Tampa Bay Storm,61,54,False,11344,1555
+2002,Week 2,2002-04-27,REG,2,71,Indiana Firebirds,40,Grand Rapids Rampage,49,43,False,10485,1557
+2002,Week 2,2002-04-27,REG,2,44,Los Angeles Avengers,21,Arizona Rattlers,59,63,False,11899,1558
+2002,Week 2,2002-04-28,REG,2,42,Buffalo Destroyers,72,New York Dragons,54,69,False,8762,1559
+2002,Week 2,2002-04-28,REG,2,86,Dallas Desperados,87,New Jersey Gladiators,44,45,False,4550,1556
+2002,Week 3,2002-05-04,REG,3,12,Tampa Bay Storm,45,Carolina Cobras,36,46,False,9314,1560
+2002,Week 3,2002-05-04,REG,3,42,Buffalo Destroyers,46,Detroit Fury,48,50,False,7141,1561
+2002,Week 3,2002-05-04,REG,3,87,New Jersey Gladiators,13,Orlando Predators,45,44,False,11690,1562
+2002,Week 3,2002-05-04,REG,3,40,Grand Rapids Rampage,64,Chicago Rush,59,71,False,11104,1563
+2002,Week 3,2002-05-04,REG,3,72,New York Dragons,71,Indiana Firebirds,45,52,False,8923,1564
+2002,Week 3,2002-05-04,REG,3,44,Los Angeles Avengers,86,Dallas Desperados,52,51,False,15196,1565
+2002,Week 3,2002-05-04,REG,3,70,Toronto Phantoms,21,Arizona Rattlers,47,58,False,11775,1566
+2002,Week 3,2002-05-04,REG,3,95,Georgia Force,25,San Jose SaberCats,53,59,False,13023,1567
+2002,Week 4,2002-05-09,REG,4,71,Indiana Firebirds,70,Toronto Phantoms,36,45,False,7912,1568
+2002,Week 4,2002-05-10,REG,4,21,Arizona Rattlers,95,Georgia Force,51,40,False,7103,1570
+2002,Week 4,2002-05-10,REG,4,64,Chicago Rush,12,Tampa Bay Storm,53,66,False,9387,1571
+2002,Week 4,2002-05-11,REG,4,46,Detroit Fury,42,Buffalo Destroyers,21,49,False,7991,1569
+2002,Week 4,2002-05-11,REG,4,86,Dallas Desperados,72,New York Dragons,72,61,False,8476,1572
+2002,Week 4,2002-05-11,REG,4,13,Orlando Predators,40,Grand Rapids Rampage,55,69,False,9588,1573
+2002,Week 4,2002-05-11,REG,4,45,Carolina Cobras,87,New Jersey Gladiators,40,28,False,5346,1574
+2002,Week 4,2002-05-11,REG,4,44,Los Angeles Avengers,25,San Jose SaberCats,44,78,False,13016,1576
+2002,Week 5,2002-05-17,REG,5,25,San Jose SaberCats,13,Orlando Predators,77,45,False,11871,1577
+2002,Week 5,2002-05-17,REG,5,40,Grand Rapids Rampage,45,Carolina Cobras,64,45,False,9514,1578
+2002,Week 5,2002-05-17,REG,5,12,Tampa Bay Storm,44,Los Angeles Avengers,24,38,False,11961,1579
+2002,Week 5,2002-05-18,REG,5,71,Indiana Firebirds,46,Detroit Fury,55,34,False,7144,1581
+2002,Week 5,2002-05-18,REG,5,72,New York Dragons,87,New Jersey Gladiators,69,76,True,5850,1582
+2002,Week 5,2002-05-18,REG,5,95,Georgia Force,64,Chicago Rush,62,70,False,8124,1575
+2002,Week 5,2002-05-18,REG,5,21,Arizona Rattlers,86,Dallas Desperados,53,30,False,14098,1583
+2002,Week 5,2002-05-18,REG,5,70,Toronto Phantoms,42,Buffalo Destroyers,46,49,False,8014,1580
+2002,Week 6,2002-05-24,REG,6,87,New Jersey Gladiators,70,Toronto Phantoms,45,38,False,7112,1584
+2002,Week 6,2002-05-24,REG,6,46,Detroit Fury,72,New York Dragons,37,44,False,9726,1585
+2002,Week 6,2002-05-24,REG,6,44,Los Angeles Avengers,95,Georgia Force,74,53,False,5512,1586
+2002,Week 6,2002-05-24,REG,6,13,Orlando Predators,71,Indiana Firebirds,40,37,False,9641,1587
+2002,Week 6,2002-05-25,REG,6,42,Buffalo Destroyers,40,Grand Rapids Rampage,45,47,False,9782,1588
+2002,Week 6,2002-05-25,REG,6,45,Carolina Cobras,12,Tampa Bay Storm,49,45,False,14856,1589
+2002,Week 6,2002-05-25,REG,6,64,Chicago Rush,21,Arizona Rattlers,41,52,False,15007,1590
+2002,Week 6,2002-05-25,REG,6,86,Dallas Desperados,25,San Jose SaberCats,54,77,False,13117,1591
+2002,Week 7,2002-05-31,REG,7,45,Carolina Cobras,13,Orlando Predators,30,33,False,11599,1592
+2002,Week 7,2002-05-31,REG,7,12,Tampa Bay Storm,71,Indiana Firebirds,53,52,False,10023,1593
+2002,Week 7,2002-05-31,REG,7,40,Grand Rapids Rampage,21,Arizona Rattlers,71,53,False,13716,1597
+2002,Week 7,2002-06-01,REG,7,25,San Jose SaberCats,42,Buffalo Destroyers,63,35,False,6714,1594
+2002,Week 7,2002-06-01,REG,7,70,Toronto Phantoms,72,New York Dragons,63,38,False,9734,1595
+2002,Week 7,2002-06-01,REG,7,95,Georgia Force,46,Detroit Fury,49,34,False,5498,1596
+2002,Week 7,2002-06-01,REG,7,86,Dallas Desperados,44,Los Angeles Avengers,62,55,False,12309,1598
+2002,Week 7,2002-06-02,REG,7,87,New Jersey Gladiators,64,Chicago Rush,14,44,False,7094,1599
+2002,Week 8,2002-06-07,REG,8,21,Arizona Rattlers,45,Carolina Cobras,48,42,True,8735,1600
+2002,Week 8,2002-06-08,REG,8,72,New York Dragons,42,Buffalo Destroyers,35,40,False,6769,1601
+2002,Week 8,2002-06-08,REG,8,40,Grand Rapids Rampage,87,New Jersey Gladiators,42,70,False,5992,1602
+2002,Week 8,2002-06-08,REG,8,46,Detroit Fury,64,Chicago Rush,17,53,False,7374,1603
+2002,Week 8,2002-06-08,REG,8,71,Indiana Firebirds,86,Dallas Desperados,65,79,False,11364,1604
+2002,Week 8,2002-06-08,REG,8,25,San Jose SaberCats,44,Los Angeles Avengers,52,33,False,10122,1605
+2002,Week 8,2002-06-09,REG,8,12,Tampa Bay Storm,13,Orlando Predators,48,45,False,12855,1607
+2002,Week 8,2002-06-09,REG,8,70,Toronto Phantoms,95,Georgia Force,22,35,False,5689,1606
+2002,Week 9,2002-06-13,REG,9,42,Buffalo Destroyers,70,Toronto Phantoms,55,27,False,6728,1608
+2002,Week 9,2002-06-14,REG,9,95,Georgia Force,45,Carolina Cobras,53,42,False,9149,1609
+2002,Week 9,2002-06-14,REG,9,46,Detroit Fury,71,Indiana Firebirds,38,56,False,9562,1613
+2002,Week 9,2002-06-15,REG,9,13,Orlando Predators,72,New York Dragons,52,33,False,11036,1610
+2002,Week 9,2002-06-15,REG,9,44,Los Angeles Avengers,40,Grand Rapids Rampage,68,61,False,10454,1611
+2002,Week 9,2002-06-15,REG,9,87,New Jersey Gladiators,12,Tampa Bay Storm,55,33,False,15394,1612
+2002,Week 9,2002-06-15,REG,9,64,Chicago Rush,25,San Jose SaberCats,68,74,False,13543,1614
+2002,Week 9,2002-06-16,REG,9,86,Dallas Desperados,21,Arizona Rattlers,36,33,False,12418,1615
+2002,Week 10,2002-06-21,REG,10,70,Toronto Phantoms,13,Orlando Predators,47,34,False,12624,1616
+2002,Week 10,2002-06-22,REG,10,64,Chicago Rush,46,Detroit Fury,52,38,False,6060,1617
+2002,Week 10,2002-06-22,REG,10,12,Tampa Bay Storm,86,Dallas Desperados,56,62,True,13050,1618
+2002,Week 10,2002-06-22,REG,10,71,Indiana Firebirds,21,Arizona Rattlers,21,34,False,13353,1620
+2002,Week 10,2002-06-22,REG,10,45,Carolina Cobras,44,Los Angeles Avengers,32,62,False,11706,1619
+2002,Week 10,2002-06-22,REG,10,72,New York Dragons,25,San Jose SaberCats,41,65,False,13717,1621
+2002,Week 10,2002-06-23,REG,10,95,Georgia Force,40,Grand Rapids Rampage,41,42,False,8475,1623
+2002,Week 10,2002-06-23,REG,10,42,Buffalo Destroyers,87,New Jersey Gladiators,52,45,False,5862,1622
+2002,Week 11,2002-06-27,REG,11,44,Los Angeles Avengers,70,Toronto Phantoms,58,44,False,7024,1624
+2002,Week 11,2002-06-28,REG,11,21,Arizona Rattlers,42,Buffalo Destroyers,69,42,False,7691,1625
+2002,Week 11,2002-06-28,REG,11,13,Orlando Predators,45,Carolina Cobras,52,48,False,9869,1626
+2002,Week 11,2002-06-29,REG,11,87,New Jersey Gladiators,46,Detroit Fury,62,45,False,6218,1627
+2002,Week 11,2002-06-29,REG,11,12,Tampa Bay Storm,95,Georgia Force,50,40,False,8432,1628
+2002,Week 11,2002-06-29,REG,11,40,Grand Rapids Rampage,71,Indiana Firebirds,42,56,False,11045,1629
+2002,Week 11,2002-06-29,REG,11,25,San Jose SaberCats,86,Dallas Desperados,58,41,False,13660,1630
+2002,Week 11,2002-06-30,REG,11,72,New York Dragons,64,Chicago Rush,45,55,False,12544,1631
+2002,Week 12,2002-07-04,REG,12,45,Carolina Cobras,70,Toronto Phantoms,58,44,False,5629,1632
+2002,Week 12,2002-07-05,REG,12,71,Indiana Firebirds,25,San Jose SaberCats,41,52,False,14414,1633
+2002,Week 12,2002-07-06,REG,12,42,Buffalo Destroyers,95,Georgia Force,33,54,False,6034,1634
+2002,Week 12,2002-07-06,REG,12,64,Chicago Rush,40,Grand Rapids Rampage,56,50,False,10103,1635
+2002,Week 12,2002-07-06,REG,12,87,New Jersey Gladiators,72,New York Dragons,76,50,False,9212,1636
+2002,Week 12,2002-07-06,REG,12,46,Detroit Fury,86,Dallas Desperados,54,61,False,11552,1637
+2002,Week 12,2002-07-06,REG,12,21,Arizona Rattlers,44,Los Angeles Avengers,52,46,True,13120,1638
+2002,Week 12,2002-07-07,REG,12,13,Orlando Predators,12,Tampa Bay Storm,55,48,False,11784,1639
+2002,Week 13,2002-07-12,REG,13,45,Carolina Cobras,42,Buffalo Destroyers,52,31,False,6685,1640
+2002,Week 13,2002-07-12,REG,13,25,San Jose SaberCats,21,Arizona Rattlers,52,59,False,17034,1641
+2002,Week 13,2002-07-13,REG,13,40,Grand Rapids Rampage,72,New York Dragons,54,45,False,7036,1647
+2002,Week 13,2002-07-13,REG,13,12,Tampa Bay Storm,46,Detroit Fury,49,47,False,7284,1642
+2002,Week 13,2002-07-13,REG,13,70,Toronto Phantoms,87,New Jersey Gladiators,55,57,True,5650,1643
+2002,Week 13,2002-07-13,REG,13,95,Georgia Force,13,Orlando Predators,41,40,False,14277,1644
+2002,Week 13,2002-07-13,REG,13,86,Dallas Desperados,64,Chicago Rush,52,58,True,10234,1645
+2002,Week 13,2002-07-14,REG,13,44,Los Angeles Avengers,71,Indiana Firebirds,53,56,False,12286,1646
+2002,Week 14,2002-07-18,REG,14,72,New York Dragons,70,Toronto Phantoms,66,65,True,7312,1648
+2002,Week 14,2002-07-19,REG,14,40,Grand Rapids Rampage,46,Detroit Fury,63,60,False,7180,1649
+2002,Week 14,2002-07-20,REG,14,21,Arizona Rattlers,87,New Jersey Gladiators,53,45,False,6341,1650
+2002,Week 14,2002-07-20,REG,14,95,Georgia Force,12,Tampa Bay Storm,61,67,True,12097,1651
+2002,Week 14,2002-07-20,REG,14,71,Indiana Firebirds,64,Chicago Rush,51,41,False,8544,1652
+2002,Week 14,2002-07-20,REG,14,13,Orlando Predators,86,Dallas Desperados,44,41,False,16300,1653
+2002,Week 14,2002-07-20,REG,14,42,Buffalo Destroyers,44,Los Angeles Avengers,41,46,False,14427,1654
+2002,Week 14,2002-07-21,REG,14,25,San Jose SaberCats,45,Carolina Cobras,58,41,False,10377,1655
+2002,Playoffs Week 1,2002-07-26,POST,1,42,Buffalo Destroyers,13,Orlando Predators,27,32,False,9137,1949
+2002,Playoffs Week 1,2002-07-27,POST,1,71,Indiana Firebirds,86,Dallas Desperados,46,47,False,11751,1952
+2002,Playoffs Week 1,2002-07-27,POST,1,12,Tampa Bay Storm,44,Los Angeles Avengers,66,41,False,9203,1953
+2002,Playoffs Week 1,2002-07-28,POST,1,45,Carolina Cobras,40,Grand Rapids Rampage,72,64,False,6759,1954
+2002,Playoffs Week 2,2002-08-03,POST,2,12,Tampa Bay Storm,25,San Jose SaberCats,48,55,False,13074,1946
+2002,Playoffs Week 2,2002-08-03,POST,2,13,Orlando Predators,87,New Jersey Gladiators,49,46,False,6034,1945
+2002,Playoffs Week 2,2002-08-04,POST,2,45,Carolina Cobras,21,Arizona Rattlers,59,61,False,11882,1947
+2002,Playoffs Week 2,2002-08-05,POST,2,86,Dallas Desperados,64,Chicago Rush,47,60,False,12744,1948
+2002,Playoffs Week 3,2002-08-10,POST,3,13,Orlando Predators,25,San Jose SaberCats,40,52,False,13466,1950
+2002,Playoffs Week 3,2002-08-11,POST,3,64,Chicago Rush,21,Arizona Rattlers,35,46,False,12794,1951
+2002,ArenaBowl XVI,2002-08-18,POST,4,21,Arizona Rattlers,25,San Jose SaberCats,14,52,False,16942,1944
